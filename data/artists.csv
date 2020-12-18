@@ -1,0 +1,3501 @@
+,artist_id,artist_name,artist_genre,artist_popularity,artist_followers
+0,0,Frank Sinatra,1,85,4367053
+1,1,Dean Martin,1,81,1002145
+2,2,Perry Como,1,75,288057
+3,3,Johann Sebastian Bach,2,79,2936106
+4,4,Ella Fitzgerald,1,77,1800735
+5,5,Louis Armstrong,1,75,2151204
+6,6,London Symphony Orchestra,3,76,208417
+7,7,Wolfgang Amadeus Mozart,4,77,3777757
+8,8,Frédéric Chopin,4,76,2206803
+9,9,Berliner Philharmoniker,4,74,129242
+10,10,Tony Bennett,1,73,589080
+11,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+12,12,Ludwig van Beethoven,4,75,3563939
+13,13,Mitchell Ayres & His Orchestra,0,70,366
+14,14,Gene Autry,1,69,36191
+15,15,Traditional,5,72,31894
+16,16,Claude Debussy,4,70,1043323
+17,17,Royal Philharmonic Orchestra,3,72,97345
+18,18,Peggy Lee,1,66,277972
+19,19,Boris Karloff,6,61,3989
+20,20,Johnny Mathis,1,65,249097
+21,21,Erik Satie,4,69,503359
+22,22,Wiener Philharmoniker,7,70,80992
+23,23,Marty Robbins,8,63,278996
+24,24,George Frideric Handel,2,69,576161
+25,25,London Philharmonic Orchestra,3,69,235798
+26,26,Miles Davis,9,66,1966449
+27,27,The Drifters,1,64,317028
+28,28,Herbert von Karajan,4,69,111464
+29,29,Johannes Brahms,4,65,641033
+30,30,Franz Schubert,4,66,763136
+31,31,Leonard Bernstein,10,63,133882
+32,32,Boston Pops Orchestra,1,61,16550
+33,33,José Alfredo Jimenez,11,65,1013876
+34,34,Franz Liszt,4,64,512821
+35,35,Sergei Rachmaninoff,4,64,420697
+36,36,Maurice Ravel,4,62,332625
+37,37,Doris Day,1,63,270959
+38,38,Edvard Grieg,4,64,367491
+39,39,Felix Mendelssohn,4,62,351081
+40,40,Antonín Dvořák,4,62,374414
+41,41,Dave Brubeck,10,60,287919
+42,42,Philadelphia Orchestra,12,62,26242
+43,43,Robert Schumann,4,61,390026
+44,44,Javier Solís,13,64,958579
+45,45,Giacomo Puccini,4,64,298549
+46,46,New York Philharmonic,12,59,75324
+47,47,Ray Conniff,1,62,176679
+48,48,New York City Ballet Orchestra,0,54,2241
+49,49,Zubin Mehta,14,62,19414
+50,50,Thelonious Monk,9,58,459702
+51,51,Boston Symphony Orchestra,12,59,41231
+52,52,Philharmonia Orchestra,3,61,42577
+53,53,Franz Joseph Haydn,4,59,431028
+54,54,Arthur Fiedler,15,55,5899
+55,55,Steel Pulse,16,56,421024
+56,56,Tammy Wynette,17,56,348937
+57,57,Eugene Ormandy,14,57,8077
+58,58,Sergei Prokofiev,4,58,174146
+59,59,Percy Faith & His Orchestra,1,55,36157
+60,60,Benny Goodman,1,56,270258
+61,61,Lata Mangeshkar,18,68,2316362
+62,62,Dmitri Shostakovich,4,59,240472
+63,63,Rosemary Clooney,1,54,90093
+64,64,Django Reinhardt,9,57,286840
+65,65,George Gershwin,10,56,190761
+66,66,Disney Studio Chorus,19,54,48949
+67,67,The Chordettes,1,56,76444
+68,68,Dizzy Gillespie,9,55,318850
+69,69,Aaron Copland,10,52,68025
+70,70,Giuseppe Verdi,4,62,428294
+71,71,Jean Sibelius,4,58,152666
+72,72,Richard Wagner,4,58,436454
+73,73,Georges Bizet,4,58,162629
+74,74,Tennessee Ernie Ford,20,52,42791
+75,75,Sir Georg Solti,21,58,11315
+76,76,Kishore Kumar,18,67,2239127
+77,77,Béla Bartók,4,52,71280
+78,78,Charles Mingus,22,53,326811
+79,79,Sonny Rollins,9,54,238503
+80,80,Igor Stravinsky,4,53,245639
+81,81,Gustav Mahler,4,56,189952
+82,82,Pierre Boulez,23,55,27693
+83,83,The Mellomen,24,51,1766
+84,84,S. P. Balasubrahmanyam,25,69,1043452
+85,85,Concertgebouworkest,4,57,33430
+86,86,Christoph Willibald Gluck,4,54,27408
+87,87,Jaci Velasquez,26,56,79730
+88,88,Charles Gounod,4,55,18751
+89,89,Danny Kaye,27,49,27992
+90,90,Eddy Arnold,1,49,52996
+91,91,Johann Strauss II,4,57,311683
+92,92,Paul Weston And His Orchestra,0,53,1237
+93,93,Gioachino Rossini,4,56,145227
+94,94,MGM Studio Orchestra,28,47,10149
+95,95,Ray Price,17,48,87232
+96,96,Lester Young,9,52,99549
+97,97,Shekhar Ravjiani,25,63,119790
+98,98,Benny Carter,9,51,16423
+99,99,Ahmad Jamal,9,50,89780
+100,46,New York Philharmonic,12,59,75324
+101,47,Ray Conniff,1,62,176679
+102,50,Thelonious Monk,9,58,459702
+103,53,Franz Joseph Haydn,4,59,431028
+104,54,Arthur Fiedler,15,55,5899
+105,100,Edward Elgar,29,59,119006
+106,101,The Dave Brubeck Quartet,9,59,164782
+107,57,Eugene Ormandy,14,57,8077
+108,59,Percy Faith & His Orchestra,1,55,36157
+109,102,Charlie Parker,9,57,427047
+110,61,Lata Mangeshkar,18,68,2316362
+111,103,Chicago Symphony Orchestra,12,59,50737
+112,62,Dmitri Shostakovich,4,59,240472
+113,63,Rosemary Clooney,1,54,90093
+114,104,Dick Van Dyke,30,54,21693
+115,105,June Carter Cash,0,55,29644
+116,106,Sarah Vaughan,1,57,446386
+117,67,The Chordettes,1,56,76444
+118,68,Dizzy Gillespie,9,55,318850
+119,107,Leroy Anderson,10,52,6679
+120,70,Giuseppe Verdi,4,62,428294
+121,71,Jean Sibelius,4,58,152666
+122,72,Richard Wagner,4,58,436454
+123,73,Georges Bizet,4,58,162629
+124,75,Sir Georg Solti,21,58,11315
+125,76,Kishore Kumar,18,67,2239127
+126,81,Gustav Mahler,4,56,189952
+127,108,Jimmy Durante,1,51,73044
+128,109,Mstislav Rostropovich,4,54,43211
+129,84,S. P. Balasubrahmanyam,25,69,1043452
+130,85,Concertgebouworkest,4,57,33430
+131,110,Maurizio Pollini,4,55,38906
+132,86,Christoph Willibald Gluck,4,54,27408
+133,88,Charles Gounod,4,55,18751
+134,89,Danny Kaye,27,49,27992
+135,111,Karl Böhm,14,56,6917
+136,92,Paul Weston And His Orchestra,0,53,1237
+137,93,Gioachino Rossini,4,56,145227
+138,112,Domenico Scarlatti,2,53,97063
+139,94,MGM Studio Orchestra,28,47,10149
+140,113,Franz Xaver Gruber,0,52,1090
+141,97,Shekhar Ravjiani,25,63,119790
+142,114,Fairuz,31,58,607918
+143,115,Erroll Garner,1,52,61393
+144,116,Coleman Hawkins,9,52,92495
+145,117,Adolphe Adam,32,54,3767
+146,118,Jean-Philippe Rameau,2,53,50996
+147,119,Jules Massenet,4,52,21158
+148,120,Asha Bhosle,33,62,1659584
+149,121,MGM Studio Chorus,0,45,1238
+150,122,Oscar Peterson Trio,1,60,122611
+151,45,Giacomo Puccini,4,64,298549
+152,46,New York Philharmonic,12,59,75324
+153,123,Glenn Gould,34,62,169204
+154,50,Thelonious Monk,9,58,459702
+155,124,Gayla Peevey,35,54,2724
+156,51,Boston Symphony Orchestra,12,59,41231
+157,125,Édith Piaf,36,64,749040
+158,52,Philharmonia Orchestra,3,61,42577
+159,53,Franz Joseph Haydn,4,59,431028
+160,54,Arthur Fiedler,15,55,5899
+161,126,Ralph Vaughan Williams,4,57,69754
+162,100,Edward Elgar,29,59,119006
+163,127,Dinah Washington,1,60,313395
+164,101,The Dave Brubeck Quartet,9,59,164782
+165,57,Eugene Ormandy,14,57,8077
+166,58,Sergei Prokofiev,4,58,174146
+167,59,Percy Faith & His Orchestra,1,55,36157
+168,60,Benny Goodman,1,56,270258
+169,102,Charlie Parker,9,57,427047
+170,61,Lata Mangeshkar,18,68,2316362
+171,128,Seiji Ozawa,14,57,38172
+172,103,Chicago Symphony Orchestra,12,59,50737
+173,129,Philippe Entremont,14,56,2488
+174,64,Django Reinhardt,9,57,286840
+175,65,George Gershwin,10,56,190761
+176,130,Cass County Boys,0,53,165
+177,68,Dizzy Gillespie,9,55,318850
+178,107,Leroy Anderson,10,52,6679
+179,69,Aaron Copland,10,52,68025
+180,70,Giuseppe Verdi,4,62,428294
+181,71,Jean Sibelius,4,58,152666
+182,72,Richard Wagner,4,58,436454
+183,73,Georges Bizet,4,58,162629
+184,74,Tennessee Ernie Ford,20,52,42791
+185,75,Sir Georg Solti,21,58,11315
+186,76,Kishore Kumar,18,67,2239127
+187,77,Béla Bartók,4,52,71280
+188,78,Charles Mingus,22,53,326811
+189,79,Sonny Rollins,9,54,238503
+190,80,Igor Stravinsky,4,53,245639
+191,81,Gustav Mahler,4,56,189952
+192,109,Mstislav Rostropovich,4,54,43211
+193,85,Concertgebouworkest,4,57,33430
+194,86,Christoph Willibald Gluck,4,54,27408
+195,131,Tommy Dorsey,1,50,77968
+196,88,Charles Gounod,4,55,18751
+197,132,The Chords,37,52,12645
+198,91,Johann Strauss II,4,57,311683
+199,111,Karl Böhm,14,56,6917
+200,133,English Chamber Orchestra,3,66,14110
+201,134,Antônio Carlos Jobim,1,68,421735
+202,135,George Benson,1,67,465625
+203,136,Oscar Peterson,1,62,162064
+204,137,Anonymous,0,63,10901
+205,34,Franz Liszt,4,64,512821
+206,35,Sergei Rachmaninoff,4,64,420697
+207,36,Maurice Ravel,4,62,332625
+208,37,Doris Day,1,63,270959
+209,38,Edvard Grieg,4,64,367491
+210,138,André Previn,21,64,27266
+211,139,John Travolta,30,67,75320
+212,140,João Gilberto,38,66,380257
+213,141,David Zinman,14,59,3926
+214,142,Pritam,39,75,2207248
+215,39,Felix Mendelssohn,4,62,351081
+216,40,Antonín Dvořák,4,62,374414
+217,41,Dave Brubeck,10,60,287919
+218,143,Harry Belafonte,1,60,123434
+219,43,Robert Schumann,4,61,390026
+220,144,Claudio Abbado,14,65,36997
+221,145,Sweet,40,62,273988
+222,146,Herbie Hancock,9,60,469325
+223,147,Orpheus Chamber Orchestra,12,61,6238
+224,122,Oscar Peterson Trio,1,60,122611
+225,45,Giacomo Puccini,4,64,298549
+226,46,New York Philharmonic,12,59,75324
+227,50,Thelonious Monk,9,58,459702
+228,49,Zubin Mehta,14,62,19414
+229,124,Gayla Peevey,35,54,2724
+230,51,Boston Symphony Orchestra,12,59,41231
+231,125,Édith Piaf,36,64,749040
+232,52,Philharmonia Orchestra,3,61,42577
+233,53,Franz Joseph Haydn,4,59,431028
+234,148,Wynton Marsalis,9,57,171571
+235,149,Quincy Jones,1,59,205199
+236,150,Cleveland Orchestra,12,59,7978
+237,100,Edward Elgar,29,59,119006
+238,127,Dinah Washington,1,60,313395
+239,101,The Dave Brubeck Quartet,9,59,164782
+240,151,Harry James,1,55,52781
+241,58,Sergei Prokofiev,4,58,174146
+242,59,Percy Faith & His Orchestra,1,55,36157
+243,60,Benny Goodman,1,56,270258
+244,102,Charlie Parker,9,57,427047
+245,61,Lata Mangeshkar,18,68,2316362
+246,152,San Francisco Symphony,12,60,19652
+247,103,Chicago Symphony Orchestra,12,59,50737
+248,62,Dmitri Shostakovich,4,59,240472
+249,63,Rosemary Clooney,1,54,90093
+250,153,The Fisk Jubilee Singers,41,55,2208
+251,154,Mel Tormé,1,61,118019
+252,44,Javier Solís,13,64,958579
+253,122,Oscar Peterson Trio,1,60,122611
+254,45,Giacomo Puccini,4,64,298549
+255,46,New York Philharmonic,12,59,75324
+256,47,Ray Conniff,1,62,176679
+257,123,Glenn Gould,34,62,169204
+258,50,Thelonious Monk,9,58,459702
+259,48,New York City Ballet Orchestra,0,54,2241
+260,49,Zubin Mehta,14,62,19414
+261,51,Boston Symphony Orchestra,12,59,41231
+262,125,Édith Piaf,36,64,749040
+263,52,Philharmonia Orchestra,3,61,42577
+264,53,Franz Joseph Haydn,4,59,431028
+265,54,Arthur Fiedler,15,55,5899
+266,150,Cleveland Orchestra,12,59,7978
+267,100,Edward Elgar,29,59,119006
+268,155,Henri Rene & His Orchestra,0,59,192
+269,156,Fats Domino,1,58,327077
+270,127,Dinah Washington,1,60,313395
+271,101,The Dave Brubeck Quartet,9,59,164782
+272,151,Harry James,1,55,52781
+273,57,Eugene Ormandy,14,57,8077
+274,58,Sergei Prokofiev,4,58,174146
+275,59,Percy Faith & His Orchestra,1,55,36157
+276,102,Charlie Parker,9,57,427047
+277,61,Lata Mangeshkar,18,68,2316362
+278,103,Chicago Symphony Orchestra,12,59,50737
+279,62,Dmitri Shostakovich,4,59,240472
+280,63,Rosemary Clooney,1,54,90093
+281,129,Philippe Entremont,14,56,2488
+282,64,Django Reinhardt,9,57,286840
+283,65,George Gershwin,10,56,190761
+284,157,National Philharmonic Orchestra,42,60,7915
+285,66,Disney Studio Chorus,19,54,48949
+286,158,Gustav Holst,29,55,122962
+287,159,Riccardo Chailly,14,58,5762
+288,160,Vladimir Ashkenazy,4,57,48977
+289,106,Sarah Vaughan,1,57,446386
+290,67,The Chordettes,1,56,76444
+291,161,Thompson Twins,43,54,408096
+292,68,Dizzy Gillespie,9,55,318850
+293,69,Aaron Copland,10,52,68025
+294,70,Giuseppe Verdi,4,62,428294
+295,71,Jean Sibelius,4,58,152666
+296,162,Johnny Horton,17,51,123911
+297,72,Richard Wagner,4,58,436454
+298,73,Georges Bizet,4,58,162629
+299,163,Sammy Davis Jr.,1,56,344931
+300,30,Franz Schubert,4,66,763136
+301,31,Leonard Bernstein,10,63,133882
+302,133,English Chamber Orchestra,3,66,14110
+303,164,Bill Evans,9,63,433597
+304,165,Hank Williams,44,59,594297
+305,166,Julie Andrews,1,61,84324
+306,32,Boston Pops Orchestra,1,61,16550
+307,134,Antônio Carlos Jobim,1,68,421735
+308,136,Oscar Peterson,1,62,162064
+309,137,Anonymous,0,63,10901
+310,167,Daniel Barenboim,4,65,88401
+311,34,Franz Liszt,4,64,512821
+312,168,B.B. King,45,66,2059692
+313,35,Sergei Rachmaninoff,4,64,420697
+314,36,Maurice Ravel,4,62,332625
+315,169,John Anderson,17,56,292410
+316,37,Doris Day,1,63,270959
+317,38,Edvard Grieg,4,64,367491
+318,170,Celia Cruz,46,65,371810
+319,138,André Previn,21,64,27266
+320,141,David Zinman,14,59,3926
+321,171,Mormon Tabernacle Choir,47,57,68691
+322,39,Felix Mendelssohn,4,62,351081
+323,172,OMI,48,66,557245
+324,40,Antonín Dvořák,4,62,374414
+325,41,Dave Brubeck,10,60,287919
+326,173,Gabriel Fauré,4,61,145974
+327,143,Harry Belafonte,1,60,123434
+328,42,Philadelphia Orchestra,12,62,26242
+329,43,Robert Schumann,4,61,390026
+330,174,Dionne Warwick,1,65,542898
+331,175,Julie London,1,61,241359
+332,146,Herbie Hancock,9,60,469325
+333,44,Javier Solís,13,64,958579
+334,45,Giacomo Puccini,4,64,298549
+335,46,New York Philharmonic,12,59,75324
+336,47,Ray Conniff,1,62,176679
+337,123,Glenn Gould,34,62,169204
+338,50,Thelonious Monk,9,58,459702
+339,49,Zubin Mehta,14,62,19414
+340,51,Boston Symphony Orchestra,12,59,41231
+341,125,Édith Piaf,36,64,749040
+342,52,Philharmonia Orchestra,3,61,42577
+343,53,Franz Joseph Haydn,4,59,431028
+344,54,Arthur Fiedler,15,55,5899
+345,150,Cleveland Orchestra,12,59,7978
+346,126,Ralph Vaughan Williams,4,57,69754
+347,176,Henry Mancini,1,59,112116
+348,177,Deniece Williams,49,56,272928
+349,156,Fats Domino,1,58,327077
+350,178,Patsy Cline,1,61,536497
+351,179,Stan Getz,1,66,276918
+352,180,Camille Saint-Saëns,4,65,245467
+353,29,Johannes Brahms,4,65,641033
+354,30,Franz Schubert,4,66,763136
+355,31,Leonard Bernstein,10,63,133882
+356,133,English Chamber Orchestra,3,66,14110
+357,164,Bill Evans,9,63,433597
+358,166,Julie Andrews,1,61,84324
+359,32,Boston Pops Orchestra,1,61,16550
+360,136,Oscar Peterson,1,62,162064
+361,181,Leonard Cohen,50,70,2136091
+362,137,Anonymous,0,63,10901
+363,167,Daniel Barenboim,4,65,88401
+364,33,José Alfredo Jimenez,11,65,1013876
+365,34,Franz Liszt,4,64,512821
+366,168,B.B. King,45,66,2059692
+367,35,Sergei Rachmaninoff,4,64,420697
+368,36,Maurice Ravel,4,62,332625
+369,37,Doris Day,1,63,270959
+370,38,Edvard Grieg,4,64,367491
+371,170,Celia Cruz,46,65,371810
+372,138,André Previn,21,64,27266
+373,39,Felix Mendelssohn,4,62,351081
+374,182,Ricky Nelson,1,60,264863
+375,40,Antonín Dvořák,4,62,374414
+376,183,The Everly Brothers,1,62,487997
+377,41,Dave Brubeck,10,60,287919
+378,143,Harry Belafonte,1,60,123434
+379,42,Philadelphia Orchestra,12,62,26242
+380,43,Robert Schumann,4,61,390026
+381,145,Sweet,40,62,273988
+382,175,Julie London,1,61,241359
+383,153,The Fisk Jubilee Singers,41,55,2208
+384,184,Angela Lansbury,30,57,21678
+385,185,Sir David Willcocks,21,61,5981
+386,154,Mel Tormé,1,61,118019
+387,44,Javier Solís,13,64,958579
+388,122,Oscar Peterson Trio,1,60,122611
+389,45,Giacomo Puccini,4,64,298549
+390,46,New York Philharmonic,12,59,75324
+391,47,Ray Conniff,1,62,176679
+392,123,Glenn Gould,34,62,169204
+393,50,Thelonious Monk,9,58,459702
+394,49,Zubin Mehta,14,62,19414
+395,51,Boston Symphony Orchestra,12,59,41231
+396,52,Philharmonia Orchestra,3,61,42577
+397,53,Franz Joseph Haydn,4,59,431028
+398,54,Arthur Fiedler,15,55,5899
+399,186,Pedro Infante,13,64,943340
+400,28,Herbert von Karajan,4,69,111464
+401,187,Louis Prima,1,62,125455
+402,188,Duke Ellington,1,63,646290
+403,178,Patsy Cline,1,61,536497
+404,179,Stan Getz,1,66,276918
+405,180,Camille Saint-Saëns,4,65,245467
+406,29,Johannes Brahms,4,65,641033
+407,30,Franz Schubert,4,66,763136
+408,31,Leonard Bernstein,10,63,133882
+409,133,English Chamber Orchestra,3,66,14110
+410,166,Julie Andrews,1,61,84324
+411,189,Lou Reed,51,67,1243314
+412,32,Boston Pops Orchestra,1,61,16550
+413,136,Oscar Peterson,1,62,162064
+414,137,Anonymous,0,63,10901
+415,167,Daniel Barenboim,4,65,88401
+416,33,José Alfredo Jimenez,11,65,1013876
+417,34,Franz Liszt,4,64,512821
+418,168,B.B. King,45,66,2059692
+419,35,Sergei Rachmaninoff,4,64,420697
+420,36,Maurice Ravel,4,62,332625
+421,37,Doris Day,1,63,270959
+422,38,Edvard Grieg,4,64,367491
+423,190,Trio Vegabajeño,52,63,7201
+424,170,Celia Cruz,46,65,371810
+425,138,André Previn,21,64,27266
+426,39,Felix Mendelssohn,4,62,351081
+427,182,Ricky Nelson,1,60,264863
+428,40,Antonín Dvořák,4,62,374414
+429,183,The Everly Brothers,1,62,487997
+430,41,Dave Brubeck,10,60,287919
+431,173,Gabriel Fauré,4,61,145974
+432,143,Harry Belafonte,1,60,123434
+433,191,Buddy Holly,1,60,796427
+434,192,Ritchie Valens,1,58,344678
+435,42,Philadelphia Orchestra,12,62,26242
+436,43,Robert Schumann,4,61,390026
+437,144,Claudio Abbado,14,65,36997
+438,175,Julie London,1,61,241359
+439,193,Jackie Wilson,1,61,293564
+440,154,Mel Tormé,1,61,118019
+441,44,Javier Solís,13,64,958579
+442,122,Oscar Peterson Trio,1,60,122611
+443,45,Giacomo Puccini,4,64,298549
+444,46,New York Philharmonic,12,59,75324
+445,47,Ray Conniff,1,62,176679
+446,123,Glenn Gould,34,62,169204
+447,50,Thelonious Monk,9,58,459702
+448,194,Los Panchos,13,64,366755
+449,49,Zubin Mehta,14,62,19414
+450,195,The Platters,1,65,460076
+451,26,Miles Davis,9,66,1966449
+452,196,Sir Neville Marriner,14,67,23484
+453,197,Chet Baker,1,67,659550
+454,198,Bobby Darin,1,64,328651
+455,27,The Drifters,1,64,317028
+456,28,Herbert von Karajan,4,69,111464
+457,187,Louis Prima,1,62,125455
+458,199,Alvin & The Chipmunks,53,61,108557
+459,188,Duke Ellington,1,63,646290
+460,179,Stan Getz,1,66,276918
+461,180,Camille Saint-Saëns,4,65,245467
+462,29,Johannes Brahms,4,65,641033
+463,30,Franz Schubert,4,66,763136
+464,31,Leonard Bernstein,10,63,133882
+465,133,English Chamber Orchestra,3,66,14110
+466,164,Bill Evans,9,63,433597
+467,32,Boston Pops Orchestra,1,61,16550
+468,134,Antônio Carlos Jobim,1,68,421735
+469,136,Oscar Peterson,1,62,162064
+470,167,Daniel Barenboim,4,65,88401
+471,34,Franz Liszt,4,64,512821
+472,168,B.B. King,45,66,2059692
+473,35,Sergei Rachmaninoff,4,64,420697
+474,36,Maurice Ravel,4,62,332625
+475,37,Doris Day,1,63,270959
+476,38,Edvard Grieg,4,64,367491
+477,170,Celia Cruz,46,65,371810
+478,200,Donovan,51,61,468159
+479,138,André Previn,21,64,27266
+480,140,João Gilberto,38,66,380257
+481,201,The Byrds,51,60,650730
+482,171,Mormon Tabernacle Choir,47,57,68691
+483,39,Felix Mendelssohn,4,62,351081
+484,182,Ricky Nelson,1,60,264863
+485,202,David Seville,35,56,1451
+486,40,Antonín Dvořák,4,62,374414
+487,183,The Everly Brothers,1,62,487997
+488,203,Luciano Pavarotti,54,66,568659
+489,41,Dave Brubeck,10,60,287919
+490,173,Gabriel Fauré,4,61,145974
+491,143,Harry Belafonte,1,60,123434
+492,204,Harry Nilsson,51,62,277222
+493,191,Buddy Holly,1,60,796427
+494,192,Ritchie Valens,1,58,344678
+495,42,Philadelphia Orchestra,12,62,26242
+496,43,Robert Schumann,4,61,390026
+497,144,Claudio Abbado,14,65,36997
+498,205,Cliff Richard,1,67,211496
+499,206,The Jordanaires,55,57,3993
+500,25,London Philharmonic Orchestra,3,69,235798
+501,207,Ray Charles,1,68,1644795
+502,208,John Coltrane,9,66,1207117
+503,209,Count Basie,1,66,263264
+504,195,The Platters,1,65,460076
+505,26,Miles Davis,9,66,1966449
+506,210,Sting,56,73,2002014
+507,197,Chet Baker,1,67,659550
+508,198,Bobby Darin,1,64,328651
+509,211,Gilberto Santa Rosa,57,70,1282761
+510,212,Paul Anka,1,67,410702
+511,213,Barbra Streisand,1,69,842497
+512,214,Ennio Morricone,28,69,710536
+513,28,Herbert von Karajan,4,69,111464
+514,187,Louis Prima,1,62,125455
+515,199,Alvin & The Chipmunks,53,61,108557
+516,188,Duke Ellington,1,63,646290
+517,215,Roy Orbison,1,68,1131360
+518,179,Stan Getz,1,66,276918
+519,180,Camille Saint-Saëns,4,65,245467
+520,29,Johannes Brahms,4,65,641033
+521,30,Franz Schubert,4,66,763136
+522,31,Leonard Bernstein,10,63,133882
+523,133,English Chamber Orchestra,3,66,14110
+524,164,Bill Evans,9,63,433597
+525,216,Víctor Manuelle,57,67,937064
+526,166,Julie Andrews,1,61,84324
+527,32,Boston Pops Orchestra,1,61,16550
+528,134,Antônio Carlos Jobim,1,68,421735
+529,217,Kristin Chenoweth,58,61,127907
+530,136,Oscar Peterson,1,62,162064
+531,137,Anonymous,0,63,10901
+532,167,Daniel Barenboim,4,65,88401
+533,218,Lou Monte,35,58,6255
+534,33,José Alfredo Jimenez,11,65,1013876
+535,34,Franz Liszt,4,64,512821
+536,219,Bonnie Tyler,59,69,1027871
+537,168,B.B. King,45,66,2059692
+538,35,Sergei Rachmaninoff,4,64,420697
+539,220,John Eliot Gardiner,60,64,31828
+540,36,Maurice Ravel,4,62,332625
+541,221,Five For Fighting,61,61,597135
+542,37,Doris Day,1,63,270959
+543,38,Edvard Grieg,4,64,367491
+544,222,A.R. Rahman,62,74,9476293
+545,170,Celia Cruz,46,65,371810
+546,138,André Previn,21,64,27266
+547,140,João Gilberto,38,66,380257
+548,141,David Zinman,14,59,3926
+549,223,The Moody Blues,40,62,765380
+550,26,Miles Davis,9,66,1966449
+551,196,Sir Neville Marriner,14,67,23484
+552,197,Chet Baker,1,67,659550
+553,198,Bobby Darin,1,64,328651
+554,214,Ennio Morricone,28,69,710536
+555,28,Herbert von Karajan,4,69,111464
+556,199,Alvin & The Chipmunks,53,61,108557
+557,188,Duke Ellington,1,63,646290
+558,215,Roy Orbison,1,68,1131360
+559,178,Patsy Cline,1,61,536497
+560,179,Stan Getz,1,66,276918
+561,180,Camille Saint-Saëns,4,65,245467
+562,29,Johannes Brahms,4,65,641033
+563,30,Franz Schubert,4,66,763136
+564,31,Leonard Bernstein,10,63,133882
+565,133,English Chamber Orchestra,3,66,14110
+566,164,Bill Evans,9,63,433597
+567,32,Boston Pops Orchestra,1,61,16550
+568,224,Smokey Robinson & The Miracles,63,60,769638
+569,136,Oscar Peterson,1,62,162064
+570,137,Anonymous,0,63,10901
+571,33,José Alfredo Jimenez,11,65,1013876
+572,34,Franz Liszt,4,64,512821
+573,225,Smokey Robinson,49,59,740148
+574,226,Dion,1,60,128652
+575,168,B.B. King,45,66,2059692
+576,35,Sergei Rachmaninoff,4,64,420697
+577,36,Maurice Ravel,4,62,332625
+578,227,Ben E. King,1,66,372454
+579,228,Nancy Sinatra,1,66,276953
+580,37,Doris Day,1,63,270959
+581,38,Edvard Grieg,4,64,367491
+582,170,Celia Cruz,46,65,371810
+583,138,André Previn,21,64,27266
+584,140,João Gilberto,38,66,380257
+585,141,David Zinman,14,59,3926
+586,171,Mormon Tabernacle Choir,47,57,68691
+587,39,Felix Mendelssohn,4,62,351081
+588,182,Ricky Nelson,1,60,264863
+589,229,The Ink Spots,1,59,159663
+590,202,David Seville,35,56,1451
+591,40,Antonín Dvořák,4,62,374414
+592,183,The Everly Brothers,1,62,487997
+593,203,Luciano Pavarotti,54,66,568659
+594,41,Dave Brubeck,10,60,287919
+595,173,Gabriel Fauré,4,61,145974
+596,143,Harry Belafonte,1,60,123434
+597,42,Philadelphia Orchestra,12,62,26242
+598,43,Robert Schumann,4,61,390026
+599,230,Itzhak Perlman,4,62,97505
+600,23,Marty Robbins,8,63,278996
+601,24,George Frideric Handel,2,69,576161
+602,231,Conway Twitty,64,61,508678
+603,232,"Choir of King's College, Cambridge",65,69,51835
+604,233,James Brown,66,67,1614895
+605,234,The Supremes,1,66,1158110
+606,25,London Philharmonic Orchestra,3,69,235798
+607,207,Ray Charles,1,68,1644795
+608,208,John Coltrane,9,66,1207117
+609,209,Count Basie,1,66,263264
+610,195,The Platters,1,65,460076
+611,26,Miles Davis,9,66,1966449
+612,196,Sir Neville Marriner,14,67,23484
+613,197,Chet Baker,1,67,659550
+614,235,Natalie Cole,1,67,406090
+615,236,Glen Campbell,1,63,268806
+616,198,Bobby Darin,1,64,328651
+617,212,Paul Anka,1,67,410702
+618,213,Barbra Streisand,1,69,842497
+619,28,Herbert von Karajan,4,69,111464
+620,187,Louis Prima,1,62,125455
+621,199,Alvin & The Chipmunks,53,61,108557
+622,188,Duke Ellington,1,63,646290
+623,215,Roy Orbison,1,68,1131360
+624,178,Patsy Cline,1,61,536497
+625,179,Stan Getz,1,66,276918
+626,180,Camille Saint-Saëns,4,65,245467
+627,29,Johannes Brahms,4,65,641033
+628,30,Franz Schubert,4,66,763136
+629,31,Leonard Bernstein,10,63,133882
+630,133,English Chamber Orchestra,3,66,14110
+631,164,Bill Evans,9,63,433597
+632,166,Julie Andrews,1,61,84324
+633,32,Boston Pops Orchestra,1,61,16550
+634,134,Antônio Carlos Jobim,1,68,421735
+635,224,Smokey Robinson & The Miracles,63,60,769638
+636,137,Anonymous,0,63,10901
+637,167,Daniel Barenboim,4,65,88401
+638,34,Franz Liszt,4,64,512821
+639,226,Dion,1,60,128652
+640,237,Gladys Knight & The Pips,63,62,730661
+641,238,El Gran Combo De Puerto Rico,67,63,716323
+642,168,B.B. King,45,66,2059692
+643,35,Sergei Rachmaninoff,4,64,420697
+644,36,Maurice Ravel,4,62,332625
+645,227,Ben E. King,1,66,372454
+646,239,Michael Bolton,1,68,1088090
+647,37,Doris Day,1,63,270959
+648,38,Edvard Grieg,4,64,367491
+649,170,Celia Cruz,46,65,371810
+650,24,George Frideric Handel,2,69,576161
+651,240,Carole King,1,66,898239
+652,231,Conway Twitty,64,61,508678
+653,233,James Brown,66,67,1614895
+654,234,The Supremes,1,66,1158110
+655,25,London Philharmonic Orchestra,3,69,235798
+656,208,John Coltrane,9,66,1207117
+657,209,Count Basie,1,66,263264
+658,195,The Platters,1,65,460076
+659,26,Miles Davis,9,66,1966449
+660,236,Glen Campbell,1,63,268806
+661,198,Bobby Darin,1,64,328651
+662,212,Paul Anka,1,67,410702
+663,213,Barbra Streisand,1,69,842497
+664,214,Ennio Morricone,28,69,710536
+665,28,Herbert von Karajan,4,69,111464
+666,187,Louis Prima,1,62,125455
+667,199,Alvin & The Chipmunks,53,61,108557
+668,241,Janis Joplin,68,66,2336737
+669,188,Duke Ellington,1,63,646290
+670,215,Roy Orbison,1,68,1131360
+671,178,Patsy Cline,1,61,536497
+672,242,Kay Starr,1,60,30471
+673,179,Stan Getz,1,66,276918
+674,180,Camille Saint-Saëns,4,65,245467
+675,29,Johannes Brahms,4,65,641033
+676,30,Franz Schubert,4,66,763136
+677,31,Leonard Bernstein,10,63,133882
+678,133,English Chamber Orchestra,3,66,14110
+679,164,Bill Evans,9,63,433597
+680,32,Boston Pops Orchestra,1,61,16550
+681,134,Antônio Carlos Jobim,1,68,421735
+682,224,Smokey Robinson & The Miracles,63,60,769638
+683,136,Oscar Peterson,1,62,162064
+684,137,Anonymous,0,63,10901
+685,167,Daniel Barenboim,4,65,88401
+686,34,Franz Liszt,4,64,512821
+687,225,Smokey Robinson,49,59,740148
+688,226,Dion,1,60,128652
+689,238,El Gran Combo De Puerto Rico,67,63,716323
+690,168,B.B. King,45,66,2059692
+691,35,Sergei Rachmaninoff,4,64,420697
+692,36,Maurice Ravel,4,62,332625
+693,37,Doris Day,1,63,270959
+694,38,Edvard Grieg,4,64,367491
+695,138,André Previn,21,64,27266
+696,140,João Gilberto,38,66,380257
+697,243,Leo Dan,13,69,1228473
+698,141,David Zinman,14,59,3926
+699,244,Dio,40,63,1519663
+700,245,Antonio Vivaldi,2,73,1630093
+701,246,Sweet,0,66,1096
+702,247,Etta James,1,69,1100495
+703,248,The Isley Brothers,49,65,1126769
+704,249,Nina Simone,1,72,1969404
+705,18,Peggy Lee,1,66,277972
+706,250,Larry Walsh,0,65,39
+707,251,Academy of St. Martin in the Fields,3,69,34245
+708,20,Johnny Mathis,1,65,249097
+709,22,Wiener Philharmoniker,7,70,80992
+710,252,Frankie Valli & The Four Seasons,1,65,406645
+711,23,Marty Robbins,8,63,278996
+712,24,George Frideric Handel,2,69,576161
+713,231,Conway Twitty,64,61,508678
+714,232,"Choir of King's College, Cambridge",65,69,51835
+715,233,James Brown,66,67,1614895
+716,234,The Supremes,1,66,1158110
+717,253,Stephen Cleobury,69,69,7260
+718,25,London Philharmonic Orchestra,3,69,235798
+719,208,John Coltrane,9,66,1207117
+720,209,Count Basie,1,66,263264
+721,195,The Platters,1,65,460076
+722,254,The Animals,40,67,1609827
+723,26,Miles Davis,9,66,1966449
+724,197,Chet Baker,1,67,659550
+725,236,Glen Campbell,1,63,268806
+726,198,Bobby Darin,1,64,328651
+727,27,The Drifters,1,64,317028
+728,212,Paul Anka,1,67,410702
+729,213,Barbra Streisand,1,69,842497
+730,255,Diana Ross,1,69,1180363
+731,214,Ennio Morricone,28,69,710536
+732,28,Herbert von Karajan,4,69,111464
+733,188,Duke Ellington,1,63,646290
+734,242,Kay Starr,1,60,30471
+735,179,Stan Getz,1,66,276918
+736,180,Camille Saint-Saëns,4,65,245467
+737,29,Johannes Brahms,4,65,641033
+738,30,Franz Schubert,4,66,763136
+739,31,Leonard Bernstein,10,63,133882
+740,133,English Chamber Orchestra,3,66,14110
+741,164,Bill Evans,9,63,433597
+742,256,The Spinners,49,62,523191
+743,166,Julie Andrews,1,61,84324
+744,32,Boston Pops Orchestra,1,61,16550
+745,134,Antônio Carlos Jobim,1,68,421735
+746,136,Oscar Peterson,1,62,162064
+747,137,Anonymous,0,63,10901
+748,167,Daniel Barenboim,4,65,88401
+749,218,Lou Monte,35,58,6255
+750,17,Royal Philharmonic Orchestra,3,72,97345
+751,257,Judy Garland,1,66,158759
+752,258,The Kinks,40,70,1712680
+753,259,George Jones,17,64,702029
+754,245,Antonio Vivaldi,2,73,1630093
+755,260,Merle Haggard,70,64,778016
+756,247,Etta James,1,69,1100495
+757,261,Al Green,49,68,1370189
+758,248,The Isley Brothers,49,65,1126769
+759,249,Nina Simone,1,72,1969404
+760,18,Peggy Lee,1,66,277972
+761,251,Academy of St. Martin in the Fields,3,69,34245
+762,20,Johnny Mathis,1,65,249097
+763,22,Wiener Philharmoniker,7,70,80992
+764,252,Frankie Valli & The Four Seasons,1,65,406645
+765,23,Marty Robbins,8,63,278996
+766,262,Tina Turner,71,74,2143843
+767,24,George Frideric Handel,2,69,576161
+768,263,Cher,48,71,1833180
+769,233,James Brown,66,67,1614895
+770,234,The Supremes,1,66,1158110
+771,25,London Philharmonic Orchestra,3,69,235798
+772,207,Ray Charles,1,68,1644795
+773,208,John Coltrane,9,66,1207117
+774,264,Four Tops,1,65,707042
+775,209,Count Basie,1,66,263264
+776,254,The Animals,40,67,1609827
+777,26,Miles Davis,9,66,1966449
+778,196,Sir Neville Marriner,14,67,23484
+779,197,Chet Baker,1,67,659550
+780,236,Glen Campbell,1,63,268806
+781,198,Bobby Darin,1,64,328651
+782,211,Gilberto Santa Rosa,57,70,1282761
+783,213,Barbra Streisand,1,69,842497
+784,214,Ennio Morricone,28,69,710536
+785,28,Herbert von Karajan,4,69,111464
+786,187,Louis Prima,1,62,125455
+787,188,Duke Ellington,1,63,646290
+788,215,Roy Orbison,1,68,1131360
+789,178,Patsy Cline,1,61,536497
+790,265,The O'Jays,49,61,724550
+791,266,Sly & The Family Stone,72,62,634567
+792,179,Stan Getz,1,66,276918
+793,180,Camille Saint-Saëns,4,65,245467
+794,29,Johannes Brahms,4,65,641033
+795,30,Franz Schubert,4,66,763136
+796,31,Leonard Bernstein,10,63,133882
+797,267,La Sonora Dinamita,73,67,232746
+798,133,English Chamber Orchestra,3,66,14110
+799,164,Bill Evans,9,63,433597
+800,260,Merle Haggard,70,64,778016
+801,247,Etta James,1,69,1100495
+802,268,Thurl Ravenscroft,24,63,2925
+803,248,The Isley Brothers,49,65,1126769
+804,269,Billie Holiday,1,68,1315906
+805,249,Nina Simone,1,72,1969404
+806,270,The Mamas & The Papas,63,68,1001385
+807,18,Peggy Lee,1,66,277972
+808,271,The Velvet Underground,74,68,1223787
+809,19,Boris Karloff,6,61,3989
+810,251,Academy of St. Martin in the Fields,3,69,34245
+811,20,Johnny Mathis,1,65,249097
+812,21,Erik Satie,4,69,503359
+813,22,Wiener Philharmoniker,7,70,80992
+814,23,Marty Robbins,8,63,278996
+815,24,George Frideric Handel,2,69,576161
+816,263,Cher,48,71,1833180
+817,272,Cream,40,67,1514521
+818,231,Conway Twitty,64,61,508678
+819,232,"Choir of King's College, Cambridge",65,69,51835
+820,233,James Brown,66,67,1614895
+821,234,The Supremes,1,66,1158110
+822,273,Olivia Newton-John,1,70,791251
+823,25,London Philharmonic Orchestra,3,69,235798
+824,207,Ray Charles,1,68,1644795
+825,208,John Coltrane,9,66,1207117
+826,264,Four Tops,1,65,707042
+827,209,Count Basie,1,66,263264
+828,195,The Platters,1,65,460076
+829,254,The Animals,40,67,1609827
+830,26,Miles Davis,9,66,1966449
+831,196,Sir Neville Marriner,14,67,23484
+832,197,Chet Baker,1,67,659550
+833,236,Glen Campbell,1,63,268806
+834,274,The Monkees,75,65,733039
+835,212,Paul Anka,1,67,410702
+836,213,Barbra Streisand,1,69,842497
+837,214,Ennio Morricone,28,69,710536
+838,28,Herbert von Karajan,4,69,111464
+839,275,Steppenwolf,76,65,985909
+840,241,Janis Joplin,68,66,2336737
+841,188,Duke Ellington,1,63,646290
+842,276,Gordon Lightfoot,40,61,447025
+843,215,Roy Orbison,1,68,1131360
+844,179,Stan Getz,1,66,276918
+845,180,Camille Saint-Saëns,4,65,245467
+846,29,Johannes Brahms,4,65,641033
+847,30,Franz Schubert,4,66,763136
+848,31,Leonard Bernstein,10,63,133882
+849,267,La Sonora Dinamita,73,67,232746
+850,277,The Who,40,72,3694705
+851,15,Traditional,5,72,31894
+852,278,Yo-Yo Ma,77,70,419923
+853,279,Aretha Franklin,49,74,2415174
+854,16,Claude Debussy,4,70,1043323
+855,280,Yusuf / Cat Stevens,78,72,1185001
+856,17,Royal Philharmonic Orchestra,3,72,97345
+857,258,The Kinks,40,70,1712680
+858,245,Antonio Vivaldi,2,73,1630093
+859,261,Al Green,49,68,1370189
+860,281,Luther Vandross,66,67,1560232
+861,248,The Isley Brothers,49,65,1126769
+862,249,Nina Simone,1,72,1969404
+863,282,Fiona Apple,79,65,733768
+864,270,The Mamas & The Papas,63,68,1001385
+865,18,Peggy Lee,1,66,277972
+866,283,Cyndi Lauper,48,72,1458371
+867,271,The Velvet Underground,74,68,1223787
+868,251,Academy of St. Martin in the Fields,3,69,34245
+869,20,Johnny Mathis,1,65,249097
+870,21,Erik Satie,4,69,503359
+871,22,Wiener Philharmoniker,7,70,80992
+872,252,Frankie Valli & The Four Seasons,1,65,406645
+873,23,Marty Robbins,8,63,278996
+874,284,Genesis,40,70,2124885
+875,24,George Frideric Handel,2,69,576161
+876,263,Cher,48,71,1833180
+877,272,Cream,40,67,1514521
+878,233,James Brown,66,67,1614895
+879,234,The Supremes,1,66,1158110
+880,25,London Philharmonic Orchestra,3,69,235798
+881,285,Linda Ronstadt,1,64,473408
+882,286,Tammi Terrell,80,67,111413
+883,208,John Coltrane,9,66,1207117
+884,264,Four Tops,1,65,707042
+885,209,Count Basie,1,66,263264
+886,195,The Platters,1,65,460076
+887,26,Miles Davis,9,66,1966449
+888,196,Sir Neville Marriner,14,67,23484
+889,287,Willie Colón,67,70,759475
+890,236,Glen Campbell,1,63,268806
+891,274,The Monkees,75,65,733039
+892,288,Nitty Gritty Dirt Band,81,60,106373
+893,213,Barbra Streisand,1,69,842497
+894,214,Ennio Morricone,28,69,710536
+895,28,Herbert von Karajan,4,69,111464
+896,241,Janis Joplin,68,66,2336737
+897,188,Duke Ellington,1,63,646290
+898,276,Gordon Lightfoot,40,61,447025
+899,215,Roy Orbison,1,68,1131360
+900,289,Rod Stewart,82,76,2503862
+901,290,Joni Mitchell,50,70,893678
+902,291,Donny Hathaway,83,69,375372
+903,292,Yoko Ono,84,73,79127
+904,279,Aretha Franklin,49,74,2415174
+905,16,Claude Debussy,4,70,1043323
+906,293,The Band,40,67,712229
+907,294,Neil Diamond,1,71,1358302
+908,17,Royal Philharmonic Orchestra,3,72,97345
+909,258,The Kinks,40,70,1712680
+910,295,Mark Linett,0,66,58
+911,245,Antonio Vivaldi,2,73,1630093
+912,246,Sweet,0,66,1096
+913,260,Merle Haggard,70,64,778016
+914,247,Etta James,1,69,1100495
+915,296,George Harrison,40,70,1693702
+916,261,Al Green,49,68,1370189
+917,281,Luther Vandross,66,67,1560232
+918,248,The Isley Brothers,49,65,1126769
+919,249,Nina Simone,1,72,1969404
+920,297,Ramon Ayala Y Sus Bravos Del Norte,85,66,272021
+921,270,The Mamas & The Papas,63,68,1001385
+922,271,The Velvet Underground,74,68,1223787
+923,298,Mandy Moore,48,66,513269
+924,251,Academy of St. Martin in the Fields,3,69,34245
+925,20,Johnny Mathis,1,65,249097
+926,22,Wiener Philharmoniker,7,70,80992
+927,23,Marty Robbins,8,63,278996
+928,284,Genesis,40,70,2124885
+929,24,George Frideric Handel,2,69,576161
+930,240,Carole King,1,66,898239
+931,263,Cher,48,71,1833180
+932,272,Cream,40,67,1514521
+933,232,"Choir of King's College, Cambridge",65,69,51835
+934,233,James Brown,66,67,1614895
+935,234,The Supremes,1,66,1158110
+936,299,James Horner,86,69,230360
+937,25,London Philharmonic Orchestra,3,69,235798
+938,285,Linda Ronstadt,1,64,473408
+939,207,Ray Charles,1,68,1644795
+940,286,Tammi Terrell,80,67,111413
+941,208,John Coltrane,9,66,1207117
+942,264,Four Tops,1,65,707042
+943,209,Count Basie,1,66,263264
+944,195,The Platters,1,65,460076
+945,26,Miles Davis,9,66,1966449
+946,196,Sir Neville Marriner,14,67,23484
+947,300,Three Dog Night,40,61,547629
+948,287,Willie Colón,67,70,759475
+949,236,Glen Campbell,1,63,268806
+950,301,Santana,68,72,1802085
+951,15,Traditional,5,72,31894
+952,289,Rod Stewart,82,76,2503862
+953,290,Joni Mitchell,50,70,893678
+954,292,Yoko Ono,84,73,79127
+955,279,Aretha Franklin,49,74,2415174
+956,16,Claude Debussy,4,70,1043323
+957,293,The Band,40,67,712229
+958,302,Chicago,1,71,2139739
+959,294,Neil Diamond,1,71,1358302
+960,303,Kenny Rogers,1,72,1429640
+961,17,Royal Philharmonic Orchestra,3,72,97345
+962,304,Blue Öyster Cult,40,67,979446
+963,258,The Kinks,40,70,1712680
+964,259,George Jones,17,64,702029
+965,245,Antonio Vivaldi,2,73,1630093
+966,260,Merle Haggard,70,64,778016
+967,247,Etta James,1,69,1100495
+968,296,George Harrison,40,70,1693702
+969,261,Al Green,49,68,1370189
+970,248,The Isley Brothers,49,65,1126769
+971,269,Billie Holiday,1,68,1315906
+972,249,Nina Simone,1,72,1969404
+973,18,Peggy Lee,1,66,277972
+974,271,The Velvet Underground,74,68,1223787
+975,251,Academy of St. Martin in the Fields,3,69,34245
+976,305,Stevie Ray Vaughan,40,65,1707337
+977,20,Johnny Mathis,1,65,249097
+978,21,Erik Satie,4,69,503359
+979,22,Wiener Philharmoniker,7,70,80992
+980,306,King Lil G,87,62,331954
+981,252,Frankie Valli & The Four Seasons,1,65,406645
+982,23,Marty Robbins,8,63,278996
+983,262,Tina Turner,71,74,2143843
+984,284,Genesis,40,70,2124885
+985,24,George Frideric Handel,2,69,576161
+986,263,Cher,48,71,1833180
+987,272,Cream,40,67,1514521
+988,231,Conway Twitty,64,61,508678
+989,232,"Choir of King's College, Cambridge",65,69,51835
+990,233,James Brown,66,67,1614895
+991,307,"Crosby, Stills, Nash & Young",40,64,1039323
+992,253,Stephen Cleobury,69,69,7260
+993,25,London Philharmonic Orchestra,3,69,235798
+994,285,Linda Ronstadt,1,64,473408
+995,286,Tammi Terrell,80,67,111413
+996,208,John Coltrane,9,66,1207117
+997,264,Four Tops,1,65,707042
+998,209,Count Basie,1,66,263264
+999,308,Andrew Lloyd Webber,58,65,203605
+1000,309,Black Sabbath,40,74,4957556
+1001,310,The Temptations,63,70,1890190
+1002,311,Bee Gees,1,77,3875789
+1003,12,Ludwig van Beethoven,4,75,3563939
+1004,312,Steve Miller Band,40,69,1776943
+1005,313,Neil Young,40,72,2040300
+1006,314,Eric Clapton,40,75,3905822
+1007,315,The Doobie Brothers,40,70,1399673
+1008,316,Allman Brothers Band,40,67,1015069
+1009,277,The Who,40,72,3694705
+1010,301,Santana,68,72,1802085
+1011,15,Traditional,5,72,31894
+1012,289,Rod Stewart,82,76,2503862
+1013,290,Joni Mitchell,50,70,893678
+1014,317,Sam Cooke,1,70,1102369
+1015,291,Donny Hathaway,83,69,375372
+1016,292,Yoko Ono,84,73,79127
+1017,278,Yo-Yo Ma,77,70,419923
+1018,279,Aretha Franklin,49,74,2415174
+1019,16,Claude Debussy,4,70,1043323
+1020,293,The Band,40,67,712229
+1021,318,ZZ Top,40,71,2756303
+1022,302,Chicago,1,71,2139739
+1023,280,Yusuf / Cat Stevens,78,72,1185001
+1024,294,Neil Diamond,1,71,1358302
+1025,319,Mykola Dmytrovych Leontovych,88,67,2032
+1026,303,Kenny Rogers,1,72,1429640
+1027,17,Royal Philharmonic Orchestra,3,72,97345
+1028,258,The Kinks,40,70,1712680
+1029,259,George Jones,17,64,702029
+1030,245,Antonio Vivaldi,2,73,1630093
+1031,260,Merle Haggard,70,64,778016
+1032,247,Etta James,1,69,1100495
+1033,296,George Harrison,40,70,1693702
+1034,268,Thurl Ravenscroft,24,63,2925
+1035,248,The Isley Brothers,49,65,1126769
+1036,320,Los Caminantes,89,65,858989
+1037,321,Crush,90,69,698331
+1038,322,Babyface,48,66,683719
+1039,249,Nina Simone,1,72,1969404
+1040,270,The Mamas & The Papas,63,68,1001385
+1041,18,Peggy Lee,1,66,277972
+1042,323,The Charlie Daniels Band,72,62,436722
+1043,271,The Velvet Underground,74,68,1223787
+1044,251,Academy of St. Martin in the Fields,3,69,34245
+1045,305,Stevie Ray Vaughan,40,65,1707337
+1046,20,Johnny Mathis,1,65,249097
+1047,21,Erik Satie,4,69,503359
+1048,22,Wiener Philharmoniker,7,70,80992
+1049,252,Frankie Valli & The Four Seasons,1,65,406645
+1050,316,Allman Brothers Band,40,67,1015069
+1051,277,The Who,40,72,3694705
+1052,301,Santana,68,72,1802085
+1053,15,Traditional,5,72,31894
+1054,289,Rod Stewart,82,76,2503862
+1055,290,Joni Mitchell,50,70,893678
+1056,291,Donny Hathaway,83,69,375372
+1057,292,Yoko Ono,84,73,79127
+1058,279,Aretha Franklin,49,74,2415174
+1059,16,Claude Debussy,4,70,1043323
+1060,293,The Band,40,67,712229
+1061,324,John Prine,91,66,325458
+1062,302,Chicago,1,71,2139739
+1063,280,Yusuf / Cat Stevens,78,72,1185001
+1064,294,Neil Diamond,1,71,1358302
+1065,325,Jackson Browne,40,66,782971
+1066,17,Royal Philharmonic Orchestra,3,72,97345
+1067,326,Kelly Rowland,92,69,2477362
+1068,258,The Kinks,40,70,1712680
+1069,259,George Jones,17,64,702029
+1070,327,REO Speedwagon,40,67,1404806
+1071,245,Antonio Vivaldi,2,73,1630093
+1072,328,Kenny Loggins,40,69,624901
+1073,260,Merle Haggard,70,64,778016
+1074,296,George Harrison,40,70,1693702
+1075,261,Al Green,49,68,1370189
+1076,248,The Isley Brothers,49,65,1126769
+1077,329,Scorpions,40,74,3957602
+1078,249,Nina Simone,1,72,1969404
+1079,270,The Mamas & The Papas,63,68,1001385
+1080,18,Peggy Lee,1,66,277972
+1081,251,Academy of St. Martin in the Fields,3,69,34245
+1082,20,Johnny Mathis,1,65,249097
+1083,21,Erik Satie,4,69,503359
+1084,22,Wiener Philharmoniker,7,70,80992
+1085,23,Marty Robbins,8,63,278996
+1086,330,Wings,40,66,596701
+1087,284,Genesis,40,70,2124885
+1088,24,George Frideric Handel,2,69,576161
+1089,240,Carole King,1,66,898239
+1090,263,Cher,48,71,1833180
+1091,331,Supertramp,40,71,1986894
+1092,233,James Brown,66,67,1614895
+1093,307,"Crosby, Stills, Nash & Young",40,64,1039323
+1094,234,The Supremes,1,66,1158110
+1095,253,Stephen Cleobury,69,69,7260
+1096,273,Olivia Newton-John,1,70,791251
+1097,332,José José,13,76,3230357
+1098,25,London Philharmonic Orchestra,3,69,235798
+1099,285,Linda Ronstadt,1,64,473408
+1100,310,The Temptations,63,70,1890190
+1101,311,Bee Gees,1,77,3875789
+1102,12,Ludwig van Beethoven,4,75,3563939
+1103,333,Steely Dan,40,69,1247921
+1104,312,Steve Miller Band,40,69,1776943
+1105,334,Paul Simon,72,72,1478287
+1106,313,Neil Young,40,72,2040300
+1107,314,Eric Clapton,40,75,3905822
+1108,315,The Doobie Brothers,40,70,1399673
+1109,316,Allman Brothers Band,40,67,1015069
+1110,301,Santana,68,72,1802085
+1111,15,Traditional,5,72,31894
+1112,289,Rod Stewart,82,76,2503862
+1113,290,Joni Mitchell,50,70,893678
+1114,335,Juan Gabriel,93,76,4850220
+1115,291,Donny Hathaway,83,69,375372
+1116,292,Yoko Ono,84,73,79127
+1117,279,Aretha Franklin,49,74,2415174
+1118,16,Claude Debussy,4,70,1043323
+1119,293,The Band,40,67,712229
+1120,324,John Prine,91,66,325458
+1121,318,ZZ Top,40,71,2756303
+1122,302,Chicago,1,71,2139739
+1123,280,Yusuf / Cat Stevens,78,72,1185001
+1124,294,Neil Diamond,1,71,1358302
+1125,336,"Grover Washington, Jr.",94,71,163697
+1126,325,Jackson Browne,40,66,782971
+1127,17,Royal Philharmonic Orchestra,3,72,97345
+1128,304,Blue Öyster Cult,40,67,979446
+1129,257,Judy Garland,1,66,158759
+1130,258,The Kinks,40,70,1712680
+1131,337,Styx,40,65,1117937
+1132,259,George Jones,17,64,702029
+1133,327,REO Speedwagon,40,67,1404806
+1134,245,Antonio Vivaldi,2,73,1630093
+1135,260,Merle Haggard,70,64,778016
+1136,261,Al Green,49,68,1370189
+1137,338,Jim Croce,40,65,753215
+1138,339,America,40,69,1018628
+1139,281,Luther Vandross,66,67,1560232
+1140,248,The Isley Brothers,49,65,1126769
+1141,329,Scorpions,40,74,3957602
+1142,249,Nina Simone,1,72,1969404
+1143,18,Peggy Lee,1,66,277972
+1144,271,The Velvet Underground,74,68,1223787
+1145,251,Academy of St. Martin in the Fields,3,69,34245
+1146,20,Johnny Mathis,1,65,249097
+1147,340,The Commanders,0,63,785
+1148,22,Wiener Philharmoniker,7,70,80992
+1149,252,Frankie Valli & The Four Seasons,1,65,406645
+1150,341,Waylon Jennings,17,69,837391
+1151,342,Jimmy Buffett,95,68,432151
+1152,8,Frédéric Chopin,4,76,2206803
+1153,343,Brad Paisley,96,69,1918989
+1154,344,Electric Light Orchestra,40,73,2506008
+1155,345,Chuck Berry,1,73,1266265
+1156,9,Berliner Philharmoniker,4,74,129242
+1157,346,ABBA,59,79,4953095
+1158,10,Tony Bennett,1,73,589080
+1159,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1160,309,Black Sabbath,40,74,4957556
+1161,310,The Temptations,63,70,1890190
+1162,311,Bee Gees,1,77,3875789
+1163,12,Ludwig van Beethoven,4,75,3563939
+1164,333,Steely Dan,40,69,1247921
+1165,347,Bob Seger,40,69,1145690
+1166,312,Steve Miller Band,40,69,1776943
+1167,334,Paul Simon,72,72,1478287
+1168,313,Neil Young,40,72,2040300
+1169,314,Eric Clapton,40,75,3905822
+1170,315,The Doobie Brothers,40,70,1399673
+1171,316,Allman Brothers Band,40,67,1015069
+1172,277,The Who,40,72,3694705
+1173,301,Santana,68,72,1802085
+1174,15,Traditional,5,72,31894
+1175,289,Rod Stewart,82,76,2503862
+1176,335,Juan Gabriel,93,76,4850220
+1177,291,Donny Hathaway,83,69,375372
+1178,292,Yoko Ono,84,73,79127
+1179,278,Yo-Yo Ma,77,70,419923
+1180,279,Aretha Franklin,49,74,2415174
+1181,16,Claude Debussy,4,70,1043323
+1182,293,The Band,40,67,712229
+1183,324,John Prine,91,66,325458
+1184,318,ZZ Top,40,71,2756303
+1185,302,Chicago,1,71,2139739
+1186,280,Yusuf / Cat Stevens,78,72,1185001
+1187,294,Neil Diamond,1,71,1358302
+1188,336,"Grover Washington, Jr.",94,71,163697
+1189,303,Kenny Rogers,1,72,1429640
+1190,325,Jackson Browne,40,66,782971
+1191,17,Royal Philharmonic Orchestra,3,72,97345
+1192,304,Blue Öyster Cult,40,67,979446
+1193,348,Hunter Hayes,96,64,1021461
+1194,258,The Kinks,40,70,1712680
+1195,349,Billy Ray Cyrus,17,71,177282
+1196,337,Styx,40,65,1117937
+1197,259,George Jones,17,64,702029
+1198,327,REO Speedwagon,40,67,1404806
+1199,245,Antonio Vivaldi,2,73,1630093
+1200,311,Bee Gees,1,77,3875789
+1201,12,Ludwig van Beethoven,4,75,3563939
+1202,333,Steely Dan,40,69,1247921
+1203,334,Paul Simon,72,72,1478287
+1204,313,Neil Young,40,72,2040300
+1205,314,Eric Clapton,40,75,3905822
+1206,315,The Doobie Brothers,40,70,1399673
+1207,316,Allman Brothers Band,40,67,1015069
+1208,350,Rush,40,69,1485853
+1209,277,The Who,40,72,3694705
+1210,301,Santana,68,72,1802085
+1211,15,Traditional,5,72,31894
+1212,289,Rod Stewart,82,76,2503862
+1213,290,Joni Mitchell,50,70,893678
+1214,279,Aretha Franklin,49,74,2415174
+1215,351,KISS,40,74,5275304
+1216,16,Claude Debussy,4,70,1043323
+1217,293,The Band,40,67,712229
+1218,302,Chicago,1,71,2139739
+1219,280,Yusuf / Cat Stevens,78,72,1185001
+1220,294,Neil Diamond,1,71,1358302
+1221,336,"Grover Washington, Jr.",94,71,163697
+1222,325,Jackson Browne,40,66,782971
+1223,17,Royal Philharmonic Orchestra,3,72,97345
+1224,304,Blue Öyster Cult,40,67,979446
+1225,352,Heart,40,69,1464420
+1226,258,The Kinks,40,70,1712680
+1227,337,Styx,40,65,1117937
+1228,259,George Jones,17,64,702029
+1229,327,REO Speedwagon,40,67,1404806
+1230,245,Antonio Vivaldi,2,73,1630093
+1231,260,Merle Haggard,70,64,778016
+1232,247,Etta James,1,69,1100495
+1233,296,George Harrison,40,70,1693702
+1234,261,Al Green,49,68,1370189
+1235,338,Jim Croce,40,65,753215
+1236,339,America,40,69,1018628
+1237,248,The Isley Brothers,49,65,1126769
+1238,269,Billie Holiday,1,68,1315906
+1239,353,Kansas,40,68,965592
+1240,329,Scorpions,40,74,3957602
+1241,249,Nina Simone,1,72,1969404
+1242,18,Peggy Lee,1,66,277972
+1243,323,The Charlie Daniels Band,72,62,436722
+1244,271,The Velvet Underground,74,68,1223787
+1245,251,Academy of St. Martin in the Fields,3,69,34245
+1246,20,Johnny Mathis,1,65,249097
+1247,21,Erik Satie,4,69,503359
+1248,354,Commodores,1,67,1098789
+1249,22,Wiener Philharmoniker,7,70,80992
+1250,9,Berliner Philharmoniker,4,74,129242
+1251,346,ABBA,59,79,4953095
+1252,10,Tony Bennett,1,73,589080
+1253,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1254,355,Simon & Garfunkel,72,75,3100273
+1255,309,Black Sabbath,40,74,4957556
+1256,310,The Temptations,63,70,1890190
+1257,311,Bee Gees,1,77,3875789
+1258,12,Ludwig van Beethoven,4,75,3563939
+1259,333,Steely Dan,40,69,1247921
+1260,347,Bob Seger,40,69,1145690
+1261,334,Paul Simon,72,72,1478287
+1262,313,Neil Young,40,72,2040300
+1263,314,Eric Clapton,40,75,3905822
+1264,315,The Doobie Brothers,40,70,1399673
+1265,13,Mitchell Ayres & His Orchestra,0,70,366
+1266,316,Allman Brothers Band,40,67,1015069
+1267,350,Rush,40,69,1485853
+1268,277,The Who,40,72,3694705
+1269,301,Santana,68,72,1802085
+1270,15,Traditional,5,72,31894
+1271,289,Rod Stewart,82,76,2503862
+1272,290,Joni Mitchell,50,70,893678
+1273,335,Juan Gabriel,93,76,4850220
+1274,356,Boston,40,69,1620940
+1275,278,Yo-Yo Ma,77,70,419923
+1276,357,Randy Travis,96,65,961937
+1277,351,KISS,40,74,5275304
+1278,16,Claude Debussy,4,70,1043323
+1279,293,The Band,40,67,712229
+1280,324,John Prine,91,66,325458
+1281,318,ZZ Top,40,71,2756303
+1282,302,Chicago,1,71,2139739
+1283,358,Mannheim Steamroller,1,63,52838
+1284,280,Yusuf / Cat Stevens,78,72,1185001
+1285,336,"Grover Washington, Jr.",94,71,163697
+1286,303,Kenny Rogers,1,72,1429640
+1287,17,Royal Philharmonic Orchestra,3,72,97345
+1288,304,Blue Öyster Cult,40,67,979446
+1289,352,Heart,40,69,1464420
+1290,258,The Kinks,40,70,1712680
+1291,337,Styx,40,65,1117937
+1292,259,George Jones,17,64,702029
+1293,327,REO Speedwagon,40,67,1404806
+1294,245,Antonio Vivaldi,2,73,1630093
+1295,260,Merle Haggard,70,64,778016
+1296,359,Joan Jett & The Blackhearts,97,68,443869
+1297,296,George Harrison,40,70,1693702
+1298,261,Al Green,49,68,1370189
+1299,339,America,40,69,1018628
+1300,360,Destiny's Child,48,75,4449630
+1301,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1302,309,Black Sabbath,40,74,4957556
+1303,310,The Temptations,63,70,1890190
+1304,311,Bee Gees,1,77,3875789
+1305,12,Ludwig van Beethoven,4,75,3563939
+1306,333,Steely Dan,40,69,1247921
+1307,347,Bob Seger,40,69,1145690
+1308,312,Steve Miller Band,40,69,1776943
+1309,334,Paul Simon,72,72,1478287
+1310,313,Neil Young,40,72,2040300
+1311,314,Eric Clapton,40,75,3905822
+1312,315,The Doobie Brothers,40,70,1399673
+1313,316,Allman Brothers Band,40,67,1015069
+1314,350,Rush,40,69,1485853
+1315,361,John Mellencamp,40,68,951249
+1316,301,Santana,68,72,1802085
+1317,15,Traditional,5,72,31894
+1318,289,Rod Stewart,82,76,2503862
+1319,290,Joni Mitchell,50,70,893678
+1320,335,Juan Gabriel,93,76,4850220
+1321,356,Boston,40,69,1620940
+1322,278,Yo-Yo Ma,77,70,419923
+1323,279,Aretha Franklin,49,74,2415174
+1324,351,KISS,40,74,5275304
+1325,362,Raffi,98,66,81491
+1326,16,Claude Debussy,4,70,1043323
+1327,293,The Band,40,67,712229
+1328,324,John Prine,91,66,325458
+1329,318,ZZ Top,40,71,2756303
+1330,302,Chicago,1,71,2139739
+1331,280,Yusuf / Cat Stevens,78,72,1185001
+1332,294,Neil Diamond,1,71,1358302
+1333,336,"Grover Washington, Jr.",94,71,163697
+1334,303,Kenny Rogers,1,72,1429640
+1335,17,Royal Philharmonic Orchestra,3,72,97345
+1336,304,Blue Öyster Cult,40,67,979446
+1337,352,Heart,40,69,1464420
+1338,258,The Kinks,40,70,1712680
+1339,349,Billy Ray Cyrus,17,71,177282
+1340,337,Styx,40,65,1117937
+1341,259,George Jones,17,64,702029
+1342,327,REO Speedwagon,40,67,1404806
+1343,245,Antonio Vivaldi,2,73,1630093
+1344,328,Kenny Loggins,40,69,624901
+1345,260,Merle Haggard,70,64,778016
+1346,247,Etta James,1,69,1100495
+1347,296,George Harrison,40,70,1693702
+1348,261,Al Green,49,68,1370189
+1349,339,America,40,69,1018628
+1350,311,Bee Gees,1,77,3875789
+1351,12,Ludwig van Beethoven,4,75,3563939
+1352,333,Steely Dan,40,69,1247921
+1353,312,Steve Miller Band,40,69,1776943
+1354,363,Talking Heads,99,71,1438609
+1355,313,Neil Young,40,72,2040300
+1356,314,Eric Clapton,40,75,3905822
+1357,315,The Doobie Brothers,40,70,1399673
+1358,14,Gene Autry,1,69,36191
+1359,350,Rush,40,69,1485853
+1360,364,Reba McEntire,96,66,1268360
+1361,301,Santana,68,72,1802085
+1362,15,Traditional,5,72,31894
+1363,289,Rod Stewart,82,76,2503862
+1364,290,Joni Mitchell,50,70,893678
+1365,335,Juan Gabriel,93,76,4850220
+1366,291,Donny Hathaway,83,69,375372
+1367,351,KISS,40,74,5275304
+1368,365,The Clash,72,72,1992137
+1369,362,Raffi,98,66,81491
+1370,16,Claude Debussy,4,70,1043323
+1371,293,The Band,40,67,712229
+1372,366,Foreigner,40,71,1801946
+1373,318,ZZ Top,40,71,2756303
+1374,302,Chicago,1,71,2139739
+1375,358,Mannheim Steamroller,1,63,52838
+1376,280,Yusuf / Cat Stevens,78,72,1185001
+1377,294,Neil Diamond,1,71,1358302
+1378,336,"Grover Washington, Jr.",94,71,163697
+1379,303,Kenny Rogers,1,72,1429640
+1380,325,Jackson Browne,40,66,782971
+1381,17,Royal Philharmonic Orchestra,3,72,97345
+1382,304,Blue Öyster Cult,40,67,979446
+1383,352,Heart,40,69,1464420
+1384,258,The Kinks,40,70,1712680
+1385,337,Styx,40,65,1117937
+1386,259,George Jones,17,64,702029
+1387,327,REO Speedwagon,40,67,1404806
+1388,245,Antonio Vivaldi,2,73,1630093
+1389,328,Kenny Loggins,40,69,624901
+1390,260,Merle Haggard,70,64,778016
+1391,247,Etta James,1,69,1100495
+1392,261,Al Green,49,68,1370189
+1393,339,America,40,69,1018628
+1394,248,The Isley Brothers,49,65,1126769
+1395,353,Kansas,40,68,965592
+1396,329,Scorpions,40,74,3957602
+1397,297,Ramon Ayala Y Sus Bravos Del Norte,85,66,272021
+1398,367,Blondie,100,71,846499
+1399,251,Academy of St. Martin in the Fields,3,69,34245
+1400,344,Electric Light Orchestra,40,73,2506008
+1401,368,Stevie Nicks,101,72,704194
+1402,9,Berliner Philharmoniker,4,74,129242
+1403,369,The Doors,76,75,5444751
+1404,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1405,309,Black Sabbath,40,74,4957556
+1406,310,The Temptations,63,70,1890190
+1407,311,Bee Gees,1,77,3875789
+1408,12,Ludwig van Beethoven,4,75,3563939
+1409,333,Steely Dan,40,69,1247921
+1410,347,Bob Seger,40,69,1145690
+1411,312,Steve Miller Band,40,69,1776943
+1412,363,Talking Heads,99,71,1438609
+1413,313,Neil Young,40,72,2040300
+1414,314,Eric Clapton,40,75,3905822
+1415,370,The Police,40,76,3876669
+1416,315,The Doobie Brothers,40,70,1399673
+1417,350,Rush,40,69,1485853
+1418,371,Sir Simon Rattle,14,70,39423
+1419,277,The Who,40,72,3694705
+1420,361,John Mellencamp,40,68,951249
+1421,301,Santana,68,72,1802085
+1422,15,Traditional,5,72,31894
+1423,372,Travis Tritt,96,66,833782
+1424,289,Rod Stewart,82,76,2503862
+1425,335,Juan Gabriel,93,76,4850220
+1426,317,Sam Cooke,1,70,1102369
+1427,291,Donny Hathaway,83,69,375372
+1428,373,TOTO,40,75,1685562
+1429,356,Boston,40,69,1620940
+1430,278,Yo-Yo Ma,77,70,419923
+1431,357,Randy Travis,96,65,961937
+1432,351,KISS,40,74,5275304
+1433,365,The Clash,72,72,1992137
+1434,16,Claude Debussy,4,70,1043323
+1435,293,The Band,40,67,712229
+1436,366,Foreigner,40,71,1801946
+1437,324,John Prine,91,66,325458
+1438,302,Chicago,1,71,2139739
+1439,280,Yusuf / Cat Stevens,78,72,1185001
+1440,294,Neil Diamond,1,71,1358302
+1441,336,"Grover Washington, Jr.",94,71,163697
+1442,303,Kenny Rogers,1,72,1429640
+1443,374,The Cars,40,67,1024485
+1444,325,Jackson Browne,40,66,782971
+1445,17,Royal Philharmonic Orchestra,3,72,97345
+1446,304,Blue Öyster Cult,40,67,979446
+1447,352,Heart,40,69,1464420
+1448,258,The Kinks,40,70,1712680
+1449,337,Styx,40,65,1117937
+1450,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1451,375,The Cure,43,76,2895335
+1452,376,Los Bukis,89,73,1587755
+1453,377,Madonna,48,78,4610377
+1454,310,The Temptations,63,70,1890190
+1455,378,Alabama,17,67,769532
+1456,311,Bee Gees,1,77,3875789
+1457,12,Ludwig van Beethoven,4,75,3563939
+1458,363,Talking Heads,99,71,1438609
+1459,313,Neil Young,40,72,2040300
+1460,370,The Police,40,76,3876669
+1461,315,The Doobie Brothers,40,70,1399673
+1462,316,Allman Brothers Band,40,67,1015069
+1463,14,Gene Autry,1,69,36191
+1464,379,Def Leppard,40,70,2943184
+1465,277,The Who,40,72,3694705
+1466,361,John Mellencamp,40,68,951249
+1467,364,Reba McEntire,96,66,1268360
+1468,301,Santana,68,72,1802085
+1469,15,Traditional,5,72,31894
+1470,290,Joni Mitchell,50,70,893678
+1471,335,Juan Gabriel,93,76,4850220
+1472,373,TOTO,40,75,1685562
+1473,278,Yo-Yo Ma,77,70,419923
+1474,357,Randy Travis,96,65,961937
+1475,279,Aretha Franklin,49,74,2415174
+1476,351,KISS,40,74,5275304
+1477,365,The Clash,72,72,1992137
+1478,362,Raffi,98,66,81491
+1479,16,Claude Debussy,4,70,1043323
+1480,366,Foreigner,40,71,1801946
+1481,380,Amy Grant,1,66,144613
+1482,324,John Prine,91,66,325458
+1483,318,ZZ Top,40,71,2756303
+1484,302,Chicago,1,71,2139739
+1485,358,Mannheim Steamroller,1,63,52838
+1486,294,Neil Diamond,1,71,1358302
+1487,336,"Grover Washington, Jr.",94,71,163697
+1488,303,Kenny Rogers,1,72,1429640
+1489,381,Depeche Mode,43,75,3516027
+1490,374,The Cars,40,67,1024485
+1491,17,Royal Philharmonic Orchestra,3,72,97345
+1492,304,Blue Öyster Cult,40,67,979446
+1493,258,The Kinks,40,70,1712680
+1494,337,Styx,40,65,1117937
+1495,259,George Jones,17,64,702029
+1496,327,REO Speedwagon,40,67,1404806
+1497,245,Antonio Vivaldi,2,73,1630093
+1498,328,Kenny Loggins,40,69,624901
+1499,260,Merle Haggard,70,64,778016
+1500,8,Frédéric Chopin,4,76,2206803
+1501,344,Electric Light Orchestra,40,73,2506008
+1502,9,Berliner Philharmoniker,4,74,129242
+1503,346,ABBA,59,79,4953095
+1504,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1505,355,Simon & Garfunkel,72,75,3100273
+1506,375,The Cure,43,76,2895335
+1507,309,Black Sabbath,40,74,4957556
+1508,310,The Temptations,63,70,1890190
+1509,378,Alabama,17,67,769532
+1510,12,Ludwig van Beethoven,4,75,3563939
+1511,333,Steely Dan,40,69,1247921
+1512,347,Bob Seger,40,69,1145690
+1513,363,Talking Heads,99,71,1438609
+1514,334,Paul Simon,72,72,1478287
+1515,382,Darlene Love,1,70,35151
+1516,313,Neil Young,40,72,2040300
+1517,314,Eric Clapton,40,75,3905822
+1518,370,The Police,40,76,3876669
+1519,315,The Doobie Brothers,40,70,1399673
+1520,316,Allman Brothers Band,40,67,1015069
+1521,350,Rush,40,69,1485853
+1522,371,Sir Simon Rattle,14,70,39423
+1523,379,Def Leppard,40,70,2943184
+1524,361,John Mellencamp,40,68,951249
+1525,364,Reba McEntire,96,66,1268360
+1526,383,Grupo Laberinto,102,68,194661
+1527,384,Bryan Adams,40,78,1889203
+1528,301,Santana,68,72,1802085
+1529,15,Traditional,5,72,31894
+1530,289,Rod Stewart,82,76,2503862
+1531,290,Joni Mitchell,50,70,893678
+1532,335,Juan Gabriel,93,76,4850220
+1533,291,Donny Hathaway,83,69,375372
+1534,292,Yoko Ono,84,73,79127
+1535,373,TOTO,40,75,1685562
+1536,278,Yo-Yo Ma,77,70,419923
+1537,279,Aretha Franklin,49,74,2415174
+1538,351,KISS,40,74,5275304
+1539,365,The Clash,72,72,1992137
+1540,362,Raffi,98,66,81491
+1541,16,Claude Debussy,4,70,1043323
+1542,385,Grupo Bryndis,89,70,985800
+1543,386,Conjunto Primavera,102,70,1301985
+1544,380,Amy Grant,1,66,144613
+1545,324,John Prine,91,66,325458
+1546,318,ZZ Top,40,71,2756303
+1547,302,Chicago,1,71,2139739
+1548,294,Neil Diamond,1,71,1358302
+1549,319,Mykola Dmytrovych Leontovych,88,67,2032
+1550,375,The Cure,43,76,2895335
+1551,309,Black Sabbath,40,74,4957556
+1552,310,The Temptations,63,70,1890190
+1553,378,Alabama,17,67,769532
+1554,311,Bee Gees,1,77,3875789
+1555,12,Ludwig van Beethoven,4,75,3563939
+1556,347,Bob Seger,40,69,1145690
+1557,312,Steve Miller Band,40,69,1776943
+1558,313,Neil Young,40,72,2040300
+1559,314,Eric Clapton,40,75,3905822
+1560,370,The Police,40,76,3876669
+1561,13,Mitchell Ayres & His Orchestra,0,70,366
+1562,316,Allman Brothers Band,40,67,1015069
+1563,350,Rush,40,69,1485853
+1564,371,Sir Simon Rattle,14,70,39423
+1565,379,Def Leppard,40,70,2943184
+1566,277,The Who,40,72,3694705
+1567,364,Reba McEntire,96,66,1268360
+1568,384,Bryan Adams,40,78,1889203
+1569,301,Santana,68,72,1802085
+1570,15,Traditional,5,72,31894
+1571,289,Rod Stewart,82,76,2503862
+1572,335,Juan Gabriel,93,76,4850220
+1573,373,TOTO,40,75,1685562
+1574,387,Billy Idol,40,72,1079111
+1575,388,Kenny G,103,70,682778
+1576,278,Yo-Yo Ma,77,70,419923
+1577,279,Aretha Franklin,49,74,2415174
+1578,351,KISS,40,74,5275304
+1579,16,Claude Debussy,4,70,1043323
+1580,366,Foreigner,40,71,1801946
+1581,318,ZZ Top,40,71,2756303
+1582,358,Mannheim Steamroller,1,63,52838
+1583,294,Neil Diamond,1,71,1358302
+1584,303,Kenny Rogers,1,72,1429640
+1585,381,Depeche Mode,43,75,3516027
+1586,374,The Cars,40,67,1024485
+1587,17,Royal Philharmonic Orchestra,3,72,97345
+1588,304,Blue Öyster Cult,40,67,979446
+1589,389,Los Invasores De Nuevo León,102,70,924188
+1590,258,The Kinks,40,70,1712680
+1591,390,Iron Maiden,40,75,5886017
+1592,337,Styx,40,65,1117937
+1593,259,George Jones,17,64,702029
+1594,245,Antonio Vivaldi,2,73,1630093
+1595,260,Merle Haggard,70,64,778016
+1596,359,Joan Jett & The Blackhearts,97,68,443869
+1597,296,George Harrison,40,70,1693702
+1598,391,Dire Straits,40,77,4128131
+1599,261,Al Green,49,68,1370189
+1600,392,Otis Redding,49,73,1650129
+1601,393,The Chicks,96,70,1078807
+1602,345,Chuck Berry,1,73,1266265
+1603,9,Berliner Philharmoniker,4,74,129242
+1604,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1605,355,Simon & Garfunkel,72,75,3100273
+1606,375,The Cure,43,76,2895335
+1607,309,Black Sabbath,40,74,4957556
+1608,394,will.i.am,48,75,3198498
+1609,310,The Temptations,63,70,1890190
+1610,378,Alabama,17,67,769532
+1611,12,Ludwig van Beethoven,4,75,3563939
+1612,333,Steely Dan,40,69,1247921
+1613,347,Bob Seger,40,69,1145690
+1614,312,Steve Miller Band,40,69,1776943
+1615,395,Luis Miguel,13,83,6056125
+1616,363,Talking Heads,99,71,1438609
+1617,313,Neil Young,40,72,2040300
+1618,314,Eric Clapton,40,75,3905822
+1619,315,The Doobie Brothers,40,70,1399673
+1620,14,Gene Autry,1,69,36191
+1621,396,Erik Eriksson,104,73,1028
+1622,350,Rush,40,69,1485853
+1623,397,Fergie,48,72,4137071
+1624,277,The Who,40,72,3694705
+1625,361,John Mellencamp,40,68,951249
+1626,364,Reba McEntire,96,66,1268360
+1627,15,Traditional,5,72,31894
+1628,289,Rod Stewart,82,76,2503862
+1629,290,Joni Mitchell,50,70,893678
+1630,335,Juan Gabriel,93,76,4850220
+1631,373,TOTO,40,75,1685562
+1632,387,Billy Idol,40,72,1079111
+1633,388,Kenny G,103,70,682778
+1634,278,Yo-Yo Ma,77,70,419923
+1635,279,Aretha Franklin,49,74,2415174
+1636,351,KISS,40,74,5275304
+1637,365,The Clash,72,72,1992137
+1638,398,R.E.M.,74,75,2743833
+1639,362,Raffi,98,66,81491
+1640,16,Claude Debussy,4,70,1043323
+1641,386,Conjunto Primavera,102,70,1301985
+1642,366,Foreigner,40,71,1801946
+1643,380,Amy Grant,1,66,144613
+1644,302,Chicago,1,71,2139739
+1645,294,Neil Diamond,1,71,1358302
+1646,399,Janet Jackson,48,68,2285735
+1647,336,"Grover Washington, Jr.",94,71,163697
+1648,303,Kenny Rogers,1,72,1429640
+1649,381,Depeche Mode,43,75,3516027
+1650,375,The Cure,43,76,2895335
+1651,309,Black Sabbath,40,74,4957556
+1652,377,Madonna,48,78,4610377
+1653,310,The Temptations,63,70,1890190
+1654,378,Alabama,17,67,769532
+1655,12,Ludwig van Beethoven,4,75,3563939
+1656,400,The Smiths,43,74,2436609
+1657,312,Steve Miller Band,40,69,1776943
+1658,395,Luis Miguel,13,83,6056125
+1659,363,Talking Heads,99,71,1438609
+1660,334,Paul Simon,72,72,1478287
+1661,313,Neil Young,40,72,2040300
+1662,314,Eric Clapton,40,75,3905822
+1663,370,The Police,40,76,3876669
+1664,315,The Doobie Brothers,40,70,1399673
+1665,379,Def Leppard,40,70,2943184
+1666,361,John Mellencamp,40,68,951249
+1667,364,Reba McEntire,96,66,1268360
+1668,383,Grupo Laberinto,102,68,194661
+1669,384,Bryan Adams,40,78,1889203
+1670,301,Santana,68,72,1802085
+1671,15,Traditional,5,72,31894
+1672,372,Travis Tritt,96,66,833782
+1673,289,Rod Stewart,82,76,2503862
+1674,290,Joni Mitchell,50,70,893678
+1675,335,Juan Gabriel,93,76,4850220
+1676,387,Billy Idol,40,72,1079111
+1677,388,Kenny G,103,70,682778
+1678,278,Yo-Yo Ma,77,70,419923
+1679,357,Randy Travis,96,65,961937
+1680,279,Aretha Franklin,49,74,2415174
+1681,351,KISS,40,74,5275304
+1682,398,R.E.M.,74,75,2743833
+1683,362,Raffi,98,66,81491
+1684,401,Tears For Fears,43,72,1802269
+1685,16,Claude Debussy,4,70,1043323
+1686,380,Amy Grant,1,66,144613
+1687,318,ZZ Top,40,71,2756303
+1688,358,Mannheim Steamroller,1,63,52838
+1689,402,Sade,105,71,2197841
+1690,294,Neil Diamond,1,71,1358302
+1691,336,"Grover Washington, Jr.",94,71,163697
+1692,303,Kenny Rogers,1,72,1429640
+1693,381,Depeche Mode,43,75,3516027
+1694,403,Eartha Kitt,1,67,111126
+1695,325,Jackson Browne,40,66,782971
+1696,17,Royal Philharmonic Orchestra,3,72,97345
+1697,304,Blue Öyster Cult,40,67,979446
+1698,389,Los Invasores De Nuevo León,102,70,924188
+1699,352,Heart,40,69,1464420
+1700,404,Mötley Crüe,106,73,2931645
+1701,405,Los Temerarios,89,74,1621218
+1702,406,"Hank Williams, Jr.",17,67,911522
+1703,407,Los Tigres Del Norte,102,75,2189071
+1704,341,Waylon Jennings,17,69,837391
+1705,342,Jimmy Buffett,95,68,432151
+1706,8,Frédéric Chopin,4,76,2206803
+1707,408,Phil Collins,82,78,3313532
+1708,345,Chuck Berry,1,73,1266265
+1709,9,Berliner Philharmoniker,4,74,129242
+1710,409,Céline Dion,107,78,4338522
+1711,10,Tony Bennett,1,73,589080
+1712,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1713,375,The Cure,43,76,2895335
+1714,376,Los Bukis,89,73,1587755
+1715,377,Madonna,48,78,4610377
+1716,410,The Andrews Sisters,1,70,137678
+1717,310,The Temptations,63,70,1890190
+1718,378,Alabama,17,67,769532
+1719,12,Ludwig van Beethoven,4,75,3563939
+1720,400,The Smiths,43,74,2436609
+1721,312,Steve Miller Band,40,69,1776943
+1722,395,Luis Miguel,13,83,6056125
+1723,363,Talking Heads,99,71,1438609
+1724,313,Neil Young,40,72,2040300
+1725,314,Eric Clapton,40,75,3905822
+1726,350,Rush,40,69,1485853
+1727,277,The Who,40,72,3694705
+1728,364,Reba McEntire,96,66,1268360
+1729,384,Bryan Adams,40,78,1889203
+1730,15,Traditional,5,72,31894
+1731,289,Rod Stewart,82,76,2503862
+1732,335,Juan Gabriel,93,76,4850220
+1733,292,Yoko Ono,84,73,79127
+1734,373,TOTO,40,75,1685562
+1735,387,Billy Idol,40,72,1079111
+1736,278,Yo-Yo Ma,77,70,419923
+1737,279,Aretha Franklin,49,74,2415174
+1738,351,KISS,40,74,5275304
+1739,398,R.E.M.,74,75,2743833
+1740,16,Claude Debussy,4,70,1043323
+1741,293,The Band,40,67,712229
+1742,411,George Michael,43,76,2799449
+1743,386,Conjunto Primavera,102,70,1301985
+1744,366,Foreigner,40,71,1801946
+1745,380,Amy Grant,1,66,144613
+1746,324,John Prine,91,66,325458
+1747,302,Chicago,1,71,2139739
+1748,358,Mannheim Steamroller,1,63,52838
+1749,402,Sade,105,71,2197841
+1750,333,Steely Dan,40,69,1247921
+1751,400,The Smiths,43,74,2436609
+1752,395,Luis Miguel,13,83,6056125
+1753,363,Talking Heads,99,71,1438609
+1754,313,Neil Young,40,72,2040300
+1755,314,Eric Clapton,40,75,3905822
+1756,14,Gene Autry,1,69,36191
+1757,350,Rush,40,69,1485853
+1758,371,Sir Simon Rattle,14,70,39423
+1759,361,John Mellencamp,40,68,951249
+1760,364,Reba McEntire,96,66,1268360
+1761,384,Bryan Adams,40,78,1889203
+1762,301,Santana,68,72,1802085
+1763,15,Traditional,5,72,31894
+1764,372,Travis Tritt,96,66,833782
+1765,289,Rod Stewart,82,76,2503862
+1766,290,Joni Mitchell,50,70,893678
+1767,387,Billy Idol,40,72,1079111
+1768,388,Kenny G,103,70,682778
+1769,278,Yo-Yo Ma,77,70,419923
+1770,357,Randy Travis,96,65,961937
+1771,279,Aretha Franklin,49,74,2415174
+1772,351,KISS,40,74,5275304
+1773,365,The Clash,72,72,1992137
+1774,398,R.E.M.,74,75,2743833
+1775,362,Raffi,98,66,81491
+1776,401,Tears For Fears,43,72,1802269
+1777,16,Claude Debussy,4,70,1043323
+1778,411,George Michael,43,76,2799449
+1779,386,Conjunto Primavera,102,70,1301985
+1780,380,Amy Grant,1,66,144613
+1781,324,John Prine,91,66,325458
+1782,318,ZZ Top,40,71,2756303
+1783,402,Sade,105,71,2197841
+1784,336,"Grover Washington, Jr.",94,71,163697
+1785,303,Kenny Rogers,1,72,1429640
+1786,381,Depeche Mode,43,75,3516027
+1787,374,The Cars,40,67,1024485
+1788,17,Royal Philharmonic Orchestra,3,72,97345
+1789,304,Blue Öyster Cult,40,67,979446
+1790,389,Los Invasores De Nuevo León,102,70,924188
+1791,352,Heart,40,69,1464420
+1792,390,Iron Maiden,40,75,5886017
+1793,259,George Jones,17,64,702029
+1794,327,REO Speedwagon,40,67,1404806
+1795,245,Antonio Vivaldi,2,73,1630093
+1796,328,Kenny Loggins,40,69,624901
+1797,260,Merle Haggard,70,64,778016
+1798,391,Dire Straits,40,77,4128131
+1799,261,Al Green,49,68,1370189
+1800,346,ABBA,59,79,4953095
+1801,412,Beastie Boys,74,70,1799245
+1802,10,Tony Bennett,1,73,589080
+1803,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1804,375,The Cure,43,76,2895335
+1805,309,Black Sabbath,40,74,4957556
+1806,377,Madonna,48,78,4610377
+1807,310,The Temptations,63,70,1890190
+1808,378,Alabama,17,67,769532
+1809,12,Ludwig van Beethoven,4,75,3563939
+1810,400,The Smiths,43,74,2436609
+1811,347,Bob Seger,40,69,1145690
+1812,312,Steve Miller Band,40,69,1776943
+1813,363,Talking Heads,99,71,1438609
+1814,334,Paul Simon,72,72,1478287
+1815,313,Neil Young,40,72,2040300
+1816,314,Eric Clapton,40,75,3905822
+1817,413,Ken Darby Singers,0,70,210
+1818,371,Sir Simon Rattle,14,70,39423
+1819,364,Reba McEntire,96,66,1268360
+1820,15,Traditional,5,72,31894
+1821,372,Travis Tritt,96,66,833782
+1822,289,Rod Stewart,82,76,2503862
+1823,335,Juan Gabriel,93,76,4850220
+1824,373,TOTO,40,75,1685562
+1825,387,Billy Idol,40,72,1079111
+1826,356,Boston,40,69,1620940
+1827,388,Kenny G,103,70,682778
+1828,278,Yo-Yo Ma,77,70,419923
+1829,357,Randy Travis,96,65,961937
+1830,279,Aretha Franklin,49,74,2415174
+1831,398,R.E.M.,74,75,2743833
+1832,16,Claude Debussy,4,70,1043323
+1833,411,George Michael,43,76,2799449
+1834,386,Conjunto Primavera,102,70,1301985
+1835,380,Amy Grant,1,66,144613
+1836,324,John Prine,91,66,325458
+1837,302,Chicago,1,71,2139739
+1838,358,Mannheim Steamroller,1,63,52838
+1839,294,Neil Diamond,1,71,1358302
+1840,399,Janet Jackson,48,68,2285735
+1841,336,"Grover Washington, Jr.",94,71,163697
+1842,303,Kenny Rogers,1,72,1429640
+1843,381,Depeche Mode,43,75,3516027
+1844,403,Eartha Kitt,1,67,111126
+1845,325,Jackson Browne,40,66,782971
+1846,17,Royal Philharmonic Orchestra,3,72,97345
+1847,389,Los Invasores De Nuevo León,102,70,924188
+1848,258,The Kinks,40,70,1712680
+1849,390,Iron Maiden,40,75,5886017
+1850,407,Los Tigres Del Norte,102,75,2189071
+1851,341,Waylon Jennings,17,69,837391
+1852,8,Frédéric Chopin,4,76,2206803
+1853,408,Phil Collins,82,78,3313532
+1854,345,Chuck Berry,1,73,1266265
+1855,368,Stevie Nicks,101,72,704194
+1856,9,Berliner Philharmoniker,4,74,129242
+1857,409,Céline Dion,107,78,4338522
+1858,10,Tony Bennett,1,73,589080
+1859,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1860,375,The Cure,43,76,2895335
+1861,309,Black Sabbath,40,74,4957556
+1862,377,Madonna,48,78,4610377
+1863,410,The Andrews Sisters,1,70,137678
+1864,310,The Temptations,63,70,1890190
+1865,378,Alabama,17,67,769532
+1866,311,Bee Gees,1,77,3875789
+1867,12,Ludwig van Beethoven,4,75,3563939
+1868,414,Kylie Minogue,108,78,1165189
+1869,400,The Smiths,43,74,2436609
+1870,347,Bob Seger,40,69,1145690
+1871,395,Luis Miguel,13,83,6056125
+1872,334,Paul Simon,72,72,1478287
+1873,313,Neil Young,40,72,2040300
+1874,415,Enya,109,75,1417145
+1875,314,Eric Clapton,40,75,3905822
+1876,13,Mitchell Ayres & His Orchestra,0,70,366
+1877,350,Rush,40,69,1485853
+1878,371,Sir Simon Rattle,14,70,39423
+1879,416,The Goo Goo Dolls,74,71,1776252
+1880,379,Def Leppard,40,70,2943184
+1881,361,John Mellencamp,40,68,951249
+1882,364,Reba McEntire,96,66,1268360
+1883,383,Grupo Laberinto,102,68,194661
+1884,384,Bryan Adams,40,78,1889203
+1885,301,Santana,68,72,1802085
+1886,15,Traditional,5,72,31894
+1887,335,Juan Gabriel,93,76,4850220
+1888,417,Afrojack,110,76,3541986
+1889,388,Kenny G,103,70,682778
+1890,278,Yo-Yo Ma,77,70,419923
+1891,357,Randy Travis,96,65,961937
+1892,279,Aretha Franklin,49,74,2415174
+1893,351,KISS,40,74,5275304
+1894,398,R.E.M.,74,75,2743833
+1895,362,Raffi,98,66,81491
+1896,16,Claude Debussy,4,70,1043323
+1897,411,George Michael,43,76,2799449
+1898,366,Foreigner,40,71,1801946
+1899,318,ZZ Top,40,71,2756303
+1900,418,Jimi Hendrix,76,74,4591808
+1901,419,Ice Cube,111,74,4044613
+1902,420,"Earth, Wind & Fire",71,75,2657085
+1903,405,Los Temerarios,89,74,1621218
+1904,421,James Taylor,1,71,1482319
+1905,406,"Hank Williams, Jr.",17,67,911522
+1906,341,Waylon Jennings,17,69,837391
+1907,342,Jimmy Buffett,95,68,432151
+1908,8,Frédéric Chopin,4,76,2206803
+1909,408,Phil Collins,82,78,3313532
+1910,345,Chuck Berry,1,73,1266265
+1911,368,Stevie Nicks,101,72,704194
+1912,9,Berliner Philharmoniker,4,74,129242
+1913,10,Tony Bennett,1,73,589080
+1914,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1915,410,The Andrews Sisters,1,70,137678
+1916,378,Alabama,17,67,769532
+1917,12,Ludwig van Beethoven,4,75,3563939
+1918,414,Kylie Minogue,108,78,1165189
+1919,400,The Smiths,43,74,2436609
+1920,395,Luis Miguel,13,83,6056125
+1921,363,Talking Heads,99,71,1438609
+1922,334,Paul Simon,72,72,1478287
+1923,382,Darlene Love,1,70,35151
+1924,313,Neil Young,40,72,2040300
+1925,422,John Scott Trotter & His Orchestra,112,70,220
+1926,415,Enya,109,75,1417145
+1927,314,Eric Clapton,40,75,3905822
+1928,413,Ken Darby Singers,0,70,210
+1929,13,Mitchell Ayres & His Orchestra,0,70,366
+1930,371,Sir Simon Rattle,14,70,39423
+1931,379,Def Leppard,40,70,2943184
+1932,361,John Mellencamp,40,68,951249
+1933,364,Reba McEntire,96,66,1268360
+1934,384,Bryan Adams,40,78,1889203
+1935,301,Santana,68,72,1802085
+1936,15,Traditional,5,72,31894
+1937,372,Travis Tritt,96,66,833782
+1938,289,Rod Stewart,82,76,2503862
+1939,290,Joni Mitchell,50,70,893678
+1940,335,Juan Gabriel,93,76,4850220
+1941,373,TOTO,40,75,1685562
+1942,356,Boston,40,69,1620940
+1943,388,Kenny G,103,70,682778
+1944,278,Yo-Yo Ma,77,70,419923
+1945,357,Randy Travis,96,65,961937
+1946,423,Soundgarden,113,69,2778071
+1947,351,KISS,40,74,5275304
+1948,365,The Clash,72,72,1992137
+1949,398,R.E.M.,74,75,2743833
+1950,404,Mötley Crüe,106,73,2931645
+1951,405,Los Temerarios,89,74,1621218
+1952,406,"Hank Williams, Jr.",17,67,911522
+1953,407,Los Tigres Del Norte,102,75,2189071
+1954,342,Jimmy Buffett,95,68,432151
+1955,8,Frédéric Chopin,4,76,2206803
+1956,408,Phil Collins,82,78,3313532
+1957,368,Stevie Nicks,101,72,704194
+1958,9,Berliner Philharmoniker,4,74,129242
+1959,412,Beastie Boys,74,70,1799245
+1960,10,Tony Bennett,1,73,589080
+1961,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+1962,375,The Cure,43,76,2895335
+1963,376,Los Bukis,89,73,1587755
+1964,377,Madonna,48,78,4610377
+1965,410,The Andrews Sisters,1,70,137678
+1966,310,The Temptations,63,70,1890190
+1967,378,Alabama,17,67,769532
+1968,311,Bee Gees,1,77,3875789
+1969,12,Ludwig van Beethoven,4,75,3563939
+1970,414,Kylie Minogue,108,78,1165189
+1971,395,Luis Miguel,13,83,6056125
+1972,334,Paul Simon,72,72,1478287
+1973,313,Neil Young,40,72,2040300
+1974,422,John Scott Trotter & His Orchestra,112,70,220
+1975,415,Enya,109,75,1417145
+1976,314,Eric Clapton,40,75,3905822
+1977,315,The Doobie Brothers,40,70,1399673
+1978,413,Ken Darby Singers,0,70,210
+1979,316,Allman Brothers Band,40,67,1015069
+1980,350,Rush,40,69,1485853
+1981,371,Sir Simon Rattle,14,70,39423
+1982,416,The Goo Goo Dolls,74,71,1776252
+1983,424,Too $hort,114,67,918981
+1984,361,John Mellencamp,40,68,951249
+1985,364,Reba McEntire,96,66,1268360
+1986,15,Traditional,5,72,31894
+1987,289,Rod Stewart,82,76,2503862
+1988,290,Joni Mitchell,50,70,893678
+1989,335,Juan Gabriel,93,76,4850220
+1990,425,Nine Inch Nails,113,68,1653219
+1991,388,Kenny G,103,70,682778
+1992,278,Yo-Yo Ma,77,70,419923
+1993,357,Randy Travis,96,65,961937
+1994,279,Aretha Franklin,49,74,2415174
+1995,423,Soundgarden,113,69,2778071
+1996,351,KISS,40,74,5275304
+1997,362,Raffi,98,66,81491
+1998,401,Tears For Fears,43,72,1802269
+1999,16,Claude Debussy,4,70,1043323
+2000,426,Selena,115,75,1405527
+2001,5,Louis Armstrong,1,75,2151204
+2002,6,London Symphony Orchestra,3,76,208417
+2003,427,Alice In Chains,113,73,3007793
+2004,428,Timbaland,48,77,1804575
+2005,429,John Lennon,40,78,3821472
+2006,7,Wolfgang Amadeus Mozart,4,77,3777757
+2007,430,José Feliciano,115,76,210346
+2008,431,U2,116,80,7617783
+2009,432,Vicente Fernández,11,77,3975145
+2010,433,*NSYNC,117,73,1391635
+2011,434,Hans Zimmer,118,78,2322511
+2012,435,Prince,66,74,4875406
+2013,436,John Denver,1,73,1146555
+2014,437,Backstreet Boys,117,78,3556926
+2015,438,Los Tucanes De Tijuana,102,73,1027786
+2016,419,Ice Cube,111,74,4044613
+2017,420,"Earth, Wind & Fire",71,75,2657085
+2018,405,Los Temerarios,89,74,1621218
+2019,439,Kid Rock,113,70,1458031
+2020,440,Joan Sebastian,119,77,4528219
+2021,441,Diddy,48,74,1043276
+2022,421,James Taylor,1,71,1482319
+2023,406,"Hank Williams, Jr.",17,67,911522
+2024,407,Los Tigres Del Norte,102,75,2189071
+2025,341,Waylon Jennings,17,69,837391
+2026,342,Jimmy Buffett,95,68,432151
+2027,8,Frédéric Chopin,4,76,2206803
+2028,408,Phil Collins,82,78,3313532
+2029,344,Electric Light Orchestra,40,73,2506008
+2030,9,Berliner Philharmoniker,4,74,129242
+2031,409,Céline Dion,107,78,4338522
+2032,10,Tony Bennett,1,73,589080
+2033,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+2034,375,The Cure,43,76,2895335
+2035,376,Los Bukis,89,73,1587755
+2036,377,Madonna,48,78,4610377
+2037,410,The Andrews Sisters,1,70,137678
+2038,378,Alabama,17,67,769532
+2039,311,Bee Gees,1,77,3875789
+2040,12,Ludwig van Beethoven,4,75,3563939
+2041,442,Banda El Recodo,119,74,2247541
+2042,414,Kylie Minogue,108,78,1165189
+2043,443,Maná,57,77,5946261
+2044,312,Steve Miller Band,40,69,1776943
+2045,395,Luis Miguel,13,83,6056125
+2046,334,Paul Simon,72,72,1478287
+2047,313,Neil Young,40,72,2040300
+2048,314,Eric Clapton,40,75,3905822
+2049,444,TLC,92,70,2387823
+2050,445,Marvin Gaye,49,76,3722717
+2051,7,Wolfgang Amadeus Mozart,4,77,3777757
+2052,430,José Feliciano,115,76,210346
+2053,431,U2,116,80,7617783
+2054,432,Vicente Fernández,11,77,3975145
+2055,434,Hans Zimmer,118,78,2322511
+2056,435,Prince,66,74,4875406
+2057,436,John Denver,1,73,1146555
+2058,446,Marc Anthony,57,79,4805028
+2059,419,Ice Cube,111,74,4044613
+2060,447,Sean Paul,48,80,3230137
+2061,448,Tom Petty and the Heartbreakers,40,71,1612135
+2062,440,Joan Sebastian,119,77,4528219
+2063,421,James Taylor,1,71,1482319
+2064,406,"Hank Williams, Jr.",17,67,911522
+2065,407,Los Tigres Del Norte,102,75,2189071
+2066,341,Waylon Jennings,17,69,837391
+2067,342,Jimmy Buffett,95,68,432151
+2068,8,Frédéric Chopin,4,76,2206803
+2069,408,Phil Collins,82,78,3313532
+2070,392,Otis Redding,49,73,1650129
+2071,345,Chuck Berry,1,73,1266265
+2072,368,Stevie Nicks,101,72,704194
+2073,9,Berliner Philharmoniker,4,74,129242
+2074,409,Céline Dion,107,78,4338522
+2075,369,The Doors,76,75,5444751
+2076,10,Tony Bennett,1,73,589080
+2077,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+2078,376,Los Bukis,89,73,1587755
+2079,377,Madonna,48,78,4610377
+2080,410,The Andrews Sisters,1,70,137678
+2081,310,The Temptations,63,70,1890190
+2082,378,Alabama,17,67,769532
+2083,449,Chalino Sanchez,102,70,1312641
+2084,311,Bee Gees,1,77,3875789
+2085,12,Ludwig van Beethoven,4,75,3563939
+2086,442,Banda El Recodo,119,74,2247541
+2087,414,Kylie Minogue,108,78,1165189
+2088,347,Bob Seger,40,69,1145690
+2089,312,Steve Miller Band,40,69,1776943
+2090,395,Luis Miguel,13,83,6056125
+2091,334,Paul Simon,72,72,1478287
+2092,313,Neil Young,40,72,2040300
+2093,415,Enya,109,75,1417145
+2094,314,Eric Clapton,40,75,3905822
+2095,315,The Doobie Brothers,40,70,1399673
+2096,13,Mitchell Ayres & His Orchestra,0,70,366
+2097,316,Allman Brothers Band,40,67,1015069
+2098,14,Gene Autry,1,69,36191
+2099,350,Rush,40,69,1485853
+2100,450,Hillsong Worship,120,76,2618089
+2101,451,Korn,113,75,4237267
+2102,452,Pearl Jam,74,78,6250119
+2103,453,Van Morrison,72,75,1875867
+2104,454,E-40,114,71,595604
+2105,455,TOOL,113,73,1757021
+2106,456,Bob Dylan,40,77,4688501
+2107,426,Selena,115,75,1405527
+2108,5,Louis Armstrong,1,75,2151204
+2109,6,London Symphony Orchestra,3,76,208417
+2110,427,Alice In Chains,113,73,3007793
+2111,429,John Lennon,40,78,3821472
+2112,445,Marvin Gaye,49,76,3722717
+2113,7,Wolfgang Amadeus Mozart,4,77,3777757
+2114,430,José Feliciano,115,76,210346
+2115,431,U2,116,80,7617783
+2116,432,Vicente Fernández,11,77,3975145
+2117,434,Hans Zimmer,118,78,2322511
+2118,435,Prince,66,74,4875406
+2119,457,Mary J. Blige,48,73,2492202
+2120,436,John Denver,1,73,1146555
+2121,438,Los Tucanes De Tijuana,102,73,1027786
+2122,458,Bon Jovi,106,80,8632039
+2123,418,Jimi Hendrix,76,74,4591808
+2124,459,The Offspring,113,76,3881609
+2125,419,Ice Cube,111,74,4044613
+2126,420,"Earth, Wind & Fire",71,75,2657085
+2127,448,Tom Petty and the Heartbreakers,40,71,1612135
+2128,405,Los Temerarios,89,74,1621218
+2129,440,Joan Sebastian,119,77,4528219
+2130,441,Diddy,48,74,1043276
+2131,421,James Taylor,1,71,1482319
+2132,406,"Hank Williams, Jr.",17,67,911522
+2133,407,Los Tigres Del Norte,102,75,2189071
+2134,460,Rage Against The Machine,113,74,3916365
+2135,341,Waylon Jennings,17,69,837391
+2136,342,Jimmy Buffett,95,68,432151
+2137,8,Frédéric Chopin,4,76,2206803
+2138,461,Ludovico Einaudi,121,80,2045301
+2139,408,Phil Collins,82,78,3313532
+2140,392,Otis Redding,49,73,1650129
+2141,344,Electric Light Orchestra,40,73,2506008
+2142,9,Berliner Philharmoniker,4,74,129242
+2143,409,Céline Dion,107,78,4338522
+2144,346,ABBA,59,79,4953095
+2145,412,Beastie Boys,74,70,1799245
+2146,10,Tony Bennett,1,73,589080
+2147,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+2148,375,The Cure,43,76,2895335
+2149,309,Black Sabbath,40,74,4957556
+2150,452,Pearl Jam,74,78,6250119
+2151,453,Van Morrison,72,75,1875867
+2152,454,E-40,114,71,595604
+2153,462,Lynyrd Skynyrd,40,74,3117287
+2154,455,TOOL,113,73,1757021
+2155,456,Bob Dylan,40,77,4688501
+2156,426,Selena,115,75,1405527
+2157,5,Louis Armstrong,1,75,2151204
+2158,6,London Symphony Orchestra,3,76,208417
+2159,463,The Smashing Pumpkins,113,74,3050063
+2160,427,Alice In Chains,113,73,3007793
+2161,429,John Lennon,40,78,3821472
+2162,445,Marvin Gaye,49,76,3722717
+2163,464,Tom Petty,40,72,1454724
+2164,7,Wolfgang Amadeus Mozart,4,77,3777757
+2165,430,José Feliciano,115,76,210346
+2166,431,U2,116,80,7617783
+2167,432,Vicente Fernández,11,77,3975145
+2168,433,*NSYNC,117,73,1391635
+2169,434,Hans Zimmer,118,78,2322511
+2170,465,Bill Withers,66,75,1014706
+2171,435,Prince,66,74,4875406
+2172,457,Mary J. Blige,48,73,2492202
+2173,436,John Denver,1,73,1146555
+2174,438,Los Tucanes De Tijuana,102,73,1027786
+2175,446,Marc Anthony,57,79,4805028
+2176,418,Jimi Hendrix,76,74,4591808
+2177,419,Ice Cube,111,74,4044613
+2178,420,"Earth, Wind & Fire",71,75,2657085
+2179,466,B. Swanson Quartet,0,74,317
+2180,448,Tom Petty and the Heartbreakers,40,71,1612135
+2181,405,Los Temerarios,89,74,1621218
+2182,467,Shania Twain,122,74,2093225
+2183,440,Joan Sebastian,119,77,4528219
+2184,441,Diddy,48,74,1043276
+2185,421,James Taylor,1,71,1482319
+2186,406,"Hank Williams, Jr.",17,67,911522
+2187,407,Los Tigres Del Norte,102,75,2189071
+2188,341,Waylon Jennings,17,69,837391
+2189,342,Jimmy Buffett,95,68,432151
+2190,8,Frédéric Chopin,4,76,2206803
+2191,408,Phil Collins,82,78,3313532
+2192,392,Otis Redding,49,73,1650129
+2193,468,Dave Matthews Band,123,68,1428030
+2194,9,Berliner Philharmoniker,4,74,129242
+2195,409,Céline Dion,107,78,4338522
+2196,346,ABBA,59,79,4953095
+2197,469,Los Ángeles Azules,124,78,3836642
+2198,10,Tony Bennett,1,73,589080
+2199,11,Pyotr Ilyich Tchaikovsky,4,73,845581
+2200,4,Ella Fitzgerald,1,77,1800735
+2201,470,Willie Nelson,125,73,1270604
+2202,471,Sublime,126,72,1797935
+2203,472,Nas,111,75,2154972
+2204,473,Nate Dogg,127,77,942595
+2205,474,Carpenters,1,75,1610368
+2206,475,Guns N' Roses,106,81,18727604
+2207,476,Journey,40,75,3261977
+2208,477,Grateful Dead,72,70,1111638
+2209,478,Ozzy Osbourne,40,75,3268934
+2210,479,Aerosmith,40,78,9454600
+2211,480,Toby Keith,96,70,1394718
+2212,450,Hillsong Worship,120,76,2618089
+2213,451,Korn,113,75,4237267
+2214,452,Pearl Jam,74,78,6250119
+2215,453,Van Morrison,72,75,1875867
+2216,454,E-40,114,71,595604
+2217,462,Lynyrd Skynyrd,40,74,3117287
+2218,456,Bob Dylan,40,77,4688501
+2219,426,Selena,115,75,1405527
+2220,5,Louis Armstrong,1,75,2151204
+2221,6,London Symphony Orchestra,3,76,208417
+2222,463,The Smashing Pumpkins,113,74,3050063
+2223,427,Alice In Chains,113,73,3007793
+2224,429,John Lennon,40,78,3821472
+2225,445,Marvin Gaye,49,76,3722717
+2226,464,Tom Petty,40,72,1454724
+2227,7,Wolfgang Amadeus Mozart,4,77,3777757
+2228,430,José Feliciano,115,76,210346
+2229,432,Vicente Fernández,11,77,3975145
+2230,434,Hans Zimmer,118,78,2322511
+2231,465,Bill Withers,66,75,1014706
+2232,435,Prince,66,74,4875406
+2233,457,Mary J. Blige,48,73,2492202
+2234,436,John Denver,1,73,1146555
+2235,481,Hillsong UNITED,120,73,2746320
+2236,438,Los Tucanes De Tijuana,102,73,1027786
+2237,446,Marc Anthony,57,79,4805028
+2238,458,Bon Jovi,106,80,8632039
+2239,418,Jimi Hendrix,76,74,4591808
+2240,459,The Offspring,113,76,3881609
+2241,419,Ice Cube,111,74,4044613
+2242,420,"Earth, Wind & Fire",71,75,2657085
+2243,466,B. Swanson Quartet,0,74,317
+2244,404,Mötley Crüe,106,73,2931645
+2245,405,Los Temerarios,89,74,1621218
+2246,440,Joan Sebastian,119,77,4528219
+2247,441,Diddy,48,74,1043276
+2248,421,James Taylor,1,71,1482319
+2249,406,"Hank Williams, Jr.",17,67,911522
+2250,482,Creedence Clearwater Revival,72,79,3912522
+2251,483,Bob Marley & The Wailers,128,81,8903607
+2252,484,Whitney Houston,48,80,6071008
+2253,485,Weezer,74,74,2155736
+2254,486,The Beach Boys,129,76,2897575
+2255,487,Radiohead,74,79,5693009
+2256,488,David Bowie,40,80,6239253
+2257,3,Johann Sebastian Bach,2,79,2936106
+2258,489,Foo Fighters,113,79,8202770
+2259,490,Paul McCartney,40,78,3258608
+2260,4,Ella Fitzgerald,1,77,1800735
+2261,470,Willie Nelson,125,73,1270604
+2262,471,Sublime,126,72,1797935
+2263,472,Nas,111,75,2154972
+2264,474,Carpenters,1,75,1610368
+2265,476,Journey,40,75,3261977
+2266,477,Grateful Dead,72,70,1111638
+2267,478,Ozzy Osbourne,40,75,3268934
+2268,480,Toby Keith,96,70,1394718
+2269,450,Hillsong Worship,120,76,2618089
+2270,451,Korn,113,75,4237267
+2271,452,Pearl Jam,74,78,6250119
+2272,453,Van Morrison,72,75,1875867
+2273,454,E-40,114,71,595604
+2274,456,Bob Dylan,40,77,4688501
+2275,426,Selena,115,75,1405527
+2276,5,Louis Armstrong,1,75,2151204
+2277,6,London Symphony Orchestra,3,76,208417
+2278,463,The Smashing Pumpkins,113,74,3050063
+2279,427,Alice In Chains,113,73,3007793
+2280,428,Timbaland,48,77,1804575
+2281,429,John Lennon,40,78,3821472
+2282,445,Marvin Gaye,49,76,3722717
+2283,7,Wolfgang Amadeus Mozart,4,77,3777757
+2284,430,José Feliciano,115,76,210346
+2285,432,Vicente Fernández,11,77,3975145
+2286,434,Hans Zimmer,118,78,2322511
+2287,465,Bill Withers,66,75,1014706
+2288,435,Prince,66,74,4875406
+2289,457,Mary J. Blige,48,73,2492202
+2290,436,John Denver,1,73,1146555
+2291,437,Backstreet Boys,117,78,3556926
+2292,438,Los Tucanes De Tijuana,102,73,1027786
+2293,446,Marc Anthony,57,79,4805028
+2294,458,Bon Jovi,106,80,8632039
+2295,418,Jimi Hendrix,76,74,4591808
+2296,419,Ice Cube,111,74,4044613
+2297,420,"Earth, Wind & Fire",71,75,2657085
+2298,467,Shania Twain,122,74,2093225
+2299,440,Joan Sebastian,119,77,4528219
+2300,2,Perry Como,1,75,288057
+2301,484,Whitney Houston,48,80,6071008
+2302,485,Weezer,74,74,2155736
+2303,486,The Beach Boys,129,76,2897575
+2304,487,Radiohead,74,79,5693009
+2305,488,David Bowie,40,80,6239253
+2306,3,Johann Sebastian Bach,2,79,2936106
+2307,489,Foo Fighters,113,79,8202770
+2308,490,Paul McCartney,40,78,3258608
+2309,491,Nickelback,113,77,4768345
+2310,4,Ella Fitzgerald,1,77,1800735
+2311,492,Daryl Hall & John Oates,40,76,1353142
+2312,470,Willie Nelson,125,73,1270604
+2313,471,Sublime,126,72,1797935
+2314,472,Nas,111,75,2154972
+2315,473,Nate Dogg,127,77,942595
+2316,476,Journey,40,75,3261977
+2317,477,Grateful Dead,72,70,1111638
+2318,493,Missy Elliott,48,74,1497549
+2319,494,Skillet,113,76,3451490
+2320,480,Toby Keith,96,70,1394718
+2321,450,Hillsong Worship,120,76,2618089
+2322,451,Korn,113,75,4237267
+2323,452,Pearl Jam,74,78,6250119
+2324,453,Van Morrison,72,75,1875867
+2325,454,E-40,114,71,595604
+2326,462,Lynyrd Skynyrd,40,74,3117287
+2327,455,TOOL,113,73,1757021
+2328,456,Bob Dylan,40,77,4688501
+2329,426,Selena,115,75,1405527
+2330,5,Louis Armstrong,1,75,2151204
+2331,6,London Symphony Orchestra,3,76,208417
+2332,427,Alice In Chains,113,73,3007793
+2333,429,John Lennon,40,78,3821472
+2334,445,Marvin Gaye,49,76,3722717
+2335,7,Wolfgang Amadeus Mozart,4,77,3777757
+2336,430,José Feliciano,115,76,210346
+2337,432,Vicente Fernández,11,77,3975145
+2338,434,Hans Zimmer,118,78,2322511
+2339,465,Bill Withers,66,75,1014706
+2340,435,Prince,66,74,4875406
+2341,457,Mary J. Blige,48,73,2492202
+2342,436,John Denver,1,73,1146555
+2343,437,Backstreet Boys,117,78,3556926
+2344,438,Los Tucanes De Tijuana,102,73,1027786
+2345,446,Marc Anthony,57,79,4805028
+2346,419,Ice Cube,111,74,4044613
+2347,420,"Earth, Wind & Fire",71,75,2657085
+2348,448,Tom Petty and the Heartbreakers,40,71,1612135
+2349,405,Los Temerarios,89,74,1621218
+2350,483,Bob Marley & The Wailers,128,81,8903607
+2351,495,Brooks & Dunn,96,72,1671149
+2352,484,Whitney Houston,48,80,6071008
+2353,486,The Beach Boys,129,76,2897575
+2354,487,Radiohead,74,79,5693009
+2355,488,David Bowie,40,80,6239253
+2356,3,Johann Sebastian Bach,2,79,2936106
+2357,489,Foo Fighters,113,79,8202770
+2358,490,Paul McCartney,40,78,3258608
+2359,4,Ella Fitzgerald,1,77,1800735
+2360,470,Willie Nelson,125,73,1270604
+2361,471,Sublime,126,72,1797935
+2362,472,Nas,111,75,2154972
+2363,474,Carpenters,1,75,1610368
+2364,477,Grateful Dead,72,70,1111638
+2365,478,Ozzy Osbourne,40,75,3268934
+2366,493,Missy Elliott,48,74,1497549
+2367,479,Aerosmith,40,78,9454600
+2368,480,Toby Keith,96,70,1394718
+2369,450,Hillsong Worship,120,76,2618089
+2370,451,Korn,113,75,4237267
+2371,452,Pearl Jam,74,78,6250119
+2372,453,Van Morrison,72,75,1875867
+2373,454,E-40,114,71,595604
+2374,462,Lynyrd Skynyrd,40,74,3117287
+2375,456,Bob Dylan,40,77,4688501
+2376,426,Selena,115,75,1405527
+2377,5,Louis Armstrong,1,75,2151204
+2378,6,London Symphony Orchestra,3,76,208417
+2379,463,The Smashing Pumpkins,113,74,3050063
+2380,428,Timbaland,48,77,1804575
+2381,429,John Lennon,40,78,3821472
+2382,445,Marvin Gaye,49,76,3722717
+2383,496,Jennifer Lopez,48,79,9040010
+2384,7,Wolfgang Amadeus Mozart,4,77,3777757
+2385,430,José Feliciano,115,76,210346
+2386,431,U2,116,80,7617783
+2387,432,Vicente Fernández,11,77,3975145
+2388,433,*NSYNC,117,73,1391635
+2389,434,Hans Zimmer,118,78,2322511
+2390,465,Bill Withers,66,75,1014706
+2391,497,Lil Jon,92,74,1067786
+2392,457,Mary J. Blige,48,73,2492202
+2393,436,John Denver,1,73,1146555
+2394,437,Backstreet Boys,117,78,3556926
+2395,498,Fabolous,48,71,1714881
+2396,438,Los Tucanes De Tijuana,102,73,1027786
+2397,446,Marc Anthony,57,79,4805028
+2398,418,Jimi Hendrix,76,74,4591808
+2399,459,The Offspring,113,76,3881609
+2400,499,Burl Ives,1,74,49562
+2401,500,Tiësto,110,83,5236685
+2402,501,Alan Jackson,96,74,1400382
+2403,502,Busta Rhymes,130,76,1652010
+2404,483,Bob Marley & The Wailers,128,81,8903607
+2405,495,Brooks & Dunn,96,72,1671149
+2406,2,Perry Como,1,75,288057
+2407,484,Whitney Houston,48,80,6071008
+2408,486,The Beach Boys,129,76,2897575
+2409,487,Radiohead,74,79,5693009
+2410,488,David Bowie,40,80,6239253
+2411,3,Johann Sebastian Bach,2,79,2936106
+2412,489,Foo Fighters,113,79,8202770
+2413,490,Paul McCartney,40,78,3258608
+2414,4,Ella Fitzgerald,1,77,1800735
+2415,492,Daryl Hall & John Oates,40,76,1353142
+2416,470,Willie Nelson,125,73,1270604
+2417,471,Sublime,126,72,1797935
+2418,503,Train,48,77,3499984
+2419,472,Nas,111,75,2154972
+2420,473,Nate Dogg,127,77,942595
+2421,474,Carpenters,1,75,1610368
+2422,504,B.o.B,92,75,1800947
+2423,475,Guns N' Roses,106,81,18727604
+2424,476,Journey,40,75,3261977
+2425,477,Grateful Dead,72,70,1111638
+2426,478,Ozzy Osbourne,40,75,3268934
+2427,493,Missy Elliott,48,74,1497549
+2428,479,Aerosmith,40,78,9454600
+2429,494,Skillet,113,76,3451490
+2430,480,Toby Keith,96,70,1394718
+2431,450,Hillsong Worship,120,76,2618089
+2432,451,Korn,113,75,4237267
+2433,452,Pearl Jam,74,78,6250119
+2434,453,Van Morrison,72,75,1875867
+2435,454,E-40,114,71,595604
+2436,462,Lynyrd Skynyrd,40,74,3117287
+2437,426,Selena,115,75,1405527
+2438,5,Louis Armstrong,1,75,2151204
+2439,6,London Symphony Orchestra,3,76,208417
+2440,463,The Smashing Pumpkins,113,74,3050063
+2441,428,Timbaland,48,77,1804575
+2442,429,John Lennon,40,78,3821472
+2443,505,The Game,131,75,2885952
+2444,445,Marvin Gaye,49,76,3722717
+2445,7,Wolfgang Amadeus Mozart,4,77,3777757
+2446,430,José Feliciano,115,76,210346
+2447,431,U2,116,80,7617783
+2448,432,Vicente Fernández,11,77,3975145
+2449,433,*NSYNC,117,73,1391635
+2450,506,System Of A Down,113,80,6741489
+2451,507,Keith Urban,132,75,3988757
+2452,508,Christina Aguilera,48,81,5651050
+2453,509,Nipsey Hussle,111,73,1805452
+2454,510,Slipknot,113,79,6553839
+2455,511,Bruce Springsteen,72,80,3625900
+2456,512,The Jackson 5,1,77,1040340
+2457,513,Van Halen,40,76,3613651
+2458,514,OutKast,92,76,1517195
+2459,515,Shakira,133,84,20270803
+2460,516,Idina Menzel,30,77,321061
+2461,517,Travis Barker,134,76,265026
+2462,499,Burl Ives,1,74,49562
+2463,500,Tiësto,110,83,5236685
+2464,501,Alan Jackson,96,74,1400382
+2465,502,Busta Rhymes,130,76,1652010
+2466,483,Bob Marley & The Wailers,128,81,8903607
+2467,495,Brooks & Dunn,96,72,1671149
+2468,2,Perry Como,1,75,288057
+2469,484,Whitney Houston,48,80,6071008
+2470,485,Weezer,74,74,2155736
+2471,486,The Beach Boys,129,76,2897575
+2472,488,David Bowie,40,80,6239253
+2473,3,Johann Sebastian Bach,2,79,2936106
+2474,489,Foo Fighters,113,79,8202770
+2475,490,Paul McCartney,40,78,3258608
+2476,491,Nickelback,113,77,4768345
+2477,4,Ella Fitzgerald,1,77,1800735
+2478,492,Daryl Hall & John Oates,40,76,1353142
+2479,470,Willie Nelson,125,73,1270604
+2480,471,Sublime,126,72,1797935
+2481,503,Train,48,77,3499984
+2482,472,Nas,111,75,2154972
+2483,473,Nate Dogg,127,77,942595
+2484,518,Alan Walker,135,84,25608437
+2485,474,Carpenters,1,75,1610368
+2486,475,Guns N' Roses,106,81,18727604
+2487,476,Journey,40,75,3261977
+2488,477,Grateful Dead,72,70,1111638
+2489,478,Ozzy Osbourne,40,75,3268934
+2490,493,Missy Elliott,48,74,1497549
+2491,479,Aerosmith,40,78,9454600
+2492,480,Toby Keith,96,70,1394718
+2493,450,Hillsong Worship,120,76,2618089
+2494,451,Korn,113,75,4237267
+2495,452,Pearl Jam,74,78,6250119
+2496,453,Van Morrison,72,75,1875867
+2497,454,E-40,114,71,595604
+2498,519,Jay Rock,111,73,952524
+2499,462,Lynyrd Skynyrd,40,74,3117287
+2500,520,Juicy J,136,77,2388935
+2501,521,Tim McGraw,96,74,3400268
+2502,522,Yo Gotti,137,75,3105427
+2503,523,Brenda Lee,1,79,191417
+2504,524,Eagles,40,78,5786310
+2505,525,Alicia Keys,138,81,8153585
+2506,526,Billy Joel,40,78,3100148
+2507,527,Britney Spears,48,82,8132891
+2508,528,Dr. Dre,127,80,5296504
+2509,529,Johnny Cash,64,78,4365446
+2510,530,Stevie Wonder,1,80,4647768
+2511,531,Tech N9ne,139,74,1826768
+2512,532,Wham!,48,81,1407306
+2513,533,Zedd,140,80,5266623
+2514,534,Jack Johnson,141,79,3015697
+2515,535,Black Eyed Peas,48,84,5033654
+2516,536,Gwen Stefani,48,78,4318421
+2517,537,Dolly Parton,125,77,1274171
+2518,506,System Of A Down,113,80,6741489
+2519,538,Bobby Helms,1,78,18147
+2520,539,MGMT,142,77,2020515
+2521,508,Christina Aguilera,48,81,5651050
+2522,540,Daft Punk,143,81,6930684
+2523,510,Slipknot,113,79,6553839
+2524,511,Bruce Springsteen,72,80,3625900
+2525,512,The Jackson 5,1,77,1040340
+2526,514,OutKast,92,76,1517195
+2527,515,Shakira,133,84,20270803
+2528,541,Nelly,48,77,1659557
+2529,499,Burl Ives,1,74,49562
+2530,500,Tiësto,110,83,5236685
+2531,501,Alan Jackson,96,74,1400382
+2532,502,Busta Rhymes,130,76,1652010
+2533,482,Creedence Clearwater Revival,72,79,3912522
+2534,483,Bob Marley & The Wailers,128,81,8903607
+2535,542,Disturbed,113,77,4392120
+2536,2,Perry Como,1,75,288057
+2537,484,Whitney Houston,48,80,6071008
+2538,485,Weezer,74,74,2155736
+2539,486,The Beach Boys,129,76,2897575
+2540,487,Radiohead,74,79,5693009
+2541,488,David Bowie,40,80,6239253
+2542,3,Johann Sebastian Bach,2,79,2936106
+2543,489,Foo Fighters,113,79,8202770
+2544,543,Arizona Zervas,144,77,540425
+2545,490,Paul McCartney,40,78,3258608
+2546,4,Ella Fitzgerald,1,77,1800735
+2547,470,Willie Nelson,125,73,1270604
+2548,544,Rascal Flatts,96,72,2581917
+2549,503,Train,48,77,3499984
+2550,526,Billy Joel,40,78,3100148
+2551,527,Britney Spears,48,82,8132891
+2552,545,Akon,48,81,2540614
+2553,528,Dr. Dre,127,80,5296504
+2554,529,Johnny Cash,64,78,4365446
+2555,530,Stevie Wonder,1,80,4647768
+2556,531,Tech N9ne,139,74,1826768
+2557,532,Wham!,48,81,1407306
+2558,534,Jack Johnson,141,79,3015697
+2559,535,Black Eyed Peas,48,84,5033654
+2560,536,Gwen Stefani,48,78,4318421
+2561,537,Dolly Parton,125,77,1274171
+2562,506,System Of A Down,113,80,6741489
+2563,546,Jelly Roll,145,72,518986
+2564,538,Bobby Helms,1,78,18147
+2565,507,Keith Urban,132,75,3988757
+2566,508,Christina Aguilera,48,81,5651050
+2567,540,Daft Punk,143,81,6930684
+2568,510,Slipknot,113,79,6553839
+2569,511,Bruce Springsteen,72,80,3625900
+2570,512,The Jackson 5,1,77,1040340
+2571,514,OutKast,92,76,1517195
+2572,515,Shakira,133,84,20270803
+2573,541,Nelly,48,77,1659557
+2574,517,Travis Barker,134,76,265026
+2575,499,Burl Ives,1,74,49562
+2576,500,Tiësto,110,83,5236685
+2577,502,Busta Rhymes,130,76,1652010
+2578,483,Bob Marley & The Wailers,128,81,8903607
+2579,495,Brooks & Dunn,96,72,1671149
+2580,542,Disturbed,113,77,4392120
+2581,2,Perry Como,1,75,288057
+2582,484,Whitney Houston,48,80,6071008
+2583,485,Weezer,74,74,2155736
+2584,486,The Beach Boys,129,76,2897575
+2585,487,Radiohead,74,79,5693009
+2586,488,David Bowie,40,80,6239253
+2587,3,Johann Sebastian Bach,2,79,2936106
+2588,547,Avenged Sevenfold,113,76,4348007
+2589,490,Paul McCartney,40,78,3258608
+2590,491,Nickelback,113,77,4768345
+2591,4,Ella Fitzgerald,1,77,1800735
+2592,492,Daryl Hall & John Oates,40,76,1353142
+2593,470,Willie Nelson,125,73,1270604
+2594,544,Rascal Flatts,96,72,2581917
+2595,503,Train,48,77,3499984
+2596,548,The Strokes,74,77,3479910
+2597,472,Nas,111,75,2154972
+2598,473,Nate Dogg,127,77,942595
+2599,474,Carpenters,1,75,1610368
+2600,549,The Notorious B.I.G.,130,79,5737360
+2601,550,P!nk,48,82,9812298
+2602,551,Romeo Santos,146,83,11842004
+2603,552,The Rolling Stones,40,81,9476458
+2604,520,Juicy J,136,77,2388935
+2605,521,Tim McGraw,96,74,3400268
+2606,553,David Guetta,48,87,21788758
+2607,522,Yo Gotti,137,75,3105427
+2608,525,Alicia Keys,138,81,8153585
+2609,526,Billy Joel,40,78,3100148
+2610,527,Britney Spears,48,82,8132891
+2611,545,Akon,48,81,2540614
+2612,528,Dr. Dre,127,80,5296504
+2613,529,Johnny Cash,64,78,4365446
+2614,530,Stevie Wonder,1,80,4647768
+2615,531,Tech N9ne,139,74,1826768
+2616,532,Wham!,48,81,1407306
+2617,534,Jack Johnson,141,79,3015697
+2618,536,Gwen Stefani,48,78,4318421
+2619,537,Dolly Parton,125,77,1274171
+2620,506,System Of A Down,113,80,6741489
+2621,507,Keith Urban,132,75,3988757
+2622,508,Christina Aguilera,48,81,5651050
+2623,511,Bruce Springsteen,72,80,3625900
+2624,512,The Jackson 5,1,77,1040340
+2625,513,Van Halen,40,76,3613651
+2626,514,OutKast,92,76,1517195
+2627,515,Shakira,133,84,20270803
+2628,541,Nelly,48,77,1659557
+2629,499,Burl Ives,1,74,49562
+2630,500,Tiësto,110,83,5236685
+2631,501,Alan Jackson,96,74,1400382
+2632,502,Busta Rhymes,130,76,1652010
+2633,554,Breaking Benjamin,113,74,3255833
+2634,483,Bob Marley & The Wailers,128,81,8903607
+2635,495,Brooks & Dunn,96,72,1671149
+2636,542,Disturbed,113,77,4392120
+2637,2,Perry Como,1,75,288057
+2638,484,Whitney Houston,48,80,6071008
+2639,485,Weezer,74,74,2155736
+2640,486,The Beach Boys,129,76,2897575
+2641,488,David Bowie,40,80,6239253
+2642,3,Johann Sebastian Bach,2,79,2936106
+2643,489,Foo Fighters,113,79,8202770
+2644,547,Avenged Sevenfold,113,76,4348007
+2645,490,Paul McCartney,40,78,3258608
+2646,491,Nickelback,113,77,4768345
+2647,4,Ella Fitzgerald,1,77,1800735
+2648,492,Daryl Hall & John Oates,40,76,1353142
+2649,470,Willie Nelson,125,73,1270604
+2650,555,Ludacris,92,78,1978377
+2651,556,Pharrell Williams,144,80,3355408
+2652,549,The Notorious B.I.G.,130,79,5737360
+2653,550,P!nk,48,82,9812298
+2654,557,blink-182,147,79,6192385
+2655,552,The Rolling Stones,40,81,9476458
+2656,558,Carrie Underwood,96,74,4284314
+2657,559,Vince Guaraldi Trio,1,74,89297
+2658,521,Tim McGraw,96,74,3400268
+2659,553,David Guetta,48,87,21788758
+2660,522,Yo Gotti,137,75,3105427
+2661,523,Brenda Lee,1,79,191417
+2662,524,Eagles,40,78,5786310
+2663,525,Alicia Keys,138,81,8153585
+2664,526,Billy Joel,40,78,3100148
+2665,527,Britney Spears,48,82,8132891
+2666,545,Akon,48,81,2540614
+2667,528,Dr. Dre,127,80,5296504
+2668,529,Johnny Cash,64,78,4365446
+2669,530,Stevie Wonder,1,80,4647768
+2670,531,Tech N9ne,139,74,1826768
+2671,532,Wham!,48,81,1407306
+2672,534,Jack Johnson,141,79,3015697
+2673,535,Black Eyed Peas,48,84,5033654
+2674,560,Three Days Grace,113,76,4127189
+2675,537,Dolly Parton,125,77,1274171
+2676,546,Jelly Roll,145,72,518986
+2677,507,Keith Urban,132,75,3988757
+2678,508,Christina Aguilera,48,81,5651050
+2679,540,Daft Punk,143,81,6930684
+2680,510,Slipknot,113,79,6553839
+2681,511,Bruce Springsteen,72,80,3625900
+2682,512,The Jackson 5,1,77,1040340
+2683,514,OutKast,92,76,1517195
+2684,515,Shakira,133,84,20270803
+2685,516,Idina Menzel,30,77,321061
+2686,541,Nelly,48,77,1659557
+2687,561,The Killers,148,79,5702166
+2688,499,Burl Ives,1,74,49562
+2689,500,Tiësto,110,83,5236685
+2690,501,Alan Jackson,96,74,1400382
+2691,502,Busta Rhymes,130,76,1652010
+2692,483,Bob Marley & The Wailers,128,81,8903607
+2693,562,Shinedown,113,73,2761586
+2694,495,Brooks & Dunn,96,72,1671149
+2695,542,Disturbed,113,77,4392120
+2696,2,Perry Como,1,75,288057
+2697,484,Whitney Houston,48,80,6071008
+2698,486,The Beach Boys,129,76,2897575
+2699,487,Radiohead,74,79,5693009
+2700,556,Pharrell Williams,144,80,3355408
+2701,549,The Notorious B.I.G.,130,79,5737360
+2702,550,P!nk,48,82,9812298
+2703,563,Maren Morris,96,77,535910
+2704,557,blink-182,147,79,6192385
+2705,552,The Rolling Stones,40,81,9476458
+2706,520,Juicy J,136,77,2388935
+2707,521,Tim McGraw,96,74,3400268
+2708,553,David Guetta,48,87,21788758
+2709,523,Brenda Lee,1,79,191417
+2710,564,Bring Me The Horizon,149,81,3344772
+2711,525,Alicia Keys,138,81,8153585
+2712,526,Billy Joel,40,78,3100148
+2713,527,Britney Spears,48,82,8132891
+2714,545,Akon,48,81,2540614
+2715,528,Dr. Dre,127,80,5296504
+2716,529,Johnny Cash,64,78,4365446
+2717,530,Stevie Wonder,1,80,4647768
+2718,531,Tech N9ne,139,74,1826768
+2719,532,Wham!,48,81,1407306
+2720,534,Jack Johnson,141,79,3015697
+2721,535,Black Eyed Peas,48,84,5033654
+2722,560,Three Days Grace,113,76,4127189
+2723,536,Gwen Stefani,48,78,4318421
+2724,537,Dolly Parton,125,77,1274171
+2725,506,System Of A Down,113,80,6741489
+2726,546,Jelly Roll,145,72,518986
+2727,538,Bobby Helms,1,78,18147
+2728,507,Keith Urban,132,75,3988757
+2729,508,Christina Aguilera,48,81,5651050
+2730,510,Slipknot,113,79,6553839
+2731,511,Bruce Springsteen,72,80,3625900
+2732,512,The Jackson 5,1,77,1040340
+2733,513,Van Halen,40,76,3613651
+2734,514,OutKast,92,76,1517195
+2735,515,Shakira,133,84,20270803
+2736,516,Idina Menzel,30,77,321061
+2737,541,Nelly,48,77,1659557
+2738,561,The Killers,148,79,5702166
+2739,499,Burl Ives,1,74,49562
+2740,500,Tiësto,110,83,5236685
+2741,501,Alan Jackson,96,74,1400382
+2742,502,Busta Rhymes,130,76,1652010
+2743,482,Creedence Clearwater Revival,72,79,3912522
+2744,554,Breaking Benjamin,113,74,3255833
+2745,483,Bob Marley & The Wailers,128,81,8903607
+2746,562,Shinedown,113,73,2761586
+2747,495,Brooks & Dunn,96,72,1671149
+2748,542,Disturbed,113,77,4392120
+2749,2,Perry Como,1,75,288057
+2750,565,Pitbull,48,83,8057350
+2751,566,Arcangel,57,86,5760763
+2752,567,Kenny Chesney,96,74,3238318
+2753,568,Trey Songz,48,77,5465165
+2754,569,George Strait,96,74,2268948
+2755,570,Nirvana,74,81,11691836
+2756,571,My Chemical Romance,150,79,5463300
+2757,555,Ludacris,92,78,1978377
+2758,556,Pharrell Williams,144,80,3355408
+2759,549,The Notorious B.I.G.,130,79,5737360
+2760,550,P!nk,48,82,9812298
+2761,557,blink-182,147,79,6192385
+2762,551,Romeo Santos,146,83,11842004
+2763,552,The Rolling Stones,40,81,9476458
+2764,520,Juicy J,136,77,2388935
+2765,558,Carrie Underwood,96,74,4284314
+2766,559,Vince Guaraldi Trio,1,74,89297
+2767,521,Tim McGraw,96,74,3400268
+2768,553,David Guetta,48,87,21788758
+2769,522,Yo Gotti,137,75,3105427
+2770,523,Brenda Lee,1,79,191417
+2771,524,Eagles,40,78,5786310
+2772,572,Paramore,100,78,5589394
+2773,525,Alicia Keys,138,81,8153585
+2774,526,Billy Joel,40,78,3100148
+2775,527,Britney Spears,48,82,8132891
+2776,545,Akon,48,81,2540614
+2777,528,Dr. Dre,127,80,5296504
+2778,529,Johnny Cash,64,78,4365446
+2779,573,Zac Brown Band,96,74,2419521
+2780,530,Stevie Wonder,1,80,4647768
+2781,531,Tech N9ne,139,74,1826768
+2782,574,Ne-Yo,48,80,5680787
+2783,534,Jack Johnson,141,79,3015697
+2784,535,Black Eyed Peas,48,84,5033654
+2785,560,Three Days Grace,113,76,4127189
+2786,536,Gwen Stefani,48,78,4318421
+2787,537,Dolly Parton,125,77,1274171
+2788,506,System Of A Down,113,80,6741489
+2789,546,Jelly Roll,145,72,518986
+2790,538,Bobby Helms,1,78,18147
+2791,507,Keith Urban,132,75,3988757
+2792,539,MGMT,142,77,2020515
+2793,508,Christina Aguilera,48,81,5651050
+2794,540,Daft Punk,143,81,6930684
+2795,510,Slipknot,113,79,6553839
+2796,511,Bruce Springsteen,72,80,3625900
+2797,512,The Jackson 5,1,77,1040340
+2798,514,OutKast,92,76,1517195
+2799,515,Shakira,133,84,20270803
+2800,575,Michael Jackson,151,84,16650685
+2801,576,Jonas Brothers,117,82,4746820
+2802,577,Jeezy,92,75,1705027
+2803,578,Justin Timberlake,48,82,9991824
+2804,579,Elvis Presley,152,82,4873747
+2805,580,Green Day,56,82,11439436
+2806,581,Eric Church,96,75,2788067
+2807,582,Andy Williams,1,79,324455
+2808,565,Pitbull,48,83,8057350
+2809,566,Arcangel,57,86,5760763
+2810,583,French Montana,139,80,3747770
+2811,567,Kenny Chesney,96,74,3238318
+2812,568,Trey Songz,48,77,5465165
+2813,569,George Strait,96,74,2268948
+2814,571,My Chemical Romance,150,79,5463300
+2815,555,Ludacris,92,78,1978377
+2816,556,Pharrell Williams,144,80,3355408
+2817,549,The Notorious B.I.G.,130,79,5737360
+2818,550,P!nk,48,82,9812298
+2819,557,blink-182,147,79,6192385
+2820,584,Pink Floyd,40,82,13447747
+2821,551,Romeo Santos,146,83,11842004
+2822,552,The Rolling Stones,40,81,9476458
+2823,520,Juicy J,136,77,2388935
+2824,558,Carrie Underwood,96,74,4284314
+2825,585,Wale,48,76,2870313
+2826,559,Vince Guaraldi Trio,1,74,89297
+2827,521,Tim McGraw,96,74,3400268
+2828,553,David Guetta,48,87,21788758
+2829,522,Yo Gotti,137,75,3105427
+2830,586,Banda MS de Sergio Lizárraga,119,82,9962809
+2831,523,Brenda Lee,1,79,191417
+2832,572,Paramore,100,78,5589394
+2833,564,Bring Me The Horizon,149,81,3344772
+2834,525,Alicia Keys,138,81,8153585
+2835,526,Billy Joel,40,78,3100148
+2836,527,Britney Spears,48,82,8132891
+2837,545,Akon,48,81,2540614
+2838,528,Dr. Dre,127,80,5296504
+2839,529,Johnny Cash,64,78,4365446
+2840,530,Stevie Wonder,1,80,4647768
+2841,531,Tech N9ne,139,74,1826768
+2842,574,Ne-Yo,48,80,5680787
+2843,587,Cage The Elephant,153,76,2254418
+2844,532,Wham!,48,81,1407306
+2845,534,Jack Johnson,141,79,3015697
+2846,535,Black Eyed Peas,48,84,5033654
+2847,560,Three Days Grace,113,76,4127189
+2848,536,Gwen Stefani,48,78,4318421
+2849,537,Dolly Parton,125,77,1274171
+2850,588,T-Pain,48,79,2986083
+2851,589,John Mayer,141,81,4819572
+2852,590,Blake Shelton,96,78,5450913
+2853,591,T.I.,92,78,3538378
+2854,592,John Williams,86,80,952859
+2855,593,Nicky Jam,57,87,13352080
+2856,594,Gorillaz,154,81,6260061
+2857,595,Red Hot Chili Peppers,74,84,14874823
+2858,596,2Pac,127,81,9481039
+2859,575,Michael Jackson,151,84,16650685
+2860,576,Jonas Brothers,117,82,4746820
+2861,597,Metallica,155,83,16039007
+2862,577,Jeezy,92,75,1705027
+2863,598,Kacey Musgraves,96,76,879890
+2864,578,Justin Timberlake,48,82,9991824
+2865,599,Lee Brice,96,75,1400339
+2866,579,Elvis Presley,152,82,4873747
+2867,580,Green Day,56,82,11439436
+2868,582,Andy Williams,1,79,324455
+2869,565,Pitbull,48,83,8057350
+2870,566,Arcangel,57,86,5760763
+2871,600,Led Zeppelin,40,80,9910111
+2872,583,French Montana,139,80,3747770
+2873,601,Joyner Lucas,156,78,1503073
+2874,602,Five Finger Death Punch,113,78,4482013
+2875,567,Kenny Chesney,96,74,3238318
+2876,568,Trey Songz,48,77,5465165
+2877,603,Adele,105,83,24512590
+2878,604,OneRepublic,48,83,11051312
+2879,569,George Strait,96,74,2268948
+2880,571,My Chemical Romance,150,79,5463300
+2881,555,Ludacris,92,78,1978377
+2882,556,Pharrell Williams,144,80,3355408
+2883,549,The Notorious B.I.G.,130,79,5737360
+2884,605,Bon Iver,157,80,2827952
+2885,550,P!nk,48,82,9812298
+2886,563,Maren Morris,96,77,535910
+2887,557,blink-182,147,79,6192385
+2888,551,Romeo Santos,146,83,11842004
+2889,552,The Rolling Stones,40,81,9476458
+2890,520,Juicy J,136,77,2388935
+2891,558,Carrie Underwood,96,74,4284314
+2892,585,Wale,48,76,2870313
+2893,559,Vince Guaraldi Trio,1,74,89297
+2894,521,Tim McGraw,96,74,3400268
+2895,553,David Guetta,48,87,21788758
+2896,522,Yo Gotti,137,75,3105427
+2897,586,Banda MS de Sergio Lizárraga,119,82,9962809
+2898,523,Brenda Lee,1,79,191417
+2899,524,Eagles,40,78,5786310
+2900,606,Selena Gomez,48,86,23782967
+2901,607,Miguel,48,79,3124768
+2902,608,Fall Out Boy,150,81,8397604
+2903,609,Demi Lovato,48,84,18545548
+2904,610,Luke Bryan,96,77,5912327
+2905,611,50 Cent,130,84,6559459
+2906,1,Dean Martin,1,81,1002145
+2907,612,Arctic Monkeys,158,86,10254276
+2908,613,Calvin Harris,48,86,20947770
+2909,614,DJ Khaled,48,82,5395374
+2910,615,Elton John,159,84,6248279
+2911,616,Nat King Cole,1,80,1465008
+2912,617,AC/DC,40,85,17094870
+2913,588,T-Pain,48,79,2986083
+2914,589,John Mayer,141,81,4819572
+2915,590,Blake Shelton,96,78,5450913
+2916,591,T.I.,92,78,3538378
+2917,592,John Williams,86,80,952859
+2918,618,City Girls,151,77,1069682
+2919,593,Nicky Jam,57,87,13352080
+2920,595,Red Hot Chili Peppers,74,84,14874823
+2921,596,2Pac,127,81,9481039
+2922,575,Michael Jackson,151,84,16650685
+2923,576,Jonas Brothers,117,82,4746820
+2924,597,Metallica,155,83,16039007
+2925,577,Jeezy,92,75,1705027
+2926,598,Kacey Musgraves,96,76,879890
+2927,578,Justin Timberlake,48,82,9991824
+2928,599,Lee Brice,96,75,1400339
+2929,579,Elvis Presley,152,82,4873747
+2930,581,Eric Church,96,75,2788067
+2931,582,Andy Williams,1,79,324455
+2932,565,Pitbull,48,83,8057350
+2933,566,Arcangel,57,86,5760763
+2934,583,French Montana,139,80,3747770
+2935,602,Five Finger Death Punch,113,78,4482013
+2936,567,Kenny Chesney,96,74,3238318
+2937,568,Trey Songz,48,77,5465165
+2938,603,Adele,105,83,24512590
+2939,604,OneRepublic,48,83,11051312
+2940,569,George Strait,96,74,2268948
+2941,571,My Chemical Romance,150,79,5463300
+2942,555,Ludacris,92,78,1978377
+2943,556,Pharrell Williams,144,80,3355408
+2944,605,Bon Iver,157,80,2827952
+2945,550,P!nk,48,82,9812298
+2946,557,blink-182,147,79,6192385
+2947,551,Romeo Santos,146,83,11842004
+2948,552,The Rolling Stones,40,81,9476458
+2949,558,Carrie Underwood,96,74,4284314
+2950,619,Jason Aldean,96,77,4246874
+2951,620,Usher,92,83,8261503
+2952,621,Twenty One Pilots,148,84,18997128
+2953,622,Queen,72,88,30594408
+2954,623,Katy Perry,48,86,16830478
+2955,624,Jason Derulo,48,87,8551467
+2956,625,Tame Impala,160,82,4425480
+2957,626,Linkin Park,113,86,17439852
+2958,627,H.E.R.,161,80,3172754
+2959,628,benny blanco,162,84,674261
+2960,629,John Legend,141,83,5339026
+2961,606,Selena Gomez,48,86,23782967
+2962,630,Jeremih,163,80,4674144
+2963,608,Fall Out Boy,150,81,8397604
+2964,609,Demi Lovato,48,84,18545548
+2965,610,Luke Bryan,96,77,5912327
+2966,611,50 Cent,130,84,6559459
+2967,1,Dean Martin,1,81,1002145
+2968,612,Arctic Monkeys,158,86,10254276
+2969,613,Calvin Harris,48,86,20947770
+2970,614,DJ Khaled,48,82,5395374
+2971,615,Elton John,159,84,6248279
+2972,616,Nat King Cole,1,80,1465008
+2973,617,AC/DC,40,85,17094870
+2974,588,T-Pain,48,79,2986083
+2975,589,John Mayer,141,81,4819572
+2976,590,Blake Shelton,96,78,5450913
+2977,591,T.I.,92,78,3538378
+2978,592,John Williams,86,80,952859
+2979,618,City Girls,151,77,1069682
+2980,593,Nicky Jam,57,87,13352080
+2981,595,Red Hot Chili Peppers,74,84,14874823
+2982,596,2Pac,127,81,9481039
+2983,575,Michael Jackson,151,84,16650685
+2984,576,Jonas Brothers,117,82,4746820
+2985,597,Metallica,155,83,16039007
+2986,577,Jeezy,92,75,1705027
+2987,578,Justin Timberlake,48,82,9991824
+2988,579,Elvis Presley,152,82,4873747
+2989,580,Green Day,56,82,11439436
+2990,581,Eric Church,96,75,2788067
+2991,582,Andy Williams,1,79,324455
+2992,565,Pitbull,48,83,8057350
+2993,566,Arcangel,57,86,5760763
+2994,583,French Montana,139,80,3747770
+2995,602,Five Finger Death Punch,113,78,4482013
+2996,567,Kenny Chesney,96,74,3238318
+2997,568,Trey Songz,48,77,5465165
+2998,603,Adele,105,83,24512590
+2999,604,OneRepublic,48,83,11051312
+3000,631,Maroon 5,151,87,28264215
+3001,632,Coldplay,56,88,28143355
+3002,633,YG,114,81,2417726
+3003,634,Offset,92,82,1826894
+3004,635,Sia,108,89,17993449
+3005,619,Jason Aldean,96,77,4246874
+3006,620,Usher,92,83,8261503
+3007,622,Queen,72,88,30594408
+3008,623,Katy Perry,48,86,16830478
+3009,624,Jason Derulo,48,87,8551467
+3010,625,Tame Impala,160,82,4425480
+3011,626,Linkin Park,113,86,17439852
+3012,636,Mustard,114,80,783705
+3013,628,benny blanco,162,84,674261
+3014,629,John Legend,141,83,5339026
+3015,606,Selena Gomez,48,86,23782967
+3016,630,Jeremih,163,80,4674144
+3017,607,Miguel,48,79,3124768
+3018,608,Fall Out Boy,150,81,8397604
+3019,609,Demi Lovato,48,84,18545548
+3020,610,Luke Bryan,96,77,5912327
+3021,611,50 Cent,130,84,6559459
+3022,1,Dean Martin,1,81,1002145
+3023,612,Arctic Monkeys,158,86,10254276
+3024,613,Calvin Harris,48,86,20947770
+3025,614,DJ Khaled,48,82,5395374
+3026,615,Elton John,159,84,6248279
+3027,616,Nat King Cole,1,80,1465008
+3028,617,AC/DC,40,85,17094870
+3029,588,T-Pain,48,79,2986083
+3030,589,John Mayer,141,81,4819572
+3031,590,Blake Shelton,96,78,5450913
+3032,591,T.I.,92,78,3538378
+3033,592,John Williams,86,80,952859
+3034,593,Nicky Jam,57,87,13352080
+3035,594,Gorillaz,154,81,6260061
+3036,595,Red Hot Chili Peppers,74,84,14874823
+3037,596,2Pac,127,81,9481039
+3038,575,Michael Jackson,151,84,16650685
+3039,576,Jonas Brothers,117,82,4746820
+3040,597,Metallica,155,83,16039007
+3041,577,Jeezy,92,75,1705027
+3042,598,Kacey Musgraves,96,76,879890
+3043,578,Justin Timberlake,48,82,9991824
+3044,599,Lee Brice,96,75,1400339
+3045,579,Elvis Presley,152,82,4873747
+3046,580,Green Day,56,82,11439436
+3047,581,Eric Church,96,75,2788067
+3048,582,Andy Williams,1,79,324455
+3049,565,Pitbull,48,83,8057350
+3050,637,Daddy Yankee,57,90,21146642
+3051,638,Meek Mill,139,81,4620537
+3052,639,G-Eazy,139,83,4683574
+3053,640,Kevin Gates,164,78,3777477
+3054,641,Panic! At The Disco,129,82,10208697
+3055,642,Diplo,165,85,2326692
+3056,643,Rick Ross,137,81,4426919
+3057,644,Migos,92,81,11022732
+3058,645,Farruko,57,91,8716343
+3059,646,Kelly Clarkson,48,83,7116771
+3060,647,Snoop Dogg,127,84,6418233
+3061,631,Maroon 5,151,87,28264215
+3062,632,Coldplay,56,88,28143355
+3063,633,YG,114,81,2417726
+3064,634,Offset,92,82,1826894
+3065,648,Russ,166,81,3782659
+3066,635,Sia,108,89,17993449
+3067,619,Jason Aldean,96,77,4246874
+3068,620,Usher,92,83,8261503
+3069,621,Twenty One Pilots,148,84,18997128
+3070,622,Queen,72,88,30594408
+3071,649,Lana Del Rey,79,85,11659654
+3072,623,Katy Perry,48,86,16830478
+3073,624,Jason Derulo,48,87,8551467
+3074,625,Tame Impala,160,82,4425480
+3075,626,Linkin Park,113,86,17439852
+3076,636,Mustard,114,80,783705
+3077,629,John Legend,141,83,5339026
+3078,606,Selena Gomez,48,86,23782967
+3079,630,Jeremih,163,80,4674144
+3080,607,Miguel,48,79,3124768
+3081,608,Fall Out Boy,150,81,8397604
+3082,609,Demi Lovato,48,84,18545548
+3083,650,PARTYNEXTDOOR,151,80,2674131
+3084,610,Luke Bryan,96,77,5912327
+3085,611,50 Cent,130,84,6559459
+3086,1,Dean Martin,1,81,1002145
+3087,612,Arctic Monkeys,158,86,10254276
+3088,651,Tyler Childers,167,75,640940
+3089,652,Childish Gambino,92,79,7213184
+3090,613,Calvin Harris,48,86,20947770
+3091,614,DJ Khaled,48,82,5395374
+3092,615,Elton John,159,84,6248279
+3093,616,Nat King Cole,1,80,1465008
+3094,588,T-Pain,48,79,2986083
+3095,653,Meghan Trainor,48,82,9792354
+3096,589,John Mayer,141,81,4819572
+3097,590,Blake Shelton,96,78,5450913
+3098,654,AJR,148,77,1515993
+3099,591,T.I.,92,78,3538378
+3100,655,Kid Cudi,139,87,4308283
+3101,656,Fleetwood Mac,40,84,5648448
+3102,657,Tyga,48,86,6031877
+3103,637,Daddy Yankee,57,90,21146642
+3104,638,Meek Mill,139,81,4620537
+3105,658,Florida Georgia Line,96,80,4088893
+3106,639,G-Eazy,139,83,4683574
+3107,640,Kevin Gates,164,78,3777477
+3108,642,Diplo,165,85,2326692
+3109,659,Imagine Dragons,148,87,31344515
+3110,643,Rick Ross,137,81,4426919
+3111,644,Migos,92,81,11022732
+3112,645,Farruko,57,91,8716343
+3113,646,Kelly Clarkson,48,83,7116771
+3114,647,Snoop Dogg,127,84,6418233
+3115,631,Maroon 5,151,87,28264215
+3116,632,Coldplay,56,88,28143355
+3117,633,YG,114,81,2417726
+3118,648,Russ,166,81,3782659
+3119,660,The Neighbourhood,168,84,4935340
+3120,635,Sia,108,89,17993449
+3121,619,Jason Aldean,96,77,4246874
+3122,661,Lin-Manuel Miranda,169,79,395870
+3123,620,Usher,92,83,8261503
+3124,662,Thomas Rhett,96,78,3632941
+3125,621,Twenty One Pilots,148,84,18997128
+3126,622,Queen,72,88,30594408
+3127,649,Lana Del Rey,79,85,11659654
+3128,623,Katy Perry,48,86,16830478
+3129,624,Jason Derulo,48,87,8551467
+3130,625,Tame Impala,160,82,4425480
+3131,663,Sech,57,90,6452174
+3132,626,Linkin Park,113,86,17439852
+3133,629,John Legend,141,83,5339026
+3134,606,Selena Gomez,48,86,23782967
+3135,630,Jeremih,163,80,4674144
+3136,607,Miguel,48,79,3124768
+3137,664,Leslie Odom Jr.,58,78,180036
+3138,609,Demi Lovato,48,84,18545548
+3139,610,Luke Bryan,96,77,5912327
+3140,611,50 Cent,130,84,6559459
+3141,1,Dean Martin,1,81,1002145
+3142,612,Arctic Monkeys,158,86,10254276
+3143,665,Melanie Martinez,48,81,8703129
+3144,652,Childish Gambino,92,79,7213184
+3145,613,Calvin Harris,48,86,20947770
+3146,666,Kygo,170,86,6962094
+3147,614,DJ Khaled,48,82,5395374
+3148,615,Elton John,159,84,6248279
+3149,667,James Arthur,151,85,7051180
+3150,668,A$AP Rocky,130,84,8306531
+3151,669,Logic,111,82,5072904
+3152,670,Maluma,171,92,22305388
+3153,671,Lady Gaga,48,88,15012502
+3154,672,NLE Choppa,172,81,2495674
+3155,655,Kid Cudi,139,87,4308283
+3156,656,Fleetwood Mac,40,84,5648448
+3157,657,Tyga,48,86,6031877
+3158,673,Chris Stapleton,96,80,2800208
+3159,637,Daddy Yankee,57,90,21146642
+3160,638,Meek Mill,139,81,4620537
+3161,658,Florida Georgia Line,96,80,4088893
+3162,639,G-Eazy,139,83,4683574
+3163,640,Kevin Gates,164,78,3777477
+3164,641,Panic! At The Disco,129,82,10208697
+3165,642,Diplo,165,85,2326692
+3166,659,Imagine Dragons,148,87,31344515
+3167,643,Rick Ross,137,81,4426919
+3168,644,Migos,92,81,11022732
+3169,645,Farruko,57,91,8716343
+3170,646,Kelly Clarkson,48,83,7116771
+3171,647,Snoop Dogg,127,84,6418233
+3172,631,Maroon 5,151,87,28264215
+3173,632,Coldplay,56,88,28143355
+3174,633,YG,114,81,2417726
+3175,648,Russ,166,81,3782659
+3176,660,The Neighbourhood,168,84,4935340
+3177,635,Sia,108,89,17993449
+3178,619,Jason Aldean,96,77,4246874
+3179,620,Usher,92,83,8261503
+3180,662,Thomas Rhett,96,78,3632941
+3181,674,Dan + Shay,96,79,1998411
+3182,621,Twenty One Pilots,148,84,18997128
+3183,622,Queen,72,88,30594408
+3184,649,Lana Del Rey,79,85,11659654
+3185,623,Katy Perry,48,86,16830478
+3186,624,Jason Derulo,48,87,8551467
+3187,625,Tame Impala,160,82,4425480
+3188,626,Linkin Park,113,86,17439852
+3189,636,Mustard,114,80,783705
+3190,629,John Legend,141,83,5339026
+3191,606,Selena Gomez,48,86,23782967
+3192,630,Jeremih,163,80,4674144
+3193,607,Miguel,48,79,3124768
+3194,608,Fall Out Boy,150,81,8397604
+3195,609,Demi Lovato,48,84,18545548
+3196,650,PARTYNEXTDOOR,151,80,2674131
+3197,610,Luke Bryan,96,77,5912327
+3198,611,50 Cent,130,84,6559459
+3199,1,Dean Martin,1,81,1002145
+3200,0,Frank Sinatra,1,85,4367053
+3201,675,Tory Lanez,173,84,3372158
+3202,676,The Beatles,75,87,18037696
+3203,677,Quavo,92,84,4535638
+3204,678,Bruno Mars,48,87,27805384
+3205,679,Bing Crosby,1,82,327079
+3206,680,JAY-Z,130,85,5801845
+3207,681,Gucci Mane,92,82,3582651
+3208,668,A$AP Rocky,130,84,8306531
+3209,669,Logic,111,82,5072904
+3210,670,Maluma,171,92,22305388
+3211,671,Lady Gaga,48,88,15012502
+3212,655,Kid Cudi,139,87,4308283
+3213,682,Swae Lee,174,84,1004877
+3214,656,Fleetwood Mac,40,84,5648448
+3215,657,Tyga,48,86,6031877
+3216,683,SZA,48,82,3975452
+3217,637,Daddy Yankee,57,90,21146642
+3218,684,Kane Brown,96,80,2989163
+3219,638,Meek Mill,139,81,4620537
+3220,658,Florida Georgia Line,96,80,4088893
+3221,639,G-Eazy,139,83,4683574
+3222,640,Kevin Gates,164,78,3777477
+3223,641,Panic! At The Disco,129,82,10208697
+3224,642,Diplo,165,85,2326692
+3225,685,Playboi Carti,92,80,4170632
+3226,659,Imagine Dragons,148,87,31344515
+3227,643,Rick Ross,137,81,4426919
+3228,644,Migos,92,81,11022732
+3229,645,Farruko,57,91,8716343
+3230,646,Kelly Clarkson,48,83,7116771
+3231,647,Snoop Dogg,127,84,6418233
+3232,631,Maroon 5,151,87,28264215
+3233,632,Coldplay,56,88,28143355
+3234,633,YG,114,81,2417726
+3235,686,Bryson Tiller,175,81,4516015
+3236,634,Offset,92,82,1826894
+3237,648,Russ,166,81,3782659
+3238,660,The Neighbourhood,168,84,4935340
+3239,635,Sia,108,89,17993449
+3240,619,Jason Aldean,96,77,4246874
+3241,687,Kehlani,48,80,4126254
+3242,661,Lin-Manuel Miranda,169,79,395870
+3243,620,Usher,92,83,8261503
+3244,662,Thomas Rhett,96,78,3632941
+3245,674,Dan + Shay,96,79,1998411
+3246,621,Twenty One Pilots,148,84,18997128
+3247,688,Brent Faiyaz,176,79,1132099
+3248,622,Queen,72,88,30594408
+3249,649,Lana Del Rey,79,85,11659654
+3250,689,2 Chainz,92,83,5944400
+3251,690,Doja Cat,48,86,4490669
+3252,691,Mariah Carey,48,87,6143081
+3253,692,Kodak Black,177,82,6458344
+3254,693,Chance the Rapper,163,85,5094771
+3255,694,Sam Smith,48,89,14643098
+3256,695,Beyoncé,48,87,25347825
+3257,696,NF,139,84,4580755
+3258,697,Jhené Aiko,161,82,3936693
+3259,0,Frank Sinatra,1,85,4367053
+3260,698,Jack Harlow,178,84,563709
+3261,675,Tory Lanez,173,84,3372158
+3262,676,The Beatles,75,87,18037696
+3263,677,Quavo,92,84,4535638
+3264,678,Bruno Mars,48,87,27805384
+3265,679,Bing Crosby,1,82,327079
+3266,680,JAY-Z,130,85,5801845
+3267,699,Lil Yachty,92,82,6742778
+3268,681,Gucci Mane,92,82,3582651
+3269,668,A$AP Rocky,130,84,8306531
+3270,669,Logic,111,82,5072904
+3271,670,Maluma,171,92,22305388
+3272,671,Lady Gaga,48,88,15012502
+3273,672,NLE Choppa,172,81,2495674
+3274,655,Kid Cudi,139,87,4308283
+3275,682,Swae Lee,174,84,1004877
+3276,656,Fleetwood Mac,40,84,5648448
+3277,657,Tyga,48,86,6031877
+3278,673,Chris Stapleton,96,80,2800208
+3279,700,Myke Towers,179,92,3809506
+3280,683,SZA,48,82,3975452
+3281,637,Daddy Yankee,57,90,21146642
+3282,684,Kane Brown,96,80,2989163
+3283,638,Meek Mill,139,81,4620537
+3284,701,Original Broadway Cast of Hamilton,58,80,375215
+3285,658,Florida Georgia Line,96,80,4088893
+3286,639,G-Eazy,139,83,4683574
+3287,640,Kevin Gates,164,78,3777477
+3288,641,Panic! At The Disco,129,82,10208697
+3289,642,Diplo,165,85,2326692
+3290,685,Playboi Carti,92,80,4170632
+3291,659,Imagine Dragons,148,87,31344515
+3292,702,Moneybagg Yo,139,78,1725088
+3293,643,Rick Ross,137,81,4426919
+3294,644,Migos,92,81,11022732
+3295,645,Farruko,57,91,8716343
+3296,646,Kelly Clarkson,48,83,7116771
+3297,647,Snoop Dogg,127,84,6418233
+3298,631,Maroon 5,151,87,28264215
+3299,632,Coldplay,56,88,28143355
+3300,703,Frank Ocean,161,85,6832102
+3301,704,Ozuna,57,93,25515916
+3302,705,Wiz Khalifa,139,86,9557158
+3303,706,Pentatonix,180,84,2847665
+3304,707,"Tyler, The Creator",139,83,5470718
+3305,708,Ed Sheeran,151,91,73200314
+3306,709,$uicideBoy$,181,84,2794014
+3307,710,One Direction,117,89,18910298
+3308,689,2 Chainz,92,83,5944400
+3309,690,Doja Cat,48,86,4490669
+3310,691,Mariah Carey,48,87,6143081
+3311,692,Kodak Black,177,82,6458344
+3312,693,Chance the Rapper,163,85,5094771
+3313,694,Sam Smith,48,89,14643098
+3314,695,Beyoncé,48,87,25347825
+3315,696,NF,139,84,4580755
+3316,697,Jhené Aiko,161,82,3936693
+3317,0,Frank Sinatra,1,85,4367053
+3318,698,Jack Harlow,178,84,563709
+3319,675,Tory Lanez,173,84,3372158
+3320,676,The Beatles,75,87,18037696
+3321,677,Quavo,92,84,4535638
+3322,678,Bruno Mars,48,87,27805384
+3323,679,Bing Crosby,1,82,327079
+3324,680,JAY-Z,130,85,5801845
+3325,699,Lil Yachty,92,82,6742778
+3326,681,Gucci Mane,92,82,3582651
+3327,668,A$AP Rocky,130,84,8306531
+3328,669,Logic,111,82,5072904
+3329,670,Maluma,171,92,22305388
+3330,671,Lady Gaga,48,88,15012502
+3331,655,Kid Cudi,139,87,4308283
+3332,711,Clairo,182,83,1962765
+3333,682,Swae Lee,174,84,1004877
+3334,656,Fleetwood Mac,40,84,5648448
+3335,657,Tyga,48,86,6031877
+3336,673,Chris Stapleton,96,80,2800208
+3337,700,Myke Towers,179,92,3809506
+3338,683,SZA,48,82,3975452
+3339,637,Daddy Yankee,57,90,21146642
+3340,684,Kane Brown,96,80,2989163
+3341,638,Meek Mill,139,81,4620537
+3342,701,Original Broadway Cast of Hamilton,58,80,375215
+3343,658,Florida Georgia Line,96,80,4088893
+3344,639,G-Eazy,139,83,4683574
+3345,640,Kevin Gates,164,78,3777477
+3346,641,Panic! At The Disco,129,82,10208697
+3347,642,Diplo,165,85,2326692
+3348,685,Playboi Carti,92,80,4170632
+3349,659,Imagine Dragons,148,87,31344515
+3350,712,Marshmello,183,88,28266527
+3351,713,Dua Lipa,48,93,21364244
+3352,714,Big Sean,184,84,7939628
+3353,715,Cardi B,48,89,13510215
+3354,703,Frank Ocean,161,85,6832102
+3355,716,Don Toliver,185,87,1105921
+3356,704,Ozuna,57,93,25515916
+3357,705,Wiz Khalifa,139,86,9557158
+3358,706,Pentatonix,180,84,2847665
+3359,707,"Tyler, The Creator",139,83,5470718
+3360,708,Ed Sheeran,151,91,73200314
+3361,709,$uicideBoy$,181,84,2794014
+3362,710,One Direction,117,89,18910298
+3363,689,2 Chainz,92,83,5944400
+3364,690,Doja Cat,48,86,4490669
+3365,691,Mariah Carey,48,87,6143081
+3366,692,Kodak Black,177,82,6458344
+3367,717,King Von,163,81,591828
+3368,693,Chance the Rapper,163,85,5094771
+3369,694,Sam Smith,48,89,14643098
+3370,695,Beyoncé,48,87,25347825
+3371,696,NF,139,84,4580755
+3372,697,Jhené Aiko,161,82,3936693
+3373,0,Frank Sinatra,1,85,4367053
+3374,698,Jack Harlow,178,84,563709
+3375,675,Tory Lanez,173,84,3372158
+3376,676,The Beatles,75,87,18037696
+3377,677,Quavo,92,84,4535638
+3378,678,Bruno Mars,48,87,27805384
+3379,679,Bing Crosby,1,82,327079
+3380,680,JAY-Z,130,85,5801845
+3381,699,Lil Yachty,92,82,6742778
+3382,681,Gucci Mane,92,82,3582651
+3383,668,A$AP Rocky,130,84,8306531
+3384,669,Logic,111,82,5072904
+3385,670,Maluma,171,92,22305388
+3386,671,Lady Gaga,48,88,15012502
+3387,655,Kid Cudi,139,87,4308283
+3388,711,Clairo,182,83,1962765
+3389,682,Swae Lee,174,84,1004877
+3390,656,Fleetwood Mac,40,84,5648448
+3391,657,Tyga,48,86,6031877
+3392,673,Chris Stapleton,96,80,2800208
+3393,700,Myke Towers,179,92,3809506
+3394,683,SZA,48,82,3975452
+3395,637,Daddy Yankee,57,90,21146642
+3396,684,Kane Brown,96,80,2989163
+3397,638,Meek Mill,139,81,4620537
+3398,701,Original Broadway Cast of Hamilton,58,80,375215
+3399,658,Florida Georgia Line,96,80,4088893
+3400,718,Anuel AA,57,91,15360715
+3401,719,Michael Bublé,1,90,4236578
+3402,720,Joji,161,86,3772777
+3403,721,Rihanna,186,89,40201163
+3404,712,Marshmello,183,88,28266527
+3405,713,Dua Lipa,48,93,21364244
+3406,714,Big Sean,184,84,7939628
+3407,715,Cardi B,48,89,13510215
+3408,703,Frank Ocean,161,85,6832102
+3409,716,Don Toliver,185,87,1105921
+3410,704,Ozuna,57,93,25515916
+3411,705,Wiz Khalifa,139,86,9557158
+3412,706,Pentatonix,180,84,2847665
+3413,722,Lil Tjay,187,85,2111699
+3414,707,"Tyler, The Creator",139,83,5470718
+3415,708,Ed Sheeran,151,91,73200314
+3416,709,$uicideBoy$,181,84,2794014
+3417,710,One Direction,117,89,18910298
+3418,689,2 Chainz,92,83,5944400
+3419,690,Doja Cat,48,86,4490669
+3420,691,Mariah Carey,48,87,6143081
+3421,692,Kodak Black,177,82,6458344
+3422,717,King Von,163,81,591828
+3423,693,Chance the Rapper,163,85,5094771
+3424,694,Sam Smith,48,89,14643098
+3425,695,Beyoncé,48,87,25347825
+3426,696,NF,139,84,4580755
+3427,697,Jhené Aiko,161,82,3936693
+3428,0,Frank Sinatra,1,85,4367053
+3429,723,Internet Money,144,85,181409
+3430,698,Jack Harlow,178,84,563709
+3431,675,Tory Lanez,173,84,3372158
+3432,676,The Beatles,75,87,18037696
+3433,677,Quavo,92,84,4535638
+3434,678,Bruno Mars,48,87,27805384
+3435,679,Bing Crosby,1,82,327079
+3436,680,JAY-Z,130,85,5801845
+3437,699,Lil Yachty,92,82,6742778
+3438,724,24kGoldn,114,88,590440
+3439,681,Gucci Mane,92,82,3582651
+3440,668,A$AP Rocky,130,84,8306531
+3441,669,Logic,111,82,5072904
+3442,670,Maluma,171,92,22305388
+3443,725,Rod Wave,177,79,1427473
+3444,671,Lady Gaga,48,88,15012502
+3445,672,NLE Choppa,172,81,2495674
+3446,655,Kid Cudi,139,87,4308283
+3447,711,Clairo,182,83,1962765
+3448,682,Swae Lee,174,84,1004877
+3449,656,Fleetwood Mac,40,84,5648448
+3450,726,iann dior,174,88,883187
+3451,718,Anuel AA,57,91,15360715
+3452,719,Michael Bublé,1,90,4236578
+3453,720,Joji,161,86,3772777
+3454,721,Rihanna,186,89,40201163
+3455,712,Marshmello,183,88,28266527
+3456,713,Dua Lipa,48,93,21364244
+3457,714,Big Sean,184,84,7939628
+3458,715,Cardi B,48,89,13510215
+3459,703,Frank Ocean,161,85,6832102
+3460,716,Don Toliver,185,87,1105921
+3461,704,Ozuna,57,93,25515916
+3462,705,Wiz Khalifa,139,86,9557158
+3463,706,Pentatonix,180,84,2847665
+3464,722,Lil Tjay,187,85,2111699
+3465,707,"Tyler, The Creator",139,83,5470718
+3466,708,Ed Sheeran,151,91,73200314
+3467,709,$uicideBoy$,181,84,2794014
+3468,710,One Direction,117,89,18910298
+3469,689,2 Chainz,92,83,5944400
+3470,690,Doja Cat,48,86,4490669
+3471,691,Mariah Carey,48,87,6143081
+3472,692,Kodak Black,177,82,6458344
+3473,717,King Von,163,81,591828
+3474,693,Chance the Rapper,163,85,5094771
+3475,694,Sam Smith,48,89,14643098
+3476,695,Beyoncé,48,87,25347825
+3477,696,NF,139,84,4580755
+3478,697,Jhené Aiko,161,82,3936693
+3479,0,Frank Sinatra,1,85,4367053
+3480,723,Internet Money,144,85,181409
+3481,698,Jack Harlow,178,84,563709
+3482,675,Tory Lanez,173,84,3372158
+3483,676,The Beatles,75,87,18037696
+3484,677,Quavo,92,84,4535638
+3485,678,Bruno Mars,48,87,27805384
+3486,679,Bing Crosby,1,82,327079
+3487,680,JAY-Z,130,85,5801845
+3488,699,Lil Yachty,92,82,6742778
+3489,724,24kGoldn,114,88,590440
+3490,681,Gucci Mane,92,82,3582651
+3491,668,A$AP Rocky,130,84,8306531
+3492,669,Logic,111,82,5072904
+3493,670,Maluma,171,92,22305388
+3494,725,Rod Wave,177,79,1427473
+3495,671,Lady Gaga,48,88,15012502
+3496,672,NLE Choppa,172,81,2495674
+3497,655,Kid Cudi,139,87,4308283
+3498,711,Clairo,182,83,1962765
+3499,682,Swae Lee,174,84,1004877

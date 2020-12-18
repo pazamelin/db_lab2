@@ -1,0 +1,3501 @@
+,track_id,track_name,track_album,track_artist,track_duration_ms,track_popularity
+0,0,Someone To Watch Over Me,0,4,196666,56
+1,1,I've Got A Crush On You,0,4,196440,55
+2,2,Stardust,1,727,146346,44
+3,3,If You've Got the Money I've Got the Time,2,728,179306,43
+4,4,Powder Your Face With Sunshine (Smile! Smile! Smile!),3,1,155106,37
+5,5,Night on Bald Mountain,4,729,659560,31
+6,6,The Yellow Rose of Texas - Single Version,5,730,181066,36
+7,7,Always Late (With Your Kisses),6,728,184040,31
+8,8,"Piano Sonata in B Minor, S. 178: II. Andante sostenuto",7,34,361960,39
+9,9,El Nido,8,731,179573,28
+10,10,A la Luz del Día,9,732,163266,32
+11,11,OPM Medley: When I Met You,10,733,557986,45
+12,12,El Botones,11,731,156306,28
+13,13,Tea for Two (with Axel Stordahl & His Orchestra),12,37,191306,38
+14,14,Pena Negra,8,731,178866,26
+15,15,Los Aretes de la Luna,11,731,157800,26
+16,16,I Love You a Thousand Ways,6,728,163000,28
+17,17,El Mudo,11,731,139626,26
+18,18,Canela Pura,13,731,174200,38
+19,19,El Ladrón,11,731,166066,25
+20,20,It Had To Be You,14,734,191213,30
+21,21,Always Late (With Your Kisses),2,728,191360,33
+22,22,Everyday Is Christmas,15,735,201733,27
+23,23,Amor de Cabaret,11,731,173933,24
+24,24,"Doctor, Lawyer, Indian Chief",14,734,186186,27
+25,25,Laberinto,13,736,186826,39
+26,26,Melodie D'Amour,16,737,157240,26
+27,27,Enemigos,13,736,166693,39
+28,28,La Boa,11,731,175133,22
+29,29,Luces de Nueva York - Remasterizado,11,731,185400,22
+30,30,Corazón de Acero,8,731,169466,21
+31,31,Ya No Vuelvas Conmigo,8,731,162826,21
+32,32,Tita,11,731,173866,21
+33,33,Ataypura!,17,738,184266,28
+34,34,Por Las Calles De México,11,731,166093,20
+35,35,El Caballo Blanco,18,33,159293,21
+36,36,The Money Song,3,1,190400,24
+37,37,I Love You a Thousand Ways,2,728,168373,30
+38,38,The Thing,16,739,139506,19
+39,39,Tarra Ta-Larra Ta-Lar,3,1,183200,23
+40,40,Por un Puñado de Oro,8,731,168600,19
+41,41,Besame Mucho,19,740,176902,26
+42,42,Zing-A Zing-A Zing Boom,3,1,135293,23
+43,43,You Was - Remastered,3,1,169933,26
+44,44,That Lucky Old Sun (Just Rolls Around Heaven All Day),3,1,183666,30
+45,45,Stuff Like That There,14,734,179933,23
+46,46,But Not For Me,0,4,195133,25
+47,47,I Don't Care If The Sun Don't Shine,3,1,117626,32
+48,48,My One And Only,0,4,196960,25
+49,49,How Long Has This Been Going On?,0,4,197666,25
+50,50,Mood Indigo,20,188,926360,22
+51,51,Amarga Navidad,21,33,196986,18
+52,52,Mambo Mucho Mambo,22,741,181173,20
+53,53,Pearl Pearl Pearl,23,742,129288,17
+54,54,Thelonious - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster,24,50,181506,23
+55,55,Foggy Mountain Breakdown,23,742,140109,17
+56,56,Evonce - Rudy Van Gelder 24-Bit Mastering / 2001 Digital Remaster,24,50,184840,22
+57,57,I'm Confessin' (That I Love You),25,743,171693,20
+58,58,Adeste Fideles,26,95,156306,17
+59,59,Lady Bird,27,744,171123,23
+60,60,Well You Needn't - Remastered,24,50,179586,22
+61,61,The Ballad of Jed Clampett,23,742,123666,16
+62,62,A la gran muñeca,28,745,164834,37
+63,63,Tú y la Mentira,21,33,140333,16
+64,64,Angel Band,29,742,151493,17
+65,65,The World Is Waiting for the Sunrise,30,67,180133,21
+66,66,I'll Always Love You (Day After Day),31,1,156973,22
+67,67,When the Angels Carry Me Home,29,742,138040,16
+68,68,April In Paris,32,746,190240,22
+69,69,Evonce - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,183826,21
+70,70,Monk's Mood - Rudy Van Gelder 24-Bit Mastering / 2001 Digital Remaster,24,50,190413,21
+71,71,"So Sorry, Please",32,746,195280,23
+72,72,Suburban Eyes - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,178533,21
+73,73,Off Minor - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster,24,50,183026,20
+74,74,I'm Forever Blowing Bubbles,25,743,179066,20
+75,75,Well You Needn't - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,177346,20
+76,76,Black Beauty,33,99,205413,19
+77,77,Blue Christmas,26,747,155520,15
+78,78,You Are My Flower,23,742,149675,14
+79,79,Anema E Core,34,748,213493,23
+80,80,Introspection - Rudy Van Gelder 24-Bit Mastering / 1998 Digital Remaster,24,50,193373,20
+81,81,In Walked Bud - Rudy Van Gelder Edition / Remastered 1998,24,50,177533,19
+82,82,Nice Work If You Can Get It - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,183666,19
+83,83,Perfidia,33,99,234693,19
+84,84,Ruby My Dear - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,187386,19
+85,85,(Ma Come Bali) Bella Bimba,31,1,169600,20
+86,86,"Brother, I'm Getting Ready to Go",29,742,160493,15
+87,87,The Old Fashioned Preacher,29,749,158933,16
+88,88,Cuatro Copas,21,33,196360,14
+89,89,Christmas Story (with Paul Weston & His Orchestra & The Norman Luboff Choir),35,37,189213,16
+90,90,Go Go Go Go,31,1,143066,21
+91,91,Who Knows? - Rudy Van Gelder 24-Bit Mastering / 2001 Digital Remaster,24,50,165280,20
+92,92,Autumn Leaves,33,99,159720,18
+93,93,April In Paris - Alternate Take/Rudy Van Gelder 24-Bit Mastering/2001 Digital Remaster,24,50,162733,19
+94,94,Tu Enamorado,21,33,177040,13
+95,95,The Tattooed Bride,20,188,701426,17
+96,96,Squeeze Me,33,99,229346,17
+97,97,Castle Rock,36,750,173493,22
+98,98,I've Got A Crush On You - Outtake,37,751,166973,18
+99,99,Sophisticated Lady,20,188,687866,17
+100,100,Blues In The Closet,38,752,169173,25
+101,101,Delicado,39,59,171333,27
+102,102,Black Is the Color,40,753,136733,25
+103,103,Carolina Moon,41,67,135440,25
+104,104,You Go To My Head,42,746,196353,25
+105,105,My Funny Valentine,43,754,202026,22
+106,106,Broadway Melody Ballet,44,751,411866,24
+107,107,Devil Woman,45,23,171693,23
+108,108,Body And Soul,43,754,196506,21
+109,109,Singing The Blues,45,23,145800,23
+110,110,Here Comes Santa Claus (Right Down Santa Claus Lane),46,755,135373,21
+111,111,Bloomdido,47,102,209826,25
+112,112,A White Sport Coat (And a Pink Carnation) (with Ray Conniff),45,23,148466,23
+113,113,But Not For Me,43,754,169386,21
+114,114,Finale (Singin' In The Rain),44,751,109400,23
+115,115,"Keyboard Suite No. 4 in D Minor, HWV 437: III. Saraband (arr. A. Segovia for guitar): Suite No. 4 in D Minor, HWV 437: III. Saraband (arr. A. Segovia)",48,756,241040,23
+116,116,Stella By Starlight,49,179,163066,18
+117,117,Beautiful Girl,50,757,197040,18
+118,118,Bye Bye Blues,51,743,125040,21
+119,119,El Paso,45,23,279493,20
+120,120,If I Had You,43,754,210640,19
+121,121,An Oscar For Treadwell - Take 3 / Alternate Take,47,68,208906,23
+122,122,Some Memories Just Won't Die,45,23,201240,19
+123,123,Appalachian Pride,52,105,149626,17
+124,124,The Dying Cowboy,53,758,183480,18
+125,125,You Were Meant For Me,50,751,213493,17
+126,126,Thumbelina,54,89,107160,23
+127,127,Yeh Raat Yeh Chandni,55,759,296240,22
+128,128,Bernie's Tune,56,760,174586,23
+129,129,Oh Marie - Remastered,57,1,146106,21
+130,130,You Go To My Head,58,136,232746,19
+131,131,My Melancholy Baby - Take 1 / Alternate Take,47,102,209706,22
+132,132,Wabash Blues,51,743,187093,18
+133,133,Leap Frog - Take 5 / Complete,47,68,155960,21
+134,134,Don't Worry,45,23,189600,18
+135,135,Mohawk,47,102,225000,21
+136,136,Ole Slewfoot,52,105,135400,14
+137,137,Blues Stay Away From Me,51,743,136733,17
+138,138,Laura - Remastered,59,616,165906,19
+139,139,The Peanut Vendor,57,1,123493,19
+140,140,You Are My Lucky Star - Outtake,50,761,220066,15
+141,141,I'm In The Mood For Love,43,754,210533,16
+142,142,Leap Frog - Take 8 / Take 4 / Alternate Take,47,68,124333,20
+143,143,It's A Lonesome Old Town,51,743,188533,17
+144,144,My Melancholy Baby,47,102,200600,20
+145,145,Relaxing With Lee - Take 2 / Incomplete,47,68,73440,20
+146,146,Hum Tum Se Mohabbat Karke,60,762,219733,20
+147,147,Love (Your Spell Is Everywhere),43,754,161093,15
+148,148,These Foolish Things (Remind Me Of You),58,136,200906,17
+149,149,The Song Is You,61,763,178506,19
+150,150,"Bagatelle in A Minor, WoO 59 ""Für Elise""",62,12,189506,25
+151,151,Dost Dost Na Raha Pyar Pyar Na Raha,63,762,346280,26
+152,152,"No. 15, in A-Flat",62,29,116093,24
+153,153,No Moe - Instrumental,64,79,209400,24
+154,154,Cavalleria Rusticana: Intermezzo,65,764,227893,30
+155,155,II. Adagio,62,7,229946,23
+156,156,Ebb Tide,66,765,131095,17
+157,157,"Rudolph, The Red-Nosed Reindeer",67,766,82173,19
+158,158,Laura,68,102,189906,24
+159,159,Yeh Mera Prem Patra,63,767,265146,26
+160,160,I'm A Fool To Care,69,743,176466,20
+161,161,Carson City Stage,70,768,158306,25
+162,162,My Man,71,269,155546,21
+163,163,No Not Much,72,769,196733,21
+164,164,All The Things You Are,70,768,176866,20
+165,165,Autumn In New York - Instrumental,73,770,219866,22
+166,166,Moonlight In Vermont,74,771,184666,20
+167,167,Breezin' Along With The Breeze,72,769,131893,22
+168,168,Just Walkin' in the Rain,75,772,162434,17
+169,169,O Mehbooba,63,762,304293,23
+170,170,The Black Hills of Dakota,76,37,178200,29
+171,171,"Lover, Come Back To Me",71,269,213533,20
+172,172,Mele Kalikimaka - Jingle Bells,67,766,106786,18
+173,173,I Can't Face The Music,71,269,192933,22
+174,174,Tennessee Waltz,69,743,189800,20
+175,175,Mockin' Bird Hill (Tra La La Twittle Dee Dee Dee),69,743,140133,22
+176,176,"Symphony No. 28 in C Major, K. 200: II. Andante",77,7,373980,21
+177,177,A Woman's Touch,76,773,148400,28
+178,178,Yesterdays,71,269,168546,24
+179,179,The Stopper - Instrumental,64,79,176493,22
+180,180,Aa Ja Re Ab Mera Dil Pukare,78,762,196920,22
+181,181,Winter Wonderland,70,768,146600,21
+182,182,Imagination,70,768,182333,23
+183,183,Har Dil Jo Pyar Karega,63,61,285499,24
+184,184,The Syncopated Clock,79,59,134866,22
+185,185,String Quartet No. 2 in D Major: III. Nocturne. Andante (Arr. for Violin & Orchestra),80,774,347613,24
+186,186,Isn't It Romantic?,70,768,210466,24
+187,187,Arrivederci Roma,81,775,224493,15
+188,188,Till,79,59,179960,23
+189,189,All My Love (Bolero),79,59,188493,22
+190,190,La vie en rose,82,776,195320,15
+191,191,It's the Most Wonderful Time of the Year,83,582,151826,15
+192,192,On A Slow Boat To China,64,79,159106,22
+193,193,Will You Still Be Mine?,84,115,384733,26
+194,194,Higher Than a Hawk (Deeper Than a Well),76,777,132200,26
+195,195,Mary's Boy Child,67,766,117546,16
+196,196,Night And Day,68,102,172960,20
+197,197,Delicado,79,59,168493,20
+198,198,O Mere Sanam,63,61,268533,20
+199,199,"'Tis Harry I'm Plannin' to Marry (From ""Calamity Jane"")",76,778,125306,25
+200,200,September Song,85,106,346973,38
+201,201,Grítenme Piedras del Campo,86,779,173400,40
+202,202,The Ballad of Paladin,87,780,110160,34
+203,203,Good King Wenceslas,88,59,183666,34
+204,204,Jordu,89,781,470333,37
+205,205,Lullaby,90,782,208066,38
+206,206,They Can't Take That Away From Me - Remastered,91,0,116373,37
+207,207,Con Alma,92,68,305066,38
+208,208,Just One Of Those Things - Remastered 1998,93,0,192820,38
+209,209,Embraceable You,85,106,291173,38
+210,210,'Cross the Brazos at Waco,87,783,169226,33
+211,211,Malambo No. 1,94,784,176600,34
+212,212,The Bells of St. Mary's - 45 Version,95,27,160640,34
+213,213,The Man That Got Away,96,257,217893,32
+214,214,Autumn In New York,97,752,303080,35
+215,215,All Of Me - Remastered,93,0,126533,36
+216,216,The Man I Love,98,136,273173,37
+217,217,Jim,85,106,354493,35
+218,218,Autumn Breeze,99,785,189813,33
+219,219,Babuji Dheere Chalna,100,786,207785,36
+220,220,Sisters,101,18,148626,32
+221,221,The Best Things Happen While You're Dancing,102,63,123826,30
+222,222,Jive At Six,103,787,251093,31
+223,223,Manteca Theme,92,68,250933,34
+224,224,Una Pura Y Dos Con Sal,104,779,112133,27
+225,225,(I Love You) For Sentimental Reasons,105,788,172666,34
+226,226,Nuestro Gran Amor,86,779,171506,38
+227,227,Deck the Hall with Boughs of Holly,88,59,175720,33
+228,228,Like Someone In Love - Remastered,91,0,188853,32
+229,229,Chartreuse,106,789,273040,34
+230,230,Delilah,89,781,486533,33
+231,231,"Violin Concerto in D Major, Op. 35: II. Romance",107,790,431600,33
+232,232,'Round About Midnight,108,770,177333,31
+233,233,"Suite espanola No. 1, Op. 47: No. 5. Asturias (arr. A. Segovia)",109,756,386573,32
+234,234,Get Happy - Remastered 1998,93,0,143289,32
+235,235,Once In A While,110,754,194880,30
+236,236,He's My Guy,85,106,253240,33
+237,237,Poutin',103,787,236000,33
+238,238,Jeepers Creepers - Remastered 1998,93,0,141275,32
+239,239,O Holy Night - 1959 Version,88,59,221653,29
+240,240,Trouble of the World,111,791,285266,30
+241,241,Flowers On the Wall (Live in Denmark),87,792,138600,29
+242,242,Mandy (with Percy Faith & His Orchestra & The Mellomen),102,63,157200,27
+243,243,April In Paris,85,106,374750,33
+244,244,It Ain't Necessarily So,98,136,251266,30
+245,245,Jungla,92,68,284400,29
+246,246,Wrap Your Troubles In Dreams (And Dream Your Troubles Away) - Remastered 1998,93,0,132962,29
+247,247,Algo Bueno,112,793,372440,25
+248,248,"Love, You Didn't Do Right By Me",101,18,183000,26
+249,249,For Me And My Gal,113,257,149893,30
+250,250,Deep In A Dream - Remastered,114,0,169373,34
+251,251,Salt Peanuts,115,68,196640,34
+252,252,Hot House,115,68,193493,34
+253,253,Say It Isn't So,116,175,122226,36
+254,254,Which Side are You On?,117,794,131466,33
+255,255,What Is This Thing Called Love - Remastered,114,0,155560,35
+256,256,Green Haze - RVG Remaster,118,26,351040,35
+257,257,Caravan,119,50,356306,34
+258,258,Bluebird - New Take 1,120,102,175000,34
+259,259,The Shot Gun Boogie,121,74,155007,32
+260,260,I Believe,122,795,127706,37
+261,261,La Paloma Azul,123,41,380506,33
+262,262,Can't We Be Friends? - Remastered,114,0,168040,33
+263,263,I See Your Face Before Me - Remastered,114,0,204026,33
+264,264,I'll Be Around - Remastered,114,0,179200,32
+265,265,Chanda Mama Door Ke,124,120,163468,27
+266,266,Something Cool,125,796,258893,33
+267,267,When Your Lover Has Gone - Remastered,114,0,190200,32
+268,268,Nature Boy,126,797,374333,34
+269,269,Exactly Like You,127,115,193546,26
+270,270,Can't Help Lovin' That Man,116,175,191360,33
+271,271,Mambo Gallego,128,798,173522,28
+272,272,East Of The Sun (And West Of The Moon),129,179,381466,31
+273,273,My Foolish Heart,130,799,187360,33
+274,274,It Never Entered My Mind - Remastered,114,0,162226,31
+275,275,Somewhere,123,41,253666,31
+276,276,Last Night When We Were Young - Remastered,114,0,197133,31
+277,277,Meet Me Where They Play the Blues - 2014 Remastered Version,131,800,229360,34
+278,278,This Love Of Mine - 1998 Remastered,114,0,213933,31
+279,279,My Romance,123,41,409400,31
+280,280,Dancing On The Ceiling - Remastered,114,0,177333,30
+281,281,It Never Entered My Mind,116,175,145440,31
+282,282,I'll Never Be The Same - Remastered,114,0,185866,30
+283,283,Ill Wind - Remastered,114,0,226306,30
+284,284,What Is This Thing Called Love,123,41,374333,31
+285,285,Sonet: 1909,132,801,54533,30
+286,286,Easy Street,116,175,194826,32
+287,287,Jingle Bells - Single Version,133,802,100053,26
+288,288,I Love You,116,175,113986,31
+289,289,Christmas Bells,134,803,151666,30
+290,290,If I Had You,130,799,183373,26
+291,291,Summertime,129,179,368266,26
+292,292,'S Wonderful,116,175,95373,31
+293,293,Laura,116,175,102791,31
+294,294,Hey There - Single Version,135,163,166720,26
+295,295,Gone With the Wind - Remastered,116,175,126186,31
+296,296,Thirteen Women (And Only One Man In Town),136,804,172066,32
+297,297,"Teach Me Tonight - Original Edited Concert - Live at Sunset School, Carmel-by-the-Sea, CA, September 1955",137,115,224733,31
+298,298,I Get A Kick Out Of You,138,127,381373,31
+299,299,A Room With A View,139,805,249426,24
+300,300,Tutti Frutti,140,579,117560,51
+301,301,"I Could Have Danced All Night - from ""My Fair Lady""",141,166,209200,43
+302,302,Evening In Paris,142,806,201613,45
+303,303,Ev'ry Time We Say Goodbye,143,4,213920,48
+304,304,The Thrill Is Gone - Vocal Version,144,197,171466,46
+305,305,Love Me,145,579,163786,46
+306,306,Black Coffee - Single Version,146,18,186333,44
+307,307,Good Morning Heartache,147,269,188160,44
+308,308,Devil or Angel,148,807,146933,40
+309,309,Sink the Bismark,149,162,194933,41
+310,310,Bags' Groove,150,808,186066,46
+311,311,Tenderly,151,269,199186,45
+312,312,Standing On The Corner,152,1,171240,44
+313,313,North to Alaska,149,162,170240,40
+314,314,Blue Lester,153,96,205373,46
+315,315,My Buddy - Vocal Version,144,197,199840,46
+316,316,Crazy Arms,154,95,152906,41
+317,317,Love For Sale,151,269,176280,44
+318,318,Everything I Have Is Yours - 10'' Version,151,269,224533,44
+319,319,I Love Paris,143,4,299960,46
+320,320,God Bless The Child - 1956 Version,155,269,238120,43
+321,321,Corner Pocket,156,209,315000,40
+322,322,O Sole Mio (My Sunshine),157,809,162706,42
+323,323,April In Paris,156,209,228000,39
+324,324,Man Smart (Woman Smarter),158,143,214480,40
+325,325,"Arrivederci, Roma",157,809,184266,41
+326,326,The Star-Crossed Lovers (aka Pretty Girl),159,188,240000,40
+327,327,Volga Boatman,160,810,232506,41
+328,328,It Could Happen To You,161,811,224320,37
+329,329,The Train Kept A Rollin',162,812,139453,41
+330,330,Tasty Pudding,163,26,200360,38
+331,331,Matilda,164,143,215837,44
+332,332,Dark As A Dungeon,165,74,171466,34
+333,333,Rock-A-Bye Your Baby With A Dixie Melody,166,813,156066,35
+334,334,Wouldn't It Be Loverly,141,166,236306,37
+335,335,I'll Fly Away,167,814,152093,35
+336,336,I Can't Quit You Baby,168,815,219559,42
+337,337,Too Marvelous For Words - Remastered 1998,169,0,149440,43
+338,338,Rip It Up,145,579,112706,44
+339,339,Jeep's Blues - Live,170,188,298066,36
+340,340,Trying to Get to You,140,579,150720,41
+341,341,A Simple Tune,161,811,251600,35
+342,342,Banana Split For My Baby - Remastered,171,187,151293,38
+343,343,We Shall Overcome,172,791,167398,38
+344,344,It Never Entered My Mind - Remastered,173,816,243252,40
+345,345,Autumn Leaves (with Paul Weston & His Music From Hollywood),174,37,183706,38
+346,346,"Oh, Marie",171,187,148000,36
+347,347,Blue Room - Take 2,163,26,180693,38
+348,348,Come Rain Or Come Shine,175,257,221293,37
+349,349,Smoke Gets In Your Eyes,176,127,204440,41
+350,350,The Christmas Waltz - Alternate Version/Remastered 1999,177,0,179333,55
+351,351,I Believe,178,579,125826,55
+352,352,Personality,179,817,169626,52
+353,353,Let's Call The Whole Thing Off,180,4,251600,56
+354,354,Blue Suede Shoes,181,818,134445,55
+355,355,It Is No Secret (What God Can Do),178,579,236440,53
+356,356,I Couldn't Sleep A Wink Last Night - Remastered,182,0,205466,53
+357,357,I Walk the Line,183,529,163045,48
+358,358,Eddie My Love - 1956 #14 Billboard chart hit,184,67,135066,49
+359,359,Rip It Up,185,819,141400,53
+360,360,Oh Boy!,186,820,128960,51
+361,361,Renunciación,187,44,177466,55
+362,362,Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster,188,821,339333,52
+363,363,My Funny Valentine - Rudy Van Gelder Remaster,189,797,358200,56
+364,364,St. Thomas,190,79,407600,45
+365,365,Maybe Baby,186,820,122600,50
+366,366,Not Fade Away,186,820,142773,50
+367,367,On The Sunny Side Of The Street,191,269,179493,50
+368,368,"Piano Concerto No. 5 in E-Flat Major, Op. 73 ""Emperor"": II. Adagio un poco mosso",192,12,561813,51
+369,369,School Day (Ring Ring Goes The Bell),193,345,160693,50
+370,370,I Know Why (And So Do You),194,822,287613,47
+371,371,In A Sentimental Mood,195,4,168346,49
+372,372,Stardust,196,616,195573,48
+373,373,"Rudolph, The Red-Nosed Reindeer",197,823,168106,48
+374,374,Rock Island Line,183,529,129585,47
+375,375,In A Mellow Tone,195,4,310533,49
+376,376,Speedo,198,824,139066,41
+377,377,Please Send Me Someone To Love,194,822,588840,46
+378,378,Drown in My Own Tears,199,207,201866,48
+379,379,Boppin' the Blues,181,818,167840,47
+380,380,Mary's Boy Child,200,143,262218,48
+381,381,Love Is Here To Stay,180,4,237813,46
+382,382,When You're Smiling/The Sheik Of Araby,201,187,240666,45
+383,383,She's A Sweet One,202,825,181786,52
+384,384,Bye Bye Blackbird,203,26,474626,44
+385,385,Media Vuelta,204,44,131266,38
+386,386,Fine And Mellow,191,269,196346,45
+387,387,Just One Of Those Things - Take 8 - Master Take,205,269,333200,44
+388,388,Three Cigarettes In An Ashtray,206,178,133933,39
+389,389,Esta Tristeza Mía,187,44,155573,38
+390,390,Three O'clock Blues,207,168,183293,43
+391,391,A Tisket A Tasket,208,4,157240,47
+392,392,A Fine Romance,180,4,234986,47
+393,393,(Let Me Be Your) Teddy Bear,209,579,107186,47
+394,394,Stompin' At The Savoy,194,822,189240,44
+395,395,Lullaby Of Birdland,208,4,168773,47
+396,396,Yesterdays,191,269,205133,44
+397,397,April In Paris,210,102,187394,43
+398,398,"Lover, Come Back To Me",191,269,195786,44
+399,399,Body And Soul,211,269,378400,44
+400,400,Return To Me (Ritorna-Me) - 1997 Remaster,212,1,144800,51
+401,401,"Générique - BOF ""Ascenseur pour l'échafaud""",213,26,168512,54
+402,402,The First Noel,214,20,228253,47
+403,403,I'm a Fool to Want You,215,269,203266,54
+404,404,Manhattan,216,826,259706,52
+405,405,Bo Diddley,217,827,149013,51
+406,406,White Christmas (with Percy Faith & His Orchestra),214,20,211840,46
+407,407,Blue Christmas,214,20,181360,46
+408,408,Reet Petite,218,193,169240,60
+409,409,Un Mundo Raro,219,33,228440,54
+410,410,One For Daddy-O - Remastered,220,828,505453,50
+411,411,"I Want You, I Need You, I Love You",221,579,159920,52
+412,412,Moon River,222,176,160693,41
+413,413,Buona Sera - 1998 Digital Remaster,212,1,141920,48
+414,414,Blues Walk,223,829,403200,52
+415,415,Didn't Know About You,224,750,212813,42
+416,416,Cool Struttin',225,830,563613,50
+417,417,The Twelfth Of Never,226,20,147720,45
+418,418,Joy To The World,227,831,150400,45
+419,419,Autumn Leaves,220,828,659520,49
+420,420,Entrega Total,228,44,150333,40
+421,421,Guess Things Happen That Way,229,529,110675,47
+422,422,I Loves You Porgy - 2013 Remastered Version,230,249,249781,51
+423,423,Love For Sale - Remastered,220,828,424640,47
+424,424,Fair Weather - Remastered,231,832,344066,47
+425,425,Rock And Roll Music,232,345,151773,50
+426,426,Blue Moon,233,175,153253,51
+427,427,Polovetsian Dances from Prince Igor: Introduzione,234,774,136960,46
+428,428,Splanky,235,209,217373,48
+429,429,Junker's Blues,236,833,192706,51
+430,430,Tammy,237,834,206226,51
+431,431,The Star Carol,238,74,146066,42
+432,432,"Oh, Lonesome Me",239,835,150506,45
+433,433,Speak Low,240,269,269146,50
+434,434,It Could Happen To You,241,797,396960,50
+435,435,You're My Thrill,242,269,204493,46
+436,436,King Creole,243,579,127813,51
+437,437,When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97,212,1,183560,46
+438,438,Hard Headed Woman,243,579,113480,51
+439,439,Baby Elephant Walk,222,176,162573,38
+440,440,Who Do You Love,217,827,147373,45
+441,441,Greensleeves,244,116,194000,47
+442,442,Theme For Ernie,245,208,293240,44
+443,443,Chicago - Remastered,246,0,134066,45
+444,444,Moanin' At Midnight,247,836,176573,45
+445,445,Pretty Thing,217,827,164733,46
+446,446,Las Rejas No Matan,228,44,187200,37
+447,447,Tom Dooley,248,837,183973,44
+448,448,Jingle Bells (Cascabeles),249,838,143066,45
+449,449,To Be Loved,218,193,154173,42
+450,450,Lonely Teardrops,250,193,166213,51
+451,451,The Little Drummer Boy,251,839,183293,50
+452,452,Winter Wonderland,252,1,114226,59
+453,453,Young And Foolish,253,164,354666,54
+454,454,Better Git It in Your Soul,254,78,440840,53
+455,455,On An Evening In Roma (Sott'er Celo De Roma) - Remastered,255,1,148466,52
+456,456,It Had to Be You,256,207,164666,54
+457,457,Five Feet High and Rising,257,529,107280,51
+458,458,Strange Meadow Lark,258,101,442226,47
+459,459,Running Gun,259,23,130293,48
+460,460,Rhapsody in Blue,260,65,987266,50
+461,461,Oh! Carol,261,840,135466,58
+462,462,Ain't We Got Fun,262,18,133813,54
+463,463,If You Could See Me Now,263,197,318466,56
+464,464,Calendar Girl,261,840,159693,53
+465,465,O Little Town Of Bethlehem,264,841,178466,52
+466,466,All Blues,265,26,692746,51
+467,467,Billy The Kid,259,23,139066,46
+468,468,Rosita,266,116,302666,51
+469,469,A Hundred And Sixty Acres,259,23,100360,46
+470,470,Never Be Anyone Else But You - Remastered,267,182,136266,48
+471,471,Blue Rondo à la Turk,258,101,403640,49
+472,472,I'm Walkin',268,156,126666,51
+473,473,Alone Together,263,197,413786,53
+474,474,The Strawberry Roan,259,23,203933,45
+475,475,So What,269,26,562400,50
+476,476,O Little Town Of Bethlehem,270,834,180773,47
+477,477,Utah Carol,259,23,193400,45
+478,478,Mystery Train,271,579,144946,52
+479,479,"See You Later, Alligator",272,804,166840,53
+480,480,Perfidia,273,616,140706,53
+481,481,El Paso,259,23,278133,44
+482,482,I Can't Get Started,274,96,217760,48
+483,483,That's All Right,271,579,115280,49
+484,484,Deck the Halls - Remastered 1998,275,15,79026,42
+485,485,Santa Claus Is Comin' to Town,276,842,121813,47
+486,486,Baby's First Christmas,264,841,145666,49
+487,487,Four Brothers,277,843,178533,51
+488,488,The Hanging Tree,259,23,170400,44
+489,489,Blue in Green,269,26,337160,48
+490,490,Kansas City,278,844,150333,46
+491,491,On Green Dolphin Street,265,26,589200,47
+492,492,Freddie Freeloader,269,26,586493,47
+493,493,The Enchanted Sea,279,845,121106,46
+494,494,All Blues,269,26,692973,47
+495,495,San Francisco (Be Sure to Wear Flowers in Your Hair),280,846,177333,51
+496,496,Blue Monday,268,156,143666,46
+497,497,In The Valley,259,23,108466,42
+498,498,Lucky To Be Me,253,164,221066,46
+499,499,Riders In The Sky,281,847,141946,39
+500,500,Medley: We Three Kings Of Orient Are/O Little Town Of Bethlehem,282,4,215333,49
+501,501,My Dearest Darling,283,247,180666,46
+502,502,I'll Never Stop Loving You,284,99,183066,47
+503,503,Good Morning Blues,282,4,195746,49
+504,504,I Like A Sleighride (Jingle Bells),285,18,125066,47
+505,505,Go Now!,286,223,191013,50
+506,506,Just In Time - Remastered/1998,287,1,135253,49
+507,507,Bésame Mucho,288,47,156200,58
+508,508,Moanin',289,78,482959,49
+509,509,White Christmas - Alternate Take,282,4,224466,48
+510,510,Autumn Leaves,290,164,360546,48
+511,511,Sweet Nothin's,291,523,144600,50
+512,512,Summertime,292,317,143213,44
+513,513,Somethin' Else,293,848,130066,46
+514,514,El Loco,294,44,174173,52
+515,515,That Christmas Feeling,295,679,182866,44
+516,516,My Groove Your Move - Rudy Van Gelder Edition,296,849,367400,51
+517,517,(Somebody) Ease My Troublin' Mind,297,317,173280,44
+518,518,The Christmas Song - Alternate Take,282,4,220893,46
+519,519,Christmas Auld Land Syne,298,198,163293,47
+520,520,"The Nutcracker Suite, Op. 71a, TH 35: IIb. Danses caractéristiques. Danse de la fée-dragée",299,11,99133,43
+521,521,Last Date - Instrumental,300,850,146933,45
+522,522,Love Hurts - Remastered Version,301,183,142306,47
+523,523,Stranger In Paradise,288,47,183266,54
+524,524,Cathy's Clown - Remastered Album Version,301,183,145933,46
+525,525,Is Christmas Only A Tree,295,679,134373,42
+526,526,"Happy Birthday, Sweet Sixteen",302,840,157026,48
+527,527,Just For You,292,317,142106,44
+528,528,Rhode Island Is Famous For You,303,826,131320,41
+529,529,Let's Groove,304,851,363386,41
+530,530,Smoke! Smoke! Smoke! (That Cigarette),305,852,163333,43
+531,531,When I Fall In Love,290,164,297386,45
+532,532,Such a Night,306,579,178760,48
+533,533,Carol Of The Bells,307,319,156266,42
+534,534,Someday My Prince Will Come,290,164,296986,44
+535,535,I've Grown Accustomed To Her Face - Remastered/1998,287,1,162866,44
+536,536,Walking To New Orleans,308,156,118466,43
+537,537,House Of The Rising Sun,309,853,176360,47
+538,538,Clementine,310,198,193079,41
+539,539,Road Runner,311,827,167866,44
+540,540,Y...,294,44,159666,51
+541,541,Mr. P.C.,312,208,423160,42
+542,542,I Can't Believe That You're In Love With Me - Remastered/1998,287,1,145346,43
+543,543,Crazy She Calls Me,313,616,157093,44
+544,544,Mio Amore,314,854,185440,36
+545,545,Fanfare for the Common Man,315,69,195626,40
+546,546,Unchained Melody,316,317,208520,42
+547,547,Satan Is Real,317,855,181733,39
+548,548,(How Much Is That) Doggie In The Window,318,803,149626,42
+549,549,I Need Some Money,319,856,145026,44
+550,550,Who Could Care?,320,179,286893,51
+551,551,Emotions,321,523,171226,49
+552,552,The Merriest,322,796,129533,47
+553,553,Dixie,323,74,141240,44
+554,554,Tell Old Bill,324,857,264440,48
+555,555,Sink The Bismarck,325,162,194640,44
+556,556,Somebody Nobody Wants,326,226,165400,41
+557,557,Walkin' After Midnight,327,178,121360,44
+558,558,Dedicated To The One I Love,328,858,120306,43
+559,559,Some Other Time,329,859,299840,47
+560,560,Life Is But A Dream,326,226,155893,40
+561,561,Won't Be Long - As heard in the Netflix series The Umbrella Academy,330,279,187893,51
+562,562,In The Still Of The Night,326,860,169373,40
+563,563,Everytime We Say Goodbye,331,208,345266,45
+564,564,"""A"" You're Adorable",332,861,151680,46
+565,565,Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition,333,862,395560,46
+566,566,Porgy (I Loves You Porgy) - Outtake,329,859,360306,45
+567,567,North To Alaska*,325,162,169760,42
+568,568,West Side Story: Act I: America,334,31,299000,46
+569,569,"Toccata & Fugue in D Minor, BWV 565: Toccata",335,3,185266,41
+570,570,God Rest Ye Merry Gentlemen,336,863,196600,41
+571,571,Sleigh Ride,336,863,175733,41
+572,572,You're Always On My Mind,337,317,137026,44
+573,573,The Plum Blossom - Rudy Van Gelder Remaster,338,864,295066,45
+574,574,Far More Blue,339,101,277706,44
+575,575,San Antonio Rose,327,178,141626,42
+576,576,Cripple Creek,340,742,126053,40
+577,577,West Side Story: Act I: Maria,334,31,155933,44
+578,578,You're Sixteen,341,865,119000,41
+579,579,"Cello Suite No.1 In G Major, BWV 1007: 1. Prélude",342,3,170000,39
+580,580,I'll Wait and Pray,343,208,206360,43
+581,581,White Christmas,344,866,140986,38
+582,582,Christmas Blues,336,863,167506,40
+583,583,Rubber Ball,345,867,144106,47
+584,584,Merry Christmas Baby,336,863,241573,39
+585,585,Winter Wonderland,336,863,128066,40
+586,586,La chanson de Prévert,346,868,182013,53
+587,587,What Are You Doing New Year's Eve?,336,863,207933,39
+588,588,Jingle Bell Rock,344,866,111133,38
+589,589,Waltz for Debby (Take 2),329,859,420226,37
+590,590,"Swing Low, Sweet Chariot",347,317,187506,41
+591,591,The Christmas Song,336,863,195693,38
+592,592,My Favorite Things,348,208,824133,42
+593,593,Blue Hawaii,349,579,156186,44
+594,594,This Bitter Earth,350,127,150666,47
+595,595,"Carnival of the Animals, R. 125: Aquarium",351,180,121693,42
+596,596,Lluvia con Nieve,352,869,177680,49
+597,597,Johnny Reb,325,162,140466,37
+598,598,Santa Claus Is Coming To Town,336,863,142786,38
+599,599,The Sound Of Christmas,336,863,139506,38
+600,600,Ring Christmas Bells,353,47,149400,52
+601,601,Spoonful,354,836,170000,56
+602,602,The One Who Really Loves You - Single Version,355,870,147466,48
+603,603,Soul Bossa Nova,356,149,166589,58
+604,604,Buon Natale (Means Merry Christmas To You),357,616,96933,52
+605,605,Mashed Potato Time,358,871,150866,49
+606,606,Mr. Lonely,359,872,161373,56
+607,607,The Masquerade Is Over,360,873,258106,55
+608,608,Take Good Care Of My Baby,361,867,149800,55
+609,609,I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999,362,874,322000,54
+610,610,Crying in the Rain,363,183,120306,57
+611,611,She Thinks I Still Care,364,259,154800,50
+612,612,A Summer Place,365,582,154866,54
+613,613,Walk Right Back,363,183,139640,52
+614,614,I Hear A Rhapsody,366,164,280026,52
+615,615,God Bless the Child,367,79,446798,52
+616,616,Tous les garçons et les filles - Slow,368,875,187746,60
+617,617,You Belong To Me,369,178,183866,49
+618,618,Love Letters In The Sand - Single Version,370,876,134560,57
+619,619,Re: Person I Knew,371,859,343826,50
+620,620,Swinging On A Star - Single Version,372,679,151866,43
+621,621,Surfin' Safari - Mono/Remastered 2001,373,486,126640,49
+622,622,500 Miles,374,877,162933,50
+623,623,El Watusi,375,878,160115,51
+624,624,Desafinado,376,179,349080,51
+625,625,Lovers Who Wander,377,226,151466,43
+626,626,Poetry In Motion - 1960 #2 Billboard chart hit,378,879,154466,48
+627,627,Your Cheatin' Heart,369,178,142400,46
+628,628,Dream Gypsy,366,164,274906,48
+629,629,The Twelve Days of Christmas,353,47,259200,48
+630,630,Watermelon Man - Remastered,379,146,429266,51
+631,631,Mojo Hand,380,880,179733,48
+632,632,Baby It's You,381,858,154840,45
+633,633,Cathy's Clown,363,183,144013,50
+634,634,Romain,366,164,323733,47
+635,635,Pennies From Heaven,382,0,207200,45
+636,636,Let's Dance,383,881,149626,50
+637,637,Silent Night,384,143,216106,47
+638,638,Crazy,385,470,173001,46
+639,639,Medley: Let It Snow! Let It Snow! Let It Snow! / Count Your Blessings / We Wish You a Merry Christmas,353,47,315733,47
+640,640,It's Over,386,215,181666,50
+641,641,Roses Are Red (My Love) - Single Version,359,872,158933,46
+642,642,Sealed with a Kiss,359,872,168866,53
+643,643,"Kinderszenen, Op. 15: No. 1, Von fremden Ländern und Menschen",387,43,93386,47
+644,644,I Heard the Bells on Christmas Day,384,143,184533,46
+645,645,Samba De Uma Nota So,376,179,369280,48
+646,646,The Theme From Route 66,388,882,130666,44
+647,647,¿Quién Será?,389,838,160933,49
+648,648,Song to Woody,390,456,160000,46
+649,649,Drip Drop,391,226,153826,43
+650,650,A Hard Rain's A-Gonna Fall,392,456,412200,56
+651,651,Rudolph the Red-Nosed Reindeer,393,883,151133,60
+652,652,Stuck on You,394,579,139640,59
+653,653,"Sunshine, Lollipops And Rainbows",395,884,96000,54
+654,654,Georgia On My Mind,396,122,223973,56
+655,655,The First Noël,397,582,187000,49
+656,656,Don't Bother Me - Remastered 2009,398,676,148253,56
+657,657,O Holy Night,399,582,201640,51
+658,658,In My Room - Remastered,400,486,134133,51
+659,659,Two Lovers,401,870,166732,48
+660,660,Blowin' in the Wind,402,877,177360,55
+661,661,Are You Lonesome Tonight,394,579,187026,57
+662,662,Midnight Blue - Remastered,403,885,242346,56
+663,663,Surfer Girl - Remastered,400,486,148533,51
+664,664,In Dreams,404,215,169160,57
+665,665,Dream A Little Dream Of Me,405,4,246160,55
+666,666,Sleigh Ride - Instrumental,406,107,172240,49
+667,667,Chitlins Con Carne,403,885,330440,56
+668,668,White Christmas,399,582,148266,51
+669,669,Days Of Wine And Roses,407,886,226200,52
+670,670,"Silent Night, Holy Night",399,582,135000,50
+671,671,Break It To Me Gently,408,523,164000,53
+672,672,I Wish You Love,409,317,144906,50
+673,673,Fly Me To The Moon (In Other Words),410,175,159106,59
+674,674,"Alabama - Live At Birdland Jazzclub, New York City, NY, 10/18/1963",411,208,308933,53
+675,675,Here Comes Santa Claus,393,887,123746,59
+676,676,A Song and a Christmas Tree (The Twelve Days of Christmas),399,582,234973,52
+677,677,White Christmas,393,382,172920,53
+678,678,Time After Time,412,208,463906,46
+679,679,Santa Claus Is Coming to Town,393,883,204000,56
+680,680,Cattle Call,413,90,162333,48
+681,681,The Loco-Motion - Single Version,414,888,148626,47
+682,682,Blue Christmas,415,195,119666,53
+683,683,"Homesickness, Pt. 2",416,889,193413,50
+684,684,Saudade Vem Correndo,417,179,219093,52
+685,685,500 Miles Away from Home,418,890,162560,50
+686,686,Girl from the North Country,392,456,199573,52
+687,687,Please Mister Postman - Remastered 2009,398,676,154160,54
+688,688,Wives And Lovers,419,891,149040,53
+689,689,Kay Thompson's Jingle Bells,399,582,125000,48
+690,690,Little Deuce Coupe - Remastered,400,486,100933,49
+691,691,Little Sister,394,579,151386,55
+692,692,Johnny Guitar,420,18,181200,47
+693,693,Masters of War,392,456,271360,52
+694,694,I Will Follow Him,421,892,148160,50
+695,695,The Good Life,422,10,134893,52
+696,696,Deck The Halls,423,193,82680,48
+697,697,The End Of The World,410,175,169600,54
+698,698,Monk's Dream - Take 8,424,50,385466,50
+699,699,The Little Drummer Boy,399,582,134960,48
+700,700,I'm Confessin' (That I Love You),425,50,157026,56
+701,701,Do Wah Diddy Diddy,426,893,143400,56
+702,702,No Reply - Remastered 2009,427,676,136066,59
+703,703,I'm Happy Just To Dance With You - Remastered 2009,428,676,116373,58
+704,704,Come A Little Bit Closer,429,894,168853,54
+705,705,Frosty The Snowman - 1991 Remix,430,486,114280,62
+706,706,I Only Want To Be With You,431,895,158200,58
+707,707,Things We Said Today - Remastered 2009,428,676,155333,58
+708,708,I'm So Proud,432,896,171506,50
+709,709,Cry to Me,433,897,154906,60
+710,710,Good Times,434,317,146493,54
+711,711,Piel Canela,435,898,137560,60
+712,712,Sittin On Top Of The World,436,899,159000,51
+713,713,"Merry Christmas, Baby - 1991 Remix",430,486,146093,51
+714,714,Sway (Quien Sera),437,1,162960,61
+715,715,Needles and Pins - Mono,438,900,131360,57
+716,716,Folsom Prison Blues,439,529,155640,57
+717,717,Quiet Nights Of Quiet Stars (Corcovado),440,122,172400,56
+718,718,Edelweiss,441,901,137000,49
+719,719,Santa's Beard - 1991 Remix,430,486,119240,50
+720,720,Cómo Te Extraño Mi Amor,442,243,175493,63
+721,721,Deep River Blues,436,899,192000,52
+722,722,Don't Let Me Be Misunderstood,443,249,166200,58
+723,723,Three Coins In The Fountain,444,0,225426,54
+724,724,"Fun, Fun, Fun (Mono)",445,486,138906,51
+725,725,Moon River,444,0,199133,56
+726,726,Jingle Bell Rock,446,523,130199,59
+727,727,('Til) I Kissed You,447,183,146066,54
+728,728,It Ain't Me Babe,448,456,214440,54
+729,729,Up on the Roof,449,27,157173,51
+730,730,We Three Kings Of Orient Are - 1991 Remix,430,486,244613,49
+731,731,I Want A Love I Can See,450,310,152933,46
+732,732,Santa Claus Is Comin' To Town - 1991 Remix,430,486,140016,49
+733,733,Boots of Spanish Leather,451,456,277106,52
+734,734,Time Is On My Side,452,902,172666,53
+735,735,Wishin' And Hopin',431,895,176400,45
+736,736,The Glory of Love,453,108,169560,50
+737,737,Moon River,454,5,179866,56
+738,738,Detalles (Detalhes),455,903,308133,61
+739,739,Iko Iko,456,904,122344,52
+740,740,I Love You the Way You Are,457,872,174026,51
+741,741,Stuffy Turkey,458,50,490933,45
+742,742,A Marshmallow World,446,523,152160,49
+743,743,Christmas Day - 1991 Remix,430,486,111213,47
+744,744,"Hello, Dolly!",454,5,147000,53
+745,745,Golden Ring - Single Version,459,56,181493,46
+746,746,The Rocky Road to Dublin - Live,460,905,154986,55
+747,747,(You Don't Know) How Glad I Am,461,873,157386,54
+748,748,Bleecker Street,462,355,163680,52
+749,749,I'm On The Outside (Looking In),463,906,192066,44
+750,750,People Get Ready,464,896,163360,60
+751,751,Don't Let Me Be Misunderstood,465,254,149360,56
+752,752,Mr. Tambourine Man,466,201,149466,64
+753,753,I've Just Seen A Face - Remastered 2009,467,676,125040,62
+754,754,Luck Be A Lady,468,0,314133,61
+755,755,Rudolph The Red-Nosed Reindeer - Finale,469,499,82773,57
+756,756,In the Midnight Hour,470,907,157160,62
+757,757,How Sweet It Is (To Be Loved By You),471,445,177773,60
+758,758,Girl - Remastered 2009,472,676,151720,63
+759,759,My Favorite Things,473,166,138360,60
+760,760,I'm Looking Through You - Remastered 2009,472,676,146386,61
+761,761,"Overture And A Holly Jolly Christmas - From ""Rudolph The Red-Nosed Reindeer"" Soundtrack",469,499,148333,55
+762,762,It Was A Very Good Year,474,0,267240,61
+763,763,Shotgun,475,908,176626,57
+764,764,California Girls - Remix/Remastered,476,486,160360,58
+765,765,I've Been Loving You Too Long,477,392,181666,60
+766,766,Sinnerman,478,249,622000,64
+767,767,My Favorite Things - Stereo,479,234,168800,56
+768,768,My Girl,477,392,175853,62
+769,769,Yes. I'm Ready,480,909,184333,53
+770,770,"Jingle Jingle Jingle - From ""Rudolph The Red-Nosed Reindeer"" Soundtrack",469,910,77000,54
+771,771,Nowhere To Run,481,911,181640,61
+772,772,You Won't See Me - Remastered 2009,472,676,199960,59
+773,773,Do-Re-Mi,473,166,332600,52
+774,774,We Gotta Get Out Of This Place - UK Single Version,465,254,194600,52
+775,775,"A Holly Jolly Christmas - From ""Rudolph The Red-Nosed Reindeer"" Soundtrack",469,499,82800,53
+776,776,Catch the Wind,482,200,173813,59
+777,777,Agua De Beber,483,912,138013,63
+778,778,Subterranean Homesick Blues,484,456,141293,58
+779,779,Frosty the Snowman,485,14,113556,56
+780,780,Do You Hear What I Hear?,486,582,171466,54
+781,781,You're Going To Lose That Girl - Remastered 2009,467,676,138666,59
+782,782,For Your Love - 2015 Remaster,487,913,150626,58
+783,783,The Night Before - Remastered 2009,467,676,154933,59
+784,784,Run For Your Life - Remastered 2009,472,676,141093,58
+785,785,Sitting In The Park,488,914,194226,51
+786,786,That's How Strong My Love Is,489,392,144373,53
+787,787,Sin Fortuna,490,732,176520,57
+788,788,"We Are Santa's Elves - From ""Rudolph The Red-Nosed Reindeer"" Soundtrack",469,915,96866,51
+789,789,My Kind Of Town,491,0,188066,56
+790,790,Blues Run the Game - 2001 Remaster,492,916,211986,57
+791,791,A Well Respected Man,493,258,161586,55
+792,792,Spanish Eyes,494,917,166906,59
+793,793,Eve Of Destruction,495,918,215826,58
+794,794,Summertime,496,919,137733,56
+795,795,"Help Me, Rhonda - Remastered",476,486,168240,53
+796,796,The Way I Feel Inside,496,919,108573,51
+797,797,Have Love Will Travel,497,920,160400,58
+798,798,It's The Same Old Song,498,264,166400,55
+799,799,Silver Bells - Stereo,479,234,179266,55
+800,800,My Generation - Mono Version,499,277,198866,60
+801,801,Taxman - Remastered 2009,500,676,158853,61
+802,802,I Am a Rock,501,355,169520,60
+803,803,"Here, There And Everywhere - Remastered 2009",500,676,144880,61
+804,804,Good Lovin' - Single Version,502,921,150906,56
+805,805,Good Day Sunshine - Remastered 2009,500,676,129293,59
+806,806,I Feel Free,503,272,171506,60
+807,807,You Really Got a Hold on Me,504,922,173893,55
+808,808,Sunny,505,923,165066,64
+809,809,And Your Bird Can Sing - Remastered 2009,500,676,120493,59
+810,810,Bang Bang (My Baby Shot Me Down),506,228,162446,64
+811,811,Summer Wind,507,0,178253,56
+812,812,It Takes Two,508,445,177666,62
+813,813,96 Tears,509,924,176866,54
+814,814,Last Train to Clarksville - Original Stereo Version; 2006 Remaster,510,274,164093,51
+815,815,California Dreamin',511,270,157960,51
+816,816,You're Dead,512,925,143066,54
+817,817,Tomorrow Never Knows - Remastered 2009,500,676,179546,57
+818,818,Wouldn't It Be Nice - Remastered,513,486,145800,56
+819,819,We Need A Little Christmas,514,926,128733,51
+820,820,Eight Miles High,515,201,214640,55
+821,821,B-A-B-Y,516,927,177000,58
+822,822,The 59th Street Bridge Song (Feelin' Groovy),517,355,103560,56
+823,823,You Don't Have To Say You Love Me,518,895,170440,50
+824,824,I'll Be Home for Christmas,519,1,148480,61
+825,825,I Want You,520,456,185200,60
+826,826,Blue Christmas,519,1,134426,61
+827,827,Along Comes Mary,521,928,171000,55
+828,828,Psychotic Reaction,522,929,185523,54
+829,829,She Said She Said - Remastered 2009,500,676,156040,55
+830,830,Daydream,523,930,139093,56
+831,831,All Alone,524,931,310054,58
+832,832,All Your Love - Stereo,525,932,212600,58
+833,833,"It's A Man's, Man's, Man's World",526,933,167373,64
+834,834,You Ain't Woman Enough,527,934,135160,50
+835,835,Jingle Bells,519,1,138826,53
+836,836,Lilac Wine,528,249,253800,57
+837,837,The Sound of Silence - Electric Version,501,355,185253,55
+838,838,Mother's Little Helper,529,552,164893,55
+839,839,Fly Me to the Moon,530,212,220653,55
+840,840,"One Bourbon, One Scotch, One Beer",531,856,184960,56
+841,841,Winter Wonderland,519,1,127693,52
+842,842,Anyone Who Knows What Love Is (Will Understand),532,902,176080,53
+843,843,I Like It Like That,533,935,265080,57
+844,844,Welcome Christmas,534,19,46613,48
+845,845,Flowers on the Wall,535,792,139813,51
+846,846,There's A Kind Of Hush,536,936,153453,47
+847,847,Angel Eyes - Live At The Sands Hotel And Casino/1966,537,0,206173,53
+848,848,Jimmy Mack,538,911,163733,54
+849,849,The Bottle Let Me Down,539,937,168533,48
+850,850,Ruby Tuesday,540,552,196493,63
+851,851,Alone Again Or - 2015 Remaster,541,938,197274,61
+852,852,Today,542,939,177546,60
+853,853,Different Drum,543,940,159973,57
+854,854,She's Leaving Home - Remastered 2009,544,676,215160,62
+855,855,Make Me Yours,545,941,195293,54
+856,856,I Think We're Alone Now - Single Version,546,942,130320,55
+857,857,Knock on Wood,547,943,189840,61
+858,858,Love Me Two Times,548,369,195106,63
+859,859,Oogum Boogum Song,549,944,186567,54
+860,860,A Day In The Life,550,886,349906,60
+861,861,Never My Love - Remastered Version,551,928,187693,55
+862,862,Heroin,552,271,433573,59
+863,863,The Ecstasy Of Gold,553,214,203226,63
+864,864,The Tears Of A Clown,554,224,181800,57
+865,865,Get Together,555,945,279280,54
+866,866,I'm Waiting For The Man,552,271,279520,59
+867,867,Getting Better - Remastered 2009,544,676,168120,59
+868,868,You Keep Me Hangin' On,556,234,163280,58
+869,869,Femme Fatale,552,271,159000,58
+870,870,Red House,557,418,230360,56
+871,871,Within You Without You - Remastered 2009,544,676,304666,59
+872,872,Gimme Little Sign,549,944,141329,52
+873,873,Fixing A Hole - Remastered 2009,544,676,156826,58
+874,874,The End,558,369,703373,61
+875,875,Born Under A Bad Sign - Mono Mix,559,946,169997,59
+876,876,"Baby, You're A Rich Man - Remastered 2009",560,676,181306,58
+877,877,"He Ain't Heavy, He's My Brother",561,947,257839,50
+878,878,Suzanne,562,181,229293,66
+879,879,I Was Made To Love Her,563,530,156440,57
+880,880,Ode To Billie Joe,564,948,255001,56
+881,881,The Fool On The Hill - Remastered 2009,560,676,179106,58
+882,882,Bold as Love,565,418,251013,56
+883,883,Alice's Restaurant Massacree,566,949,1116833,52
+884,884,Don't Come Home A-Drinkin' (With Lovin' On Your Mind),567,934,126920,53
+885,885,Venus In Furs,552,271,312253,58
+886,886,Just Dropped In (To See What Condition My Condition Was In),568,950,201213,57
+887,887,007 (Shanty Town),569,951,152866,57
+888,888,To Sir with Love,570,952,166693,49
+889,889,I'll Be Your Mirror,552,271,134040,56
+890,890,Baby You Got It,571,944,128546,50
+891,891,May This Be Love,557,418,190226,53
+892,892,What the World Needs Now(Is Love),572,174,191000,59
+893,893,One Rainy Wish,565,418,221826,53
+894,894,The Crystal Ship,558,369,152000,58
+895,895,El Hijo del Pueblo,573,432,160866,56
+896,896,(I'm Not Your) Steppin' Stone - 2006 Remaster,574,274,146533,57
+897,897,I'm Glad,575,953,210400,54
+898,898,Fire,557,418,163800,52
+899,899,Your Precious Love,576,445,187266,54
+900,900,(Sittin' On) the Dock of the Bay,577,392,166826,62
+901,901,The Pusher,578,275,352906,53
+902,902,Buddy,579,470,135973,53
+903,903,I Started A Joke,580,311,188306,67
+904,904,Happiness Is A Warm Gun - Remastered 2009,581,676,164546,58
+905,905,Crossroads - Live,582,272,258466,61
+906,906,You Send Me,583,279,149626,60
+907,907,I Put A Spell On You,584,482,271786,61
+908,908,This Guy's In Love With You,585,954,239733,57
+909,909,Santa Claus Go Straight To The Ghetto,586,233,181052,55
+910,910,Astral Weeks - 1999 Remaster,587,453,426053,56
+911,911,Slip Away,588,955,153680,55
+912,912,Leaving Trunk,589,956,289560,57
+913,913,Honey,590,957,238733,61
+914,914,I Shall Be Released - Remastered,591,293,192104,53
+915,915,Viva Las Vegas,592,579,144840,60
+916,916,Street Fighting Man - 50th Anniversary Edition,593,552,195146,57
+917,917,Feelin' Alright?,594,958,257600,53
+918,918,"Girl, You'll Be A Woman Soon",595,294,180253,60
+919,919,My Girlfriend Is a Witch,596,959,126840,56
+920,920,The Weight,597,960,275640,59
+921,921,Mr. Bojangles,598,961,328146,52
+922,922,My Favourite Things,599,10,197600,55
+923,923,I'm So Tired - Remastered 2009,581,676,123493,56
+924,924,Elenore,600,962,151306,57
+925,925,Cherry Cherry,595,294,163906,54
+926,926,Suzie Q,584,482,517159,57
+927,927,Summer Wine,601,228,256279,63
+928,928,One - Single Version,602,300,185826,49
+929,929,Five to One,603,369,264960,56
+930,930,Picture Book - 2018 Stereo Remaster,604,258,159266,55
+931,931,"Corinna - From ""The Natch'l Blues""",605,956,182506,52
+932,932,Julia - Remastered 2009,581,676,176666,56
+933,933,Cowboys to Girls,606,963,159080,49
+934,934,Classical Gas,607,964,184800,57
+935,935,All I Need Is The Girl,608,0,299106,55
+936,936,Mony Mony,609,942,174133,52
+937,937,White Christmas,610,392,182706,48
+938,938,Cactus Tree,611,290,278533,53
+939,939,Martha My Dear - Remastered 2009,581,676,148573,55
+940,940,Can't Take My Eyes Off You,612,965,221373,64
+941,941,Summertime,613,966,238400,59
+942,942,Care Of Cell 44,614,919,235826,52
+943,943,Love Street,603,369,169533,57
+944,944,Birthday - Remastered 2009,581,676,163080,53
+945,945,Words,615,311,198453,61
+946,946,Some Velvet Morning,601,228,221626,56
+947,947,Nobody But Me,616,967,140440,54
+948,948,(You're The) Devil In Disguise,592,579,140680,56
+949,949,Ain't Nothing Like The Real Thing,617,445,138533,52
+950,950,Octopus's Garden - Remastered 2009,618,676,170720,62
+951,951,Cissy Strut,619,968,186853,63
+952,952,Midnight Special,620,482,253866,63
+953,953,I Want You (She's So Heavy) - Remastered 2009,618,676,467320,61
+954,954,Down by the River - 2009 Remaster,621,313,558186,60
+955,955,Albatross - 2018 Master,622,656,191106,55
+956,956,I Can See Clearly Now,623,969,195326,65
+957,957,Cotton Fields,620,482,177266,65
+958,958,Carry That Weight - Remastered 2009,618,676,96466,62
+959,959,Venus,624,970,187533,68
+960,960,Crimson & Clover - Single Version; Mono,625,942,208666,54
+961,961,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],626,971,289293,59
+962,962,What Is and What Should Never Be - 1990 Remaster,627,600,283973,57
+963,963,Lodi,628,482,193293,61
+964,964,Black Magic Woman - 2018 Master,622,656,172693,52
+965,965,21st Century Schizoid Man,629,972,442580,59
+966,966,The Thrill Is Gone,630,168,324733,62
+967,967,In the Ghetto,631,579,167413,66
+968,968,I Wanna Be Your Dog,632,973,188560,61
+969,969,After Hours,633,271,127453,59
+970,970,Maxwell's Silver Hammer - Remastered 2009,618,676,207920,58
+971,971,Because - Remastered 2009,618,676,165666,59
+972,972,You Never Give Me Your Money - Remastered 2009,618,676,242973,58
+973,973,California Soul,634,974,177226,64
+974,974,I'll Be Here in the Morning,635,975,180106,53
+975,975,Thank You - 1990 Remaster,627,600,289466,57
+976,976,She Came In Through The Bathroom Window - Remastered 2009,618,676,118626,57
+977,977,Both Sides Now,636,290,274560,59
+978,978,I Can't Get Next To You,637,310,174933,54
+979,979,California Dreamin',638,976,200973,64
+980,980,Sun King - Remastered 2009,618,676,146266,57
+981,981,Bring It on Home - Remaster,639,600,259741,54
+982,982,I Wanna Be Your Dog - 2019 Remaster,640,973,192324,59
+983,983,Love Man,641,392,139493,58
+984,984,The End - Remastered 2009,618,676,141613,57
+985,985,Who's Lovin' You,642,512,235640,61
+986,986,Amore mio aiutami - Main Theme,643,977,234026,53
+987,987,Cinnamon Girl - 2009 Remaster,621,313,180360,55
+988,988,Monkey Man,644,552,251453,55
+989,989,"Baby, I'm For Real",645,978,201866,51
+990,990,Te He Prometido,646,243,187173,65
+991,991,Tell Me a Bedtime Story,647,146,301866,55
+992,992,I Can't Quit You Baby - 1990 Remaster,648,600,282426,55
+993,993,Jumpin' Jack Flash - Mono Version,649,552,221746,59
+994,994,Polk Salad Annie,650,979,223533,58
+995,995,Brother Love's Travelling Salvation Show,651,294,211862,55
+996,996,Saturday Sun,652,980,245013,60
+997,997,Waiting Around to Die,635,975,165186,52
+998,998,Mean Mr Mustard - Remastered 2009,618,676,66533,55
+999,999,Hey Jude,653,907,247733,54
+1000,1000,Sweet Jane - Full Length Version; 2015 Remaster,654,271,246306,64
+1001,1001,Make It with You,655,981,192200,66
+1002,1002,Mama Told Me (Not To Come) - Single Version,656,300,198933,60
+1003,1003,Who'll Stop The Rain,657,482,147493,67
+1004,1004,And It Stoned Me - 2013 Remaster,658,453,272160,62
+1005,1005,In the Summertime,659,982,211880,67
+1006,1006,Tangerine - Remaster,660,600,191827,62
+1007,1007,Hold On - Remastered 2010,661,429,112040,63
+1008,1008,It's A Shame,662,256,190058,63
+1009,1009,If You Could Read My Mind,663,276,228840,63
+1010,1010,Peace Frog,664,369,170132,63
+1011,1011,Planet Caravan - 2012 - Remaster,665,309,269026,57
+1012,1012,Cracklin' Rosie - Single Version,666,294,179933,63
+1013,1013,Domino - 1999 Remaster,667,453,189426,59
+1014,1014,Strangers,668,258,198373,62
+1015,1015,Les Fleurs,669,983,199293,62
+1016,1016,Sweet Baby James - 2019 Remaster,670,421,173733,59
+1017,1017,Truckin' - 2013 Remaster,671,477,306973,58
+1018,1018,The Man in Me,672,456,186213,63
+1019,1019,If Not For You - Remastered 2014,673,296,210720,61
+1020,1020,(They Long To Be) Close To You,674,474,276000,61
+1021,1021,Funk #49,675,984,246293,60
+1022,1022,Get Back - Remastered 2009,676,676,189386,65
+1023,1023,War,677,985,200266,64
+1024,1024,Caravan - 2013 Remaster,658,453,300800,59
+1025,1025,Rock and Roll - Full Length Version; 2015 Remaster,654,271,283000,61
+1026,1026,We Can Work It Out,678,530,199506,62
+1027,1027,Since I've Been Loving You - Remaster,660,600,444148,63
+1028,1028,Almost Cut My Hair,679,307,269173,62
+1029,1029,No Matter What - Remastered 2010,680,986,180546,58
+1030,1030,Carry On,679,307,265933,58
+1031,1031,The Long And Winding Road - Remastered 2009,676,676,218186,63
+1032,1032,Amos Moses,681,987,139226,56
+1033,1033,No Sugar Tonight / New Mother Nature,682,988,293800,56
+1034,1034,The Man Who Sold the World - 2015 Remaster,683,488,241346,63
+1035,1035,Dear Angie - Remastered 2010,684,986,160906,57
+1036,1036,Didn't I (Blow Your Mind This Time),685,989,201066,57
+1037,1037,Thank You (Falettinme Be Mice Elf Agin) - Single Version,686,266,291320,53
+1038,1038,All Things Must Pass - Remastered 2014,673,296,226866,59
+1039,1039,Uncle John's Band - 2013 Remaster,687,477,284909,54
+1040,1040,Box of Rain - 2013 Remaster,671,477,318929,54
+1041,1041,One Of These Things First,688,980,290733,61
+1042,1042,Samba Pa Ti,689,301,284800,64
+1043,1043,I'd Like To Walk Around In Your Mind,690,990,135453,53
+1044,1044,"Wonderful World, Beautiful People - Single Version",691,969,195558,53
+1045,1045,Northern Sky,688,980,224013,61
+1046,1046,Country Road - 2019 Remaster,670,421,202266,55
+1047,1047,Move on Up - Extended Version,692,991,535333,64
+1048,1048,Rudolph The Red-Nosed Reindeer - Stereo LP Version,693,310,178880,54
+1049,1049,That's the Way - Remaster,660,600,337109,56
+1050,1050,Strawberry Letter 23,694,992,239906,64
+1051,1051,So Far Away,695,240,235626,61
+1052,1052,A Song for You,696,291,325946,64
+1053,1053,Honky Tonk Women - Mono Version,697,552,179386,63
+1054,1054,Mr. Big Stuff,698,993,164560,64
+1055,1055,Thank You - Remastered,699,994,170800,60
+1056,1056,Take This Job and Shove It,700,995,155945,57
+1057,1057,Sunshine On My Shoulders,701,436,311893,61
+1058,1058,Morning Has Broken,702,280,200000,69
+1059,1059,I Want You Back,703,512,178493,63
+1060,1060,Sweet Leaf - 2014 Remaster,704,309,304787,56
+1061,1061,Kiss an Angel Good Mornin',705,996,123466,59
+1062,1062,Grandma's Hands,706,465,121080,63
+1063,1063,Without You,707,204,201000,67
+1064,1064,Love the One You're With,708,248,223520,60
+1065,1065,Fearless,709,584,367933,58
+1066,1066,Inner City Blues (Make Me Wanna Holler),710,445,331960,62
+1067,1067,Mercy Mercy Me (The Ecology),711,445,196466,61
+1068,1068,The Seeker - Edit,712,277,190373,61
+1069,1069,Sweet Thang,694,992,252173,60
+1070,1070,Jealous Guy - Remastered 2010,713,429,257786,67
+1071,1071,Coconut,707,204,231733,58
+1072,1072,Walk Away,714,984,212694,57
+1073,1073,Levon,715,615,322133,55
+1074,1074,Baby Blue - Remastered 2010,716,986,217346,61
+1075,1075,This Christmas,696,291,231173,57
+1076,1076,Coat of Many Colors,717,537,183666,59
+1077,1077,I'm the Only Hell (Mama Ever Raised),700,995,186293,53
+1078,1078,(You Make Me Feel Like) A Natural Woman,695,240,229066,61
+1079,1079,Going Down,718,997,204333,60
+1080,1080,Man in Black,719,529,172986,59
+1081,1081,Moonshadow,702,280,172533,62
+1082,1082,The Revolution Will Not Be Televised,720,998,185878,59
+1083,1083,Sunshine (Go Away Today),721,999,138733,54
+1084,1084,Family Affair - Single Version,722,266,185533,59
+1085,1085,Te Solté la Rienda,723,33,158400,61
+1086,1086,Going to California - 1990 Remaster,724,600,211466,58
+1087,1087,Echoes,709,584,1412451,58
+1088,1088,Mercy Mercy Me (The Ecology),710,445,196506,58
+1089,1089,Maggot Brain,725,1000,621106,61
+1090,1090,I Am...I Said - Single Version,726,294,213200,63
+1091,1091,Roundabout - 2008 Remaster,727,1001,515529,51
+1092,1092,Going to California - Remaster,728,600,212160,55
+1093,1093,Something On Your Mind,729,1002,203333,58
+1094,1094,Dead Flowers - 2009 Mix,730,552,244533,58
+1095,1095,Your Mama Don't Dance,731,1003,167520,53
+1096,1096,Don't Pull Your Love Out,732,1004,163040,53
+1097,1097,Locomotive Breath,733,1005,266013,60
+1098,1098,Into the Void - 2014 Remaster,704,309,370312,52
+1099,1099,Cry Baby,734,241,238600,63
+1100,1100,Summer Breeze,735,1006,205480,60
+1101,1101,You Don't Mess Around with Jim,736,338,184640,60
+1102,1102,Go All The Way,737,1007,205346,63
+1103,1103,Guitar Man,738,981,226213,64
+1104,1104,Willin',739,1008,174573,59
+1105,1105,Ain't Wastin' Time No More,740,316,221890,57
+1106,1106,Hello It's Me,741,1009,264093,55
+1107,1107,All the Young Dudes,742,1010,211066,63
+1108,1108,Good Hearted Woman,743,341,181440,58
+1109,1109,Ziggy Stardust - 2012 Remaster,744,488,194440,64
+1110,1110,Perfect Day,745,189,225000,70
+1111,1111,Day Dreaming,746,279,239960,60
+1112,1112,Superfly,747,991,233600,55
+1113,1113,Alone Again (Naturally),748,1011,217728,55
+1114,1114,El Rey,749,432,157493,62
+1115,1115,Tumbling Dice,750,552,226333,60
+1116,1116,Then Came the Last Days of May,751,304,210546,61
+1117,1117,Top Of The World,752,474,179173,66
+1118,1118,Bitter with the Sweet,753,240,147466,60
+1119,1119,It Never Rains in Southern California,754,1012,233506,63
+1120,1120,After Midnight,755,1013,143693,65
+1121,1121,Evil Woman,756,344,259826,58
+1122,1122,Garden Party,757,182,229800,54
+1123,1123,Te Juro Que Te Amo,758,1014,241626,64
+1124,1124,Sugaree,759,1015,352964,54
+1125,1125,Baby I'm-a Want You,760,981,150706,60
+1126,1126,Sweet Virginia,750,552,266560,59
+1127,1127,Thirteen,761,1016,154666,53
+1128,1128,Vitamin C - 2004 Remastered Version,762,1017,214066,53
+1129,1129,Out on the Weekend - 2009 Remaster,763,313,271933,60
+1130,1130,I'd Love You to Want Me,764,1018,247640,66
+1131,1131,Witchy Woman - 2013 Remaster,765,524,250888,58
+1132,1132,Que Te Vaya Bonito,749,432,182440,60
+1133,1133,Poncho & Lefty,766,975,220573,56
+1134,1134,The Needle and the Damage Done - 2009 Remaster,763,313,123186,59
+1135,1135,Cities On Flame with Rock and Roll,751,304,242640,56
+1136,1136,Never Been to Spain,767,341,157240,52
+1137,1137,Superstition,768,530,266133,62
+1138,1138,"The Cover of ""Rolling Stone""",769,1019,172493,56
+1139,1139,Suffragette City - 2012 Remaster,744,488,208413,58
+1140,1140,Satellite of Love,745,189,221120,62
+1141,1141,The Harder They Come,770,969,219906,60
+1142,1142,Honky Cat,771,615,313026,55
+1143,1143,I'm Still in Love with You,772,261,191636,54
+1144,1144,Call Me The Breeze,755,1013,156840,61
+1145,1145,Rockin' Robin,773,575,154840,52
+1146,1146,Place To Be,774,980,161293,59
+1147,1147,The Most Beautiful Girl,775,1020,161906,58
+1148,1148,I Saw the Light,741,1009,182800,50
+1149,1149,Back Stabbers,776,265,186093,55
+1150,1150,Tequila Sunrise - 2013 Remaster,777,524,173056,63
+1151,1151,Over the Hills and Far Away - 1990 Remaster,778,600,289360,61
+1152,1152,Eclipse,779,584,130428,62
+1153,1153,Bennie And The Jets - Remastered 2014,780,615,322548,60
+1154,1154,Higher Ground,781,530,222600,64
+1155,1155,Daniel,782,615,234666,65
+1156,1156,Any Colour You Like,779,584,206429,62
+1157,1157,I'll Have To Say I Love You In A Song,783,338,154626,62
+1158,1158,Could It Be I'm Falling in Love,784,256,249733,60
+1159,1159,D'yer Mak'er - Remaster,785,600,262748,63
+1160,1160,Whiskey River,786,470,247239,59
+1161,1161,Shambala - Single Version,787,300,204106,58
+1162,1162,Hey Jude - Remastered 2009,788,676,431333,67
+1163,1163,Right Place Wrong Time,789,1021,175240,61
+1164,1164,On the Run,779,584,225384,61
+1165,1165,I Want To Hold Your Hand - Remastered 2009,790,676,146720,65
+1166,1166,Jungle Boogie,791,1022,186533,64
+1167,1167,Speak to Me,779,584,65314,61
+1168,1168,The Rain Song - Remaster,792,600,459093,61
+1169,1169,Let It Ride,793,1023,267066,58
+1170,1170,Dixie Chicken,794,1008,239106,57
+1171,1171,Candle In The Wind - Remastered 2014,795,615,228932,66
+1172,1172,Merry Xmas Everybody,796,1024,223684,78
+1173,1173,Let's Get It On,797,445,290933,69
+1174,1174,Neither One Of Us (Wants To Be The First To Say Goodbye),798,237,264266,60
+1175,1175,Stir It Up - Original Album Version,799,483,332400,64
+1176,1176,These Days,800,325,284840,58
+1177,1177,No More Mr. Nice Guy,801,1025,187893,60
+1178,1178,"Louisiana Woman, Mississippi Man",802,231,151731,58
+1179,1179,Give Me Love (Give Me Peace On Earth),803,296,215693,62
+1180,1180,You Make Me Feel Brand New,804,1026,288440,62
+1181,1181,Yesterday Once More,805,474,233533,68
+1182,1182,Don't You Worry 'Bout A Thing,781,530,284840,60
+1183,1183,Day Tripper - Remastered 2009,790,676,169613,63
+1184,1184,My Old School,806,333,344906,55
+1185,1185,The Boss,807,233,194866,64
+1186,1186,Watermelon Man,808,146,388960,59
+1187,1187,D'yer Mak'er - 1990 Remaster,778,600,261773,58
+1188,1188,Goodbye Yellow Brick Road - Remastered 2014,780,615,192826,58
+1189,1189,"Turandot / Act 3: ""Nessun dorma!""",809,45,177333,64
+1190,1190,The Ocean - 1990 Remaster,778,600,271026,56
+1191,1191,We Just Disagree,810,1027,180133,53
+1192,1192,Now That We Found Love,811,265,281200,62
+1193,1193,Jet - Remastered 2010,812,330,248360,57
+1194,1194,No Quarter - 1990 Remaster,778,600,419133,57
+1195,1195,The Swimming Song,813,1028,147466,55
+1196,1196,Sweet Revenge,814,324,161866,53
+1197,1197,Sabbath Bloody Sabbath - 2014 Remaster,815,309,346637,52
+1198,1198,Hollywood Swinging,791,1022,279933,56
+1199,1199,The South's Gonna Do It Again,816,323,237426,52
+1200,1200,¿Quieres Ser Mi Amante?,817,1029,249666,66
+1201,1201,A Pirate Looks At Forty,818,342,235360,53
+1202,1202,Jackie Blue,819,1030,250120,53
+1203,1203,Everybody’s Gotta Live,820,938,204521,61
+1204,1204,The Bitch Is Back,821,615,224933,57
+1205,1205,Águas De Março,822,1031,214366,68
+1206,1206,Step Into Christmas,821,615,272333,59
+1207,1207,Nothing From Nothing,823,1032,156200,58
+1208,1208,Late for the Sky,824,325,341690,54
+1209,1209,Cats in the Cradle,825,1033,212405,55
+1210,1210,I Will Always Love You,826,537,176093,59
+1211,1211,Ragged Old Flag,827,529,186933,53
+1212,1212,Must of Got Lost,828,1034,178240,52
+1213,1213,The Needle And The Spoon,829,462,233600,53
+1214,1214,"Jack Daniel's, If You Please",830,1035,196733,51
+1215,1215,Help Me,831,290,204320,55
+1216,1216,Seven Seas Of Rhye - Remastered 2011,832,622,168973,51
+1217,1217,Spanish Moon,833,1008,186266,53
+1218,1218,Stand By Me - Single Version,834,1036,215106,51
+1219,1219,Carefree Highway,835,276,222133,53
+1220,1220,I Need You,829,462,415600,53
+1221,1221,Autumn Leaves,836,197,422640,56
+1222,1222,Doctor Doctor - 2007 Remaster,837,1037,252453,62
+1223,1223,I'm a Ramblin' Man,838,341,167000,51
+1224,1224,Dancing Machine,839,512,161813,56
+1225,1225,Please Come to Boston,840,1038,246080,48
+1226,1226,Can We Pretend,841,465,229573,55
+1227,1227,Magic,842,1039,186333,59
+1228,1228,On the Beach - 2016 Remaster,843,313,419013,57
+1229,1229,Mister Magic,844,336,541826,55
+1230,1230,It's Only Rock'n'Roll (But I Like It) - Remastered 2009,845,552,307440,57
+1231,1231,Same Old Song and Dance,846,479,233160,54
+1232,1232,Be Thankful For What You Got,820,938,273400,53
+1233,1233,Quarto de Hotel,847,1040,162186,54
+1234,1234,Don't Ask Me No Questions,829,462,206800,50
+1235,1235,Uncle Remus,848,1041,169600,55
+1236,1236,Just Kissed My Baby,849,968,283573,55
+1237,1237,The Auctioneer,850,1042,167622,51
+1238,1238,Keep On Smilin',851,1043,237333,48
+1239,1239,Back Home Again,852,436,285373,53
+1240,1240,Sideshow,853,1044,251520,50
+1241,1241,Tell Me Something Good,854,1045,277066,52
+1242,1242,Longhaired Redneck,830,1035,202440,48
+1243,1243,Train Kept a Rollin',846,479,333226,52
+1244,1244,Skin It Back,833,1008,252133,49
+1245,1245,No Woman No Cry,855,483,226240,59
+1246,1246,Everybody Eats When They Come To My House,856,1046,167266,50
+1247,1247,Woman To Woman,857,1047,238000,49
+1248,1248,Rock Bottom - 2007 Remaster,837,1037,389333,56
+1249,1249,Lonely People,858,339,150226,53
+1250,1250,Time Warp,859,1048,199366,62
+1251,1251,Love Will Keep Us Together,860,1049,205493,62
+1252,1252,Welcome to the Machine,861,584,451680,61
+1253,1253,Give Up The Funk (Tear The Roof Off The Sucker),862,1050,348066,61
+1254,1254,Still Crazy After All These Years,863,334,206533,62
+1255,1255,Rudolph the Red Nosed Reindeer,864,436,107266,65
+1256,1256,"No Woman, No Cry - Live At The Lyceum, London/1975",865,483,427800,68
+1257,1257,Feel Like Makin' Love,866,1051,175400,64
+1258,1258,Dream Weaver,867,1052,256173,58
+1259,1259,On the Road Again - Live,868,470,153106,54
+1260,1260,Love Rollercoaster,869,1053,290160,59
+1261,1261,Never Been Any Reason,870,1054,310266,56
+1262,1262,Slow Ride,871,1055,494533,54
+1263,1263,Ten Years Gone - 1990 Remaster,872,600,391400,58
+1264,1264,Fly By Night,873,350,202200,57
+1265,1265,"For the Love of You, Pts. 1 & 2",874,248,339960,56
+1266,1266,My Eyes Adored You,875,1056,212013,61
+1267,1267,You Never Even Called Me By My Name,876,1035,314226,55
+1268,1268,Low Rider,877,1057,190826,66
+1269,1269,Green Grass & High Tides,878,1058,591693,56
+1270,1270,Monday Morning,879,656,167840,58
+1271,1271,That's the Way of the World,880,420,345506,57
+1272,1272,My One And Only Love,881,208,296666,54
+1273,1273,Saturday Night Special,882,462,309666,56
+1274,1274,The Agony And The Ecstasy,883,225,289240,53
+1275,1275,Sweet Thing,884,1059,200146,54
+1276,1276,Sweet Transvestite,859,1060,204370,58
+1277,1277,The Ride,876,1035,186866,53
+1278,1278,Fame - 2016 Remaster,885,488,261373,59
+1279,1279,Young Americans - 2016 Remaster,885,488,313706,59
+1280,1280,Stand By Me - Remastered 2010,886,429,211666,66
+1281,1281,Philadelphia Freedom,887,615,324573,58
+1282,1282,After the Thrill Is Gone - 2013 Remaster,888,524,236663,55
+1283,1283,Over My Head,879,656,214666,57
+1284,1284,Shine On You Crazy Diamond (Pts. 6-9),861,584,747325,57
+1285,1285,I Don't Want to Talk About It - 2008 Remaster,889,289,288266,69
+1286,1286,Reasons,880,420,299333,56
+1287,1287,Miracles,890,1061,412040,53
+1288,1288,Khala My Friend,891,1062,203716,57
+1289,1289,World Turning,879,656,265933,57
+1290,1290,You Are Everything,892,1026,175506,51
+1291,1291,Trampled Under Foot - 1990 Remaster,872,600,335466,56
+1292,1292,Man On The Silver Mountain,893,1063,277226,59
+1293,1293,All By Myself,894,1064,430000,64
+1294,1294,Barbara Ann,895,486,133893,58
+1295,1295,Boulder to Birmingham - 2003 Remaster,896,1065,213026,58
+1296,1296,Who Loves You,897,252,255600,55
+1297,1297,Get Down Tonight - 2004 Remaster,898,1066,317160,52
+1298,1298,Cortez the Killer - 2016 Remaster,899,313,449959,57
+1299,1299,Love Is The Drug,900,1067,251333,61
+1300,1300,I Wish,901,530,252373,64
+1301,1301,Rock & Roll Band,902,356,180346,58
+1302,1302,Afternoon Delight,903,1068,193040,61
+1303,1303,Love Ballad,904,1069,275226,56
+1304,1304,Turn The Page - Live In Detroit/1975,905,347,301186,58
+1305,1305,Jailbreak,906,1070,240600,61
+1306,1306,Sunny,907,1071,242240,69
+1307,1307,Beth,908,351,165666,61
+1308,1308,On And On,909,1072,181893,61
+1309,1309,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scène (Moderato)",910,11,166866,66
+1310,1310,One Piece at a Time,911,529,241813,58
+1311,1311,As,901,530,428222,61
+1312,1312,"Baby, I Love Your Way - Live",912,1073,281066,62
+1313,1313,Mainstreet,913,347,223089,57
+1314,1314,If Only You Knew,914,1074,286653,54
+1315,1315,Back In the Saddle,915,479,280360,58
+1316,1316,Golden Years - 2016 Remaster,916,488,243280,61
+1317,1317,Have You Ever Seen The Rain,917,482,160000,66
+1318,1318,Blinded By The Light - Single edit,918,1075,228986,55
+1319,1319,Year of the Cat,919,1076,400066,55
+1320,1320,Breezin',920,135,341733,61
+1321,1321,"Evergreen (Love Theme from, ""A Star Is Born"")",921,213,184800,65
+1322,1322,When I Need You - Remastered,922,1077,253226,55
+1323,1323,Listen to the Music,923,315,226673,59
+1324,1324,Something in the Way She Moves,924,421,189480,56
+1325,1325,Black Water - Single Version,923,315,258159,55
+1326,1326,Love Really Hurts Without You,925,1078,179013,70
+1327,1327,Chaparra De Mi Amor,926,297,189853,58
+1328,1328,Roadrunner,927,1079,246440,59
+1329,1329,Takin' It to the Streets,928,315,231600,55
+1330,1330,Fernando,929,346,252960,66
+1331,1331,Do Ya,930,344,225106,56
+1332,1332,Always and Forever - Edit,931,1080,287266,54
+1333,1333,Big Balls,932,617,158773,58
+1334,1334,Susie Q,917,482,274160,60
+1335,1335,Boogie Nights,933,1080,303533,57
+1336,1336,I Wanna Get Next To You,934,1081,238200,52
+1337,1337,Can't You See,935,341,226560,53
+1338,1338,You Are the Woman,936,1082,164440,53
+1339,1339,Fortunate Son,917,482,139160,58
+1340,1340,Kiss and Say Goodbye,937,1083,266733,59
+1341,1341,Free,938,177,356560,55
+1342,1342,Get Closer,939,1006,238146,53
+1343,1343,Shower the People - 2019 Remaster,940,421,273306,54
+1344,1344,Bad Moon Rising,917,482,139506,54
+1345,1345,You'll Never Find Another Love Like Mine,941,1084,266200,60
+1346,1346,Car Wash,934,1081,307573,54
+1347,1347,Knocks Me Off My Feet,901,530,216426,57
+1348,1348,Hitch a Ride,902,356,251733,54
+1349,1349,I Want You,942,445,274400,56
+1350,1350,Songbird - 2004 Remaster,943,656,200813,60
+1351,1351,Your Smiling Face,944,421,165400,61
+1352,1352,"Footsteps in the Dark, Pts. 1 & 2",945,248,306800,61
+1353,1353,Turn to Stone,946,344,229093,62
+1354,1354,Blue Bayou,947,285,239399,65
+1355,1355,I Don't Want to Know - 2004 Remaster,943,656,196853,59
+1356,1356,That Smell,948,462,348240,59
+1357,1357,The Things We Do For Love,949,1085,207573,64
+1358,1358,Deacon Blues,950,333,456640,57
+1359,1359,Scenes from an Italian Restaurant,951,526,456893,60
+1360,1360,Strawberry Letter 23,952,1086,299066,62
+1361,1361,Baby Hold On,953,1087,210826,58
+1362,1362,Closer To The Heart,954,350,171960,59
+1363,1363,Lay Down Sally,955,314,236093,62
+1364,1364,East Bound and Down,956,987,168466,59
+1365,1365,Silver Springs - 2004 Remaster,957,656,288786,55
+1366,1366,The Pretender,958,325,351000,58
+1367,1367,Shake My Sillies Out,959,362,65053,57
+1368,1368,Flash Light,960,1050,346666,60
+1369,1369,Lust For Life,961,1088,313925,67
+1370,1370,Stay - 2018 Remaster,962,325,204464,62
+1371,1371,Dogs,963,584,1025280,61
+1372,1372,I Just Want To Be Your Everything,964,1089,225666,59
+1373,1373,Two Out of Three Ain't Bad,965,1090,324440,61
+1374,1374,Baby Come Back,966,1091,255845,64
+1375,1375,Only the Good Die Young,967,526,235560,57
+1376,1376,Alison,968,1092,204533,59
+1377,1377,Silver Springs - 2004 Remaster,943,656,288786,61
+1378,1378,Dancing In The Moonlight (It's Caught Me In It's Spotlight),969,1070,204653,64
+1379,1379,Don't It Make My Brown Eyes Blue,970,1093,157653,61
+1380,1380,Whole Lotta Rosie,971,617,333800,66
+1381,1381,Anarchy in the U.K.,972,1094,211973,54
+1382,1382,The Load-Out - 2018 Remaster,962,325,335257,59
+1383,1383,Mannish Boy,973,1095,321133,64
+1384,1384,Sweet Talkin' Woman,946,344,229866,60
+1385,1385,El Amar y el Querer,974,332,234773,68
+1386,1386,Nobody Does It Better,975,1096,212666,63
+1387,1387,Vienna,967,526,214240,57
+1388,1388,I Go Crazy,976,1097,233893,56
+1389,1389,Let There Be Rock,971,617,366346,63
+1390,1390,"Changes In Latitudes, Changes In Attitudes",977,342,197333,53
+1391,1391,Black Cow,950,333,310226,52
+1392,1392,We Are The Champions,978,622,180666,53
+1393,1393,Take Me Home Tonight,979,1087,211466,54
+1394,1394,Sound and Vision - 2017 Remaster,980,488,184381,62
+1395,1395,Jungle Love,981,312,187600,53
+1396,1396,Y'all Come Back Saloon,982,1098,174693,52
+1397,1397,Marquee Moon,983,1099,638426,59
+1398,1398,Gold Dust Woman - 2004 Remaster,943,656,295626,55
+1399,1399,What's Your Name,948,462,213266,54
+1400,1400,Lights,984,476,190333,60
+1401,1401,Still The Same,985,347,203546,62
+1402,1402,Shakedown Street - 2013 Remaster,986,477,300209,59
+1403,1403,How Much I Feel,987,1100,283400,60
+1404,1404,One Way Or Another,988,367,217364,57
+1405,1405,Tulsa Time,989,1101,195346,60
+1406,1406,Cheeseburger In Paradise,990,342,176093,58
+1407,1407,Oh Honey,991,1102,356200,61
+1408,1408,Hollywood Nights,985,347,302626,61
+1409,1409,I'm Every Woman,992,1103,247413,67
+1410,1410,Wuthering Heights,993,1104,269066,70
+1411,1411,Jamie's Cryin' - 2015 Remaster,994,513,209586,58
+1412,1412,"Lawyers, Guns and Money - 2007 Remaster",995,1105,210480,58
+1413,1413,The Joker,996,312,217800,61
+1414,1414,Fantasy - Single Version,997,420,226213,67
+1415,1415,Pump It Up,998,1106,196680,62
+1416,1416,Got to Be Real,999,1107,307946,63
+1417,1417,Take Me to the River - 2005 Remaster,1000,363,302520,59
+1418,1418,Moving in Stereo,1001,374,286106,57
+1419,1419,Lady - 2010 Digital Remaster,1002,1108,297800,57
+1420,1420,Grease - 2007 Remaster,1003,1056,207306,64
+1421,1421,That's the Way the World Goes Round,1004,324,200240,57
+1422,1422,Da Ya Think I'm Sexy?,1005,289,331333,69
+1423,1423,Forever In Blue Jeans,1006,294,217533,64
+1424,1424,Satisfy My Soul,1007,483,271000,65
+1425,1425,Fire on the Mountain - 2013 Remaster,986,477,229009,55
+1426,1426,Le Freak - 2018 Remaster,1008,1109,331360,66
+1427,1427,Have Yourself A Merry Little Christmas,1009,474,234506,57
+1428,1428,New York Groove,1010,1110,183693,59
+1429,1429,Big Shot,1011,526,243493,57
+1430,1430,Don't Look Back,1012,356,360333,57
+1431,1431,Baltimore,1013,249,278866,66
+1432,1432,Fat Bottomed Girls,1014,622,255533,54
+1433,1433,I Wanna Be Sedated - 2002 Remaster,1015,1111,149466,62
+1434,1434,Sharing The Night Together,1016,1019,174533,61
+1435,1435,Mi Piquito De Oro,1017,297,128773,53
+1436,1436,Shake Your Groove Thing,1018,1112,346133,60
+1437,1437,Bicycle Race - Remastered 2011,1019,622,180813,54
+1438,1438,"Theme from ""The Dukes of Hazzard"" (Good Ol' Boys)",1020,341,126586,55
+1439,1439,Christmas Song (Chestnuts Roasting On An Open Fire),1009,474,219213,56
+1440,1440,Ice Cream Man - 2015 Remaster,994,513,198373,56
+1441,1441,Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version,1021,1113,163693,64
+1442,1442,Uncontrollable Urge,1022,1114,191266,55
+1443,1443,Because the Night,1023,1115,204800,67
+1444,1444,El Cantante,1024,1116,626880,64
+1445,1445,'Cause I Love You,1025,1117,429120,53
+1446,1446,Pedro Navaja,1026,287,445080,66
+1447,1447,Live And Let Die,1027,330,193840,61
+1448,1448,We've Got Tonight,985,347,281213,57
+1449,1449,So Lonely,1028,370,289586,66
+1450,1450,Cool Change - Remastered,1029,1108,313320,61
+1451,1451,I Can't Tell You Why - 2013 Remaster,1030,524,295049,63
+1452,1452,I Wanna Be Your Lover,1031,435,347666,63
+1453,1453,All My Love - 1990 Remaster,1032,600,351266,65
+1454,1454,Lonesome Loser - Remastered,1029,1108,237973,59
+1455,1455,Sara - 2015 Remaster,1033,656,275106,62
+1456,1456,Tusk - 2015 Remaster,1033,656,217573,62
+1457,1457,"Another Brick in the Wall, Pt. 1",1034,584,192145,62
+1458,1458,Off the Wall,1035,575,246000,63
+1459,1459,Heartache Tonight - 2013 Remaster,1030,524,265678,60
+1460,1460,Twelve Days Of Christmas,1036,436,263946,58
+1461,1461,Chiquitita,1037,346,327040,58
+1462,1462,Run Like Hell,1034,584,263573,60
+1463,1463,Goodbye Blue Sky,1034,584,167239,60
+1464,1464,Since You Been Gone,1038,1063,197160,66
+1465,1465,Do That To Me One More Time,1039,1049,256666,67
+1466,1466,Too Much Heaven,1040,311,296000,68
+1467,1467,"Train, Train",1041,1118,216693,56
+1468,1468,The Happiest Days of Our Lives,1034,584,110826,60
+1469,1469,Rock Lobster,1042,1119,409400,59
+1470,1470,"Hot Stuff - 12"" Version",1043,1120,407053,67
+1471,1471,Romeo's Tune,1044,1121,212471,58
+1472,1472,Longer,1045,1122,195066,62
+1473,1473,Coward Of The County,1046,303,258733,62
+1474,1474,In the Flesh?,1034,584,198221,59
+1475,1475,Baby,1047,1123,250533,57
+1476,1476,Last Train to London,1048,344,270066,69
+1477,1477,Arrow Through Me - Remastered 1993,1049,330,216693,58
+1478,1478,Sisters of the Moon - 2015 Remaster,1033,656,283013,59
+1479,1479,Girls Got Rhythm,1050,617,203293,62
+1480,1480,Same Old Lang Syne,1051,1122,315733,54
+1481,1481,Walking On The Moon,1052,370,300826,65
+1482,1482,Beautiful Girls - 2015 Remaster,1053,513,236240,55
+1483,1483,Rock 'n' Roll Fantasy - 2009 Remaster,1054,1124,197466,55
+1484,1484,Good Times - 2018 Remaster,1055,1109,486186,52
+1485,1485,"Bad Case Of Loving You (Doctor, Doctor)",1056,1125,192440,60
+1486,1486,Cruel to Be Kind,1057,1126,210131,56
+1487,1487,This Is It,1058,328,236733,55
+1488,1488,Let's Go,1059,374,213173,55
+1489,1489,Storms - 2015 Remaster,1060,656,330746,58
+1490,1490,Forever Mine,1061,265,366226,53
+1491,1491,I'll Never Love This Way Again,1062,174,211920,66
+1492,1492,If You Want Blood (You've Got It),1050,617,274226,61
+1493,1493,Leaving Louisiana In The Broad Daylight,1063,1098,179533,54
+1494,1494,Touch Too Much,1050,617,266266,63
+1495,1495,Making Plans For Nigel,1064,1127,253800,60
+1496,1496,Here Comes My Girl,1065,448,264453,54
+1497,1497,"Rainbow Connection - From ""The Muppet Movie""/Soundtrack Version",1066,1128,195813,54
+1498,1498,The Conversation,1067,406,232493,52
+1499,1499,He's the Greatest Dancer,1068,1129,375400,63
+1500,1500,Rock and Roll Ain't Noise Pollution,1069,617,266040,64
+1501,1501,If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band),1070,378,212666,58
+1502,1502,The Winner Takes It All,1071,346,294733,59
+1503,1503,Living After Midnight,1072,1130,210133,64
+1504,1504,Heaven and Hell - 2008 Remaster,1073,309,419933,57
+1505,1505,"Theme From New York, New York",1074,0,206066,65
+1506,1506,Love the One You're With,1075,1131,184653,58
+1507,1507,All I Do,1076,530,306666,56
+1508,1508,Let My Love Open The Door,1077,1132,164653,59
+1509,1509,Turn Me Loose,1078,1133,337933,58
+1510,1510,Romeo and Juliet,1079,391,361395,55
+1511,1511,Steal Away - Remastered,1080,1134,213973,55
+1512,1512,Woman - Remastered 2010,1081,429,212933,71
+1513,1513,Seven Bridges Road - Live; 1999 Remaster,1082,524,184640,57
+1514,1514,He Stopped Loving Her Today,1083,259,195760,56
+1515,1515,You'll Accomp'ny Me,1084,347,240226,57
+1516,1516,Upside Down,1085,255,245600,56
+1517,1517,A Forest - 2006 Remaster,1086,375,354933,54
+1518,1518,Freewill,1087,350,321800,56
+1519,1519,While You See A Chance,1088,1135,312773,61
+1520,1520,The Imperial March (Darth Vader's Theme),1089,592,179573,60
+1521,1521,Babooshka,1090,1104,209933,64
+1522,1522,I Believe In You,1091,1101,246440,58
+1523,1523,Lookin' for Love,1092,1136,220440,53
+1524,1524,Guilty (feat. Barry Gibb),1093,213,264333,66
+1525,1525,Love T.K.O.,1094,1137,299120,55
+1526,1526,Last Dance - Single Version,1095,1120,199800,62
+1527,1527,More Bounce to the Ounce,1096,1138,311120,54
+1528,1528,Woman in Love,1093,213,231840,70
+1529,1529,Tragos Amargos,1097,297,164026,52
+1530,1530,High Cotton,1098,378,180320,55
+1531,1531,Lay All Your Love On Me,1071,346,274466,54
+1532,1532,What Do You Do for Money Honey,1069,617,215533,63
+1533,1533,Everybody Wants Some!! - 2015 Remaster,1099,513,306049,54
+1534,1534,Have a Drink on Me,1069,617,238466,59
+1535,1535,Scary Monsters (And Super Creeps) - 2017 Remaster,1100,488,313453,56
+1536,1536,"De Do Do Do, De Da Da Da",1101,370,247293,63
+1537,1537,Lost In Love,1102,1139,233866,61
+1538,1538,The River,1103,511,301546,68
+1539,1539,Ashes to Ashes - 2017 Remaster,1100,488,266160,64
+1540,1540,The American Way,1104,406,187333,51
+1541,1541,Hot Child in the City - Extended Remix,1105,1140,215092,50
+1542,1542,This Is for the Lover in You,1106,1141,304000,51
+1543,1543,And the Cradle Will Rock... - 2015 Remaster,1099,513,213150,53
+1544,1544,The Tide Is High - Edit,1107,367,233893,52
+1545,1545,Pimper's Paradise,1108,483,207773,62
+1546,1546,Late in the Evening,1109,334,242706,59
+1547,1547,Coming In From The Cold,1108,483,271023,61
+1548,1548,Fantastic Voyage,1110,1142,370893,50
+1549,1549,Charlie Don't Surf - Remastered,1111,365,294093,56
+1550,1550,Genius of Love,1112,1143,334360,57
+1551,1551,Tight Fittin' Jeans,1113,231,171066,58
+1552,1552,Weatherman,1114,406,219733,56
+1553,1553,Unchained - 2015 Remaster,1115,513,209205,59
+1554,1554,Who's Crying Now,1116,476,300146,59
+1555,1555,We Will Rock You,1117,622,122106,56
+1556,1556,El Muchacho de los Ojos Tristes,1118,1144,207146,64
+1557,1557,Our Lips Are Sealed - Single Version,1119,1145,167960,59
+1558,1558,Too Much Time On My Hands,1120,337,271266,57
+1559,1559,Tempted,1121,1146,240333,59
+1560,1560,"Goldberg Variations, BWV 988: Aria",1122,3,184853,64
+1561,1561,Take Me To The Top,1123,404,223533,61
+1562,1562,Are the Good Times Really Over (I Wish a Buck Was Still Silver),1124,260,253293,56
+1563,1563,Lunatic Fringe,1125,1147,263066,57
+1564,1564,If You Think You're Lonely Now,1126,976,329613,56
+1565,1565,Flor De Capomo,1127,1148,168973,62
+1566,1566,Crimson and Clover,1128,359,197493,57
+1567,1567,Give Me the Night,1129,135,222626,66
+1568,1568,YYZ,1130,350,265840,58
+1569,1569,Through The Years - Single Version,1131,303,286066,65
+1570,1570,Somebody To Love,1117,622,295960,54
+1571,1571,Girls on Film - 2010 Remaster,1132,1149,212853,61
+1572,1572,Pretty in Pink,1133,1150,238106,59
+1573,1573,Fire And Desire,1134,1151,437933,54
+1574,1574,Spellbound,1135,1152,197013,60
+1575,1575,Bringin' On The Heartbreak,1136,379,273733,57
+1576,1576,Mean Street - 2015 Remaster,1115,513,300490,56
+1577,1577,"Lord, I Hope This Day Is Good - Single Version",1137,1101,249906,56
+1578,1578,Space Age Love Song,1138,1153,226693,53
+1579,1579,I Will Survive - 1981 Re-recording,1139,1154,261173,65
+1580,1580,Rise Above,1140,1155,146560,57
+1581,1581,Urgent,1141,366,271200,60
+1582,1582,Big City,1124,260,179333,55
+1583,1583,Bloodstains - Original Version,1142,1156,113240,56
+1584,1584,I Wouldn't Have Missed It For The World,1143,1157,217826,54
+1585,1585,All My Rowdy Friends (Have Settled Down),1114,406,240373,53
+1586,1586,Stranglehold,1144,1158,501690,56
+1587,1587,Flying High Again,1145,478,284106,54
+1588,1588,Caray,1146,335,229040,63
+1589,1589,Waiting On A Friend - Remastered 2009,1147,552,274226,59
+1590,1590,Así No Te Amará Jamás,1148,1159,172016,66
+1591,1591,The Waiting,1149,448,238493,52
+1592,1592,Gary's Theme - Remastered,1150,164,257693,59
+1593,1593,Él Me Mintió,1148,1159,219585,65
+1594,1594,Freeze-Frame,1151,1034,237506,54
+1595,1595,Who Can It Be Now?,1152,1160,203266,58
+1596,1596,Over the Mountain,1145,478,271520,54
+1597,1597,(There's) No Gettin' Over Me,1143,1157,199680,52
+1598,1598,La Ladrona,1153,1161,184266,63
+1599,1599,Physical,1154,273,224773,51
+1600,1600,Wheels On The Bus,1155,362,100040,58
+1601,1601,Human Nature,1156,575,245560,65
+1602,1602,Don't Change,1157,1162,266026,56
+1603,1603,Eye In The Sky,1158,1163,276280,70
+1604,1604,Abracadabra,1159,312,308373,63
+1605,1605,"Nocturne No.2 In E Flat, Op.9 No.2",1160,8,273666,66
+1606,1606,Here We Come a-Caroling / We Wish You a Merry Christmas,1161,2,94733,57
+1607,1607,P.Y.T. (Pretty Young Thing),1162,575,239026,60
+1608,1608,Sirius - Chicago Bulls Theme Song,1158,1163,115280,63
+1609,1609,Wanna Be Startin' Somethin',1156,575,362373,64
+1610,1610,Forget Me Nots,1163,1164,275813,63
+1611,1611,I'd Just Love To Lay You Down,1164,231,204133,56
+1612,1612,Rio - 2009 Remaster,1165,1149,337333,61
+1613,1613,Night Nurse,1166,1165,249533,64
+1614,1614,Hallowed Be Thy Name - 2015 Remaster,1167,390,431093,54
+1615,1615,More Than This - Remastered,1168,1067,270651,67
+1616,1616,¿Y cómo es él?,1169,1166,248000,71
+1617,1617,Thanksgiving,1170,1167,245408,55
+1618,1618,"I Melt with You (7"" Mix)",1171,1168,230066,53
+1619,1619,All My Rowdy Friends (Have Settled Down),1172,406,240373,54
+1620,1620,Thriller,1162,575,357800,60
+1621,1621,Shadows Of The Night,1173,1169,261560,56
+1622,1622,(Oh) Pretty Woman - 2015 Remaster,1174,513,172670,57
+1623,1623,You Can Do Magic,1175,339,237466,61
+1624,1624,Bang the Drum All Day,1176,1009,215400,53
+1625,1625,Do You Really Want To Hurt Me,1177,1170,262173,65
+1626,1626,Only You,1178,1171,195506,53
+1627,1627,Joy,1170,1167,193477,54
+1628,1628,Atomic Dog,1179,1172,287106,54
+1629,1629,I Don't Care Anymore - 2016 Remaster,1180,408,305706,58
+1630,1630,Little Red Corvette,1181,435,296906,56
+1631,1631,Subdivisions,1182,350,334000,55
+1632,1632,The Lady in My Life,1162,575,300106,58
+1633,1633,Carol of the Bells,1170,1167,238061,53
+1634,1634,Suburban Home,1183,1173,100600,56
+1635,1635,Puttin' on the Ritz,1184,1174,281160,57
+1636,1636,Even the Nights Are Better,1185,1139,237106,64
+1637,1637,Pressure,1186,526,280333,58
+1638,1638,The Girl Is Mine (with Paul McCartney),1156,575,222040,61
+1639,1639,Hope,1183,1173,120360,56
+1640,1640,Town Called Malice,1187,1175,173320,69
+1641,1641,Last Summer Whisper,1188,1176,299680,58
+1642,1642,Straight to Hell - Remastered,1189,365,330506,58
+1643,1643,Goody Two Shoes,1190,1177,209213,55
+1644,1644,Roll Me Away,1191,347,279573,54
+1645,1645,Steppin' Out,1192,1178,268200,52
+1646,1646,Billie Jean,1162,575,294226,60
+1647,1647,Electric Eye,1193,1130,222440,59
+1648,1648,Fantasy,1194,1179,303293,53
+1649,1649,Variations on the Kanon,1170,1167,321724,52
+1650,1650,Mr. Roboto,1195,337,328706,61
+1651,1651,Hello,1196,1180,251106,58
+1652,1652,Institutionalized,1197,1181,229960,59
+1653,1653,Lick It Up,1198,351,236640,63
+1654,1654,One Thing Leads To Another,1199,1182,199826,58
+1655,1655,Mad World,1200,401,215400,65
+1656,1656,Shakin',1201,1087,187800,56
+1657,1657,Authority Song,1202,361,229240,58
+1658,1658,Here Comes the Rain Again - Remastered Version,1203,1183,294586,64
+1659,1659,De Música Ligera,1204,1184,212893,55
+1660,1660,The Safety Dance - Extended Dance Version,1205,1185,278226,54
+1661,1661,Talking In Your Sleep,1206,1186,235093,62
+1662,1662,Legs - 2008 Remaster,1207,318,273906,61
+1663,1663,Always Something There to Remind Me - 2018 Remaster,1208,1187,219373,58
+1664,1664,We've Got Tonight,1209,303,234560,66
+1665,1665,Foolin',1210,379,274117,57
+1666,1666,Balls to the Wall,1211,1188,342600,61
+1667,1667,Texas Flood,1212,305,320906,59
+1668,1668,Hark! The Herald Angels Sing,1213,380,175386,56
+1669,1669,Estrelar,1214,1189,313493,61
+1670,1670,Jump (Original Mix),1215,1190,262560,65
+1671,1671,Sunday Bloody Sunday - Remastered 2008,1216,431,279440,63
+1672,1672,She's A Beauty - Remastered 1991,1217,1191,240666,54
+1673,1673,The Four Horsemen (Remastered),1218,597,432546,53
+1674,1674,In A Big Country,1219,1192,284066,53
+1675,1675,Tonight I Celebrate My Love,1220,1193,211000,65
+1676,1676,Sunglasses At Night,1221,1194,320000,55
+1677,1677,Seek & Destroy (Remastered),1222,597,414720,53
+1678,1678,Holiday,1223,377,231560,59
+1679,1679,Think I'm In Love,1201,1087,188533,53
+1680,1680,This Is the Day,1224,1195,296333,53
+1681,1681,Kiss Off,1225,1196,176720,55
+1682,1682,Let's Dance - 2002 Remaster,1226,488,247600,65
+1683,1683,King Of Pain,1227,370,299040,59
+1684,1684,Mary Had a Little Lamb,1212,305,166960,58
+1685,1685,Time After Time,1228,283,241160,61
+1686,1686,Total Eclipse of the Heart,1229,219,418000,65
+1687,1687,Big Log - 2006 Remaster,1230,1197,304800,60
+1688,1688,Too Shy,1231,1198,221520,60
+1689,1689,Ain't Nobody,1232,1059,285573,63
+1690,1690,La Gata Bajo la Lluvia,1233,1199,219106,68
+1691,1691,Too Young To Fall In Love,1234,404,212653,57
+1692,1692,On The Dark Side,1235,1200,161826,51
+1693,1693,Lenny,1212,305,297373,56
+1694,1694,Add It Up,1225,1196,284333,56
+1695,1695,Breaking the Chains,1236,1201,231693,56
+1696,1696,Persiana Americana,1204,1184,290786,51
+1697,1697,Straight From The Heart,1237,384,211933,53
+1698,1698,Holding Her and Loving You,1238,1202,190653,52
+1699,1699,Overkill,1239,1160,229466,60
+1700,1700,Yo Te Necesito,1240,376,178240,63
+1701,1701,La Banda Del Carro Rojo,1241,407,186720,64
+1702,1702,I Would Die 4 U,1242,435,178986,61
+1703,1703,Hold Me Now,1243,161,286666,57
+1704,1704,"Please, Please, Please, Let Me Get What I Want - 2011 Remaster",1244,400,112706,66
+1705,1705,Heaven's On Fire,1245,351,201400,66
+1706,1706,You Might Think,1246,374,184717,60
+1707,1707,Turn up the Radio,1247,1203,278506,59
+1708,1708,Smalltown Boy,1248,1204,302413,73
+1709,1709,Amor Eterno,1249,1199,409466,65
+1710,1710,Little Wing,1250,305,408480,62
+1711,1711,I Feel for You,1251,1103,343400,61
+1712,1712,Hallelujah,1252,181,277160,68
+1713,1713,Your Love Is King,1253,402,219426,65
+1714,1714,Creeping Death (Remastered),1254,597,395706,55
+1715,1715,2 Minutes to Midnight - 2015 Remaster,1255,390,363586,54
+1716,1716,Dance Hall Days,1256,1205,240800,62
+1717,1717,Déjame Vivir (with Juan Gabriel),1249,1199,222760,65
+1718,1718,"Rasputin - 7"" Version",1257,1071,220733,64
+1719,1719,The Fireman,1258,569,154360,55
+1720,1720,Run To You,1259,384,233270,65
+1721,1721,Self Control,1260,1206,246440,72
+1722,1722,The Killing Moon,1261,1207,348293,53
+1723,1723,I'll Wait - 2015 Remaster,1262,513,280146,56
+1724,1724,Jungle Love,1263,1208,333360,55
+1725,1725,The Warrior (feat. Patty Smyth),1264,1209,240826,57
+1726,1726,Pedro Y Pablo,1265,407,193106,62
+1727,1727,Why Not Me,1266,1210,211266,56
+1728,1728,Contrabando Y Traición,1267,407,206293,59
+1729,1729,Ride The Lightning (Remastered),1254,597,396986,54
+1730,1730,Seven Spanish Angels (with Ray Charles),1268,470,231026,58
+1731,1731,Foolish Heart,1269,1211,219720,62
+1732,1732,You Might Think,1270,374,185026,57
+1733,1733,Drop Dead Legs - 2015 Remaster,1262,513,254200,56
+1734,1734,All She Wants To Do Is Dance,1271,1212,269106,55
+1735,1735,Hard Habit to Break - 2006 Remaster,1272,302,283733,59
+1736,1736,What's Love Got to Do with It - 2015 Remaster,1273,262,230240,65
+1737,1737,Cool It Now,1274,1213,347666,52
+1738,1738,Pride (In The Name Of Love) - Remastered 2009,1275,431,228426,59
+1739,1739,High on You,1276,1214,248200,54
+1740,1740,Medley: Winter Wonderland / Sleigh Ride,1277,537,221373,59
+1741,1741,The Search Is Over,1276,1214,252613,56
+1742,1742,Through the Fire,1251,1103,286693,60
+1743,1743,I Want To Break Free - Remastered 2011,1278,622,198773,53
+1744,1744,Fight Fire With Fire (Remastered),1254,597,284506,53
+1745,1745,Mama He's Crazy,1266,1210,194760,53
+1746,1746,Mr. Telephone Man,1274,1213,239160,52
+1747,1747,Radio Ga Ga,1279,622,348173,53
+1748,1748,Heaven Knows I'm Miserable Now - 2011 Remaster,1244,400,215760,60
+1749,1749,Alone Again,1280,1201,262200,58
+1750,1750,In Between Days - 2006 Remaster,1281,375,177986,55
+1751,1751,Voices Carry,1282,1215,263573,57
+1752,1752,Conga!,1283,1216,254000,63
+1753,1753,The One I Loved Back Then (The Corvette Song),1284,259,150520,55
+1754,1754,Smokin' In The Boys Room,1285,404,208400,59
+1755,1755,White Wedding (Parts 1 And 2) - Shotgun Mix / 24-Bit Digitally Remastered 2001,1286,387,505093,55
+1756,1756,Conga,1287,1217,255760,60
+1757,1757,Apples And Bananas,1288,362,98040,55
+1758,1758,We Are The World,1289,1218,427333,70
+1759,1759,The Chair,1290,569,170906,54
+1760,1760,I Wonder If I Take You Home,1291,1219,404213,53
+1761,1761,Tu Con El,1292,1220,303173,53
+1762,1762,Don't Come Around Here No More,1293,448,307333,56
+1763,1763,Weird Science,1294,1221,368760,55
+1764,1764,Brothers in Arms,1295,391,419400,53
+1765,1765,Part-Time Lover,1296,530,252560,68
+1766,1766,Nothing's Gonna Change My Love for You,1297,135,242678,70
+1767,1767,Things Can Only Get Better,1298,1222,235826,57
+1768,1768,Laurita Garza,1299,389,192440,53
+1769,1769,Tarzan Boy,1300,1223,378946,69
+1770,1770,Oh Sheila,1301,1224,240093,53
+1771,1771,Meet Me In Montana,1302,1225,236626,55
+1772,1772,Alive And Kicking,1303,1226,289453,66
+1773,1773,"No Easy Way Out - From ""Rocky IV"" Soundtrack",1304,1227,262026,64
+1774,1774,Madhouse,1305,1228,259760,61
+1775,1775,Bop,1302,1225,226266,55
+1776,1776,The Whole of the Moon - 2004 Remaster,1306,1229,302826,68
+1777,1777,All the Love in the World,1307,1230,212240,66
+1778,1778,So Far Away,1295,391,312133,51
+1779,1779,Lovin' Every Minute of It,1308,1133,213293,53
+1780,1780,You're in Love,1309,1231,194106,56
+1781,1781,Drinkin' My Baby Goodbye,1310,323,221706,53
+1782,1782,I Drink Alone,1311,1232,275493,55
+1783,1783,You Are My Lady,1312,1233,284119,55
+1784,1784,Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001,1286,387,301800,53
+1785,1785,"Hearts On Fire - From ""Rocky IV"" Soundtrack",1304,1234,252920,63
+1786,1786,Three Times A Lady,1313,354,217426,52
+1787,1787,Nightshift,1314,354,306560,62
+1788,1788,Take Me Home - 2016 Remaster,1315,408,353573,58
+1789,1789,And We Danced,1316,1235,227184,55
+1790,1790,Eighties - 2007 Digital Remaster,1317,1236,239280,55
+1791,1791,I'll Be Good,1318,1237,321066,53
+1792,1792,Nikita,1319,615,343240,68
+1793,1793,Tender Love,1320,1238,234053,53
+1794,1794,Cloudbusting - 2018 Remaster,1321,1104,309973,52
+1795,1795,Margaritaville,1322,342,249200,52
+1796,1796,Is It a Crime,1323,402,381133,57
+1797,1797,Against the Wind,1324,1239,228160,55
+1798,1798,Head Over Heels / Broken,1325,401,302120,57
+1799,1799,Wild Child,1326,1240,312400,60
+1800,1800,Candy,1327,1241,339933,59
+1801,1801,Shot in the Dark,1328,478,256293,62
+1802,1802,Nobody's Fool,1329,1242,287400,61
+1803,1803,Back In The High Life Again,1330,1135,335840,59
+1804,1804,Bigmouth Strikes Again - 2011 Remaster,1331,400,193320,67
+1805,1805,"Say You, Say Me",1332,1180,241066,71
+1806,1806,Stuck With You,1333,1243,269573,65
+1807,1807,I'll Be Over You,1334,373,229880,70
+1808,1808,Diggin' Up Bones,1335,357,178973,57
+1809,1809,Talk Dirty To Me,1336,1244,223733,57
+1810,1810,Welcome Home (Sanitarium) (Remastered),1337,597,387146,56
+1811,1811,In Your Eyes - 2012 Remaster,1338,1245,330373,55
+1812,1812,The Great Pretender,1339,195,157360,64
+1813,1813,Girls,1340,412,132706,58
+1814,1814,Dancing On The Ceiling,1332,1180,270720,69
+1815,1815,Only You (And You Alone),1339,195,156560,65
+1816,1816,Love Walks In,1341,513,310933,59
+1817,1817,Land of Confusion - 2007 Remaster,1342,284,286840,56
+1818,1818,Who Made Who,1343,617,207146,64
+1819,1819,La Muralla Verde,1344,1246,161800,71
+1820,1820,Modern Day Cowboy,1345,1247,318226,58
+1821,1821,Angel Of Death,1346,1248,291440,56
+1822,1822,Werewolves of London,1347,1105,208173,57
+1823,1823,Where Eagles Dare,1348,1249,128426,59
+1824,1824,Walk Like an Egyptian,1349,1250,203226,54
+1825,1825,On the Other Hand,1335,357,186346,56
+1826,1826,Honky Tonk Man,1350,1251,167426,56
+1827,1827,I Know It's Over - 2011 Remaster,1331,400,349186,62
+1828,1828,Don't Get Me Wrong - 2007 Remaster,1351,1252,227626,64
+1829,1829,Reflections,1352,1253,130693,62
+1830,1830,La Isla Bonita,1353,377,242320,70
+1831,1831,On My Own,1354,1074,290840,60
+1832,1832,Everybody Have Fun Tonight,1355,1205,287360,56
+1833,1833,Wasted Years - 2015 Remaster,1356,390,309640,53
+1834,1834,Peace Sells - Remastered,1357,1254,244160,59
+1835,1835,Carrie,1358,1255,272133,71
+1836,1836,Shake Me,1329,1242,222466,56
+1837,1837,Never Say Goodbye,1359,458,288933,65
+1838,1838,Mandolin Rain,1360,1256,318946,55
+1839,1839,Venus,1361,1257,229164,66
+1840,1840,Father Christmas,1362,258,222146,56
+1841,1841,Orion (Remastered),1337,597,507226,53
+1842,1842,Nasty,1363,399,243133,52
+1843,1843,"Pachelbel: Canon and Gigue in D Major, P. 37: I. Canon",1364,1258,301586,53
+1844,1844,Se Me Olvidó Otra Vez,1365,335,178440,62
+1845,1845,Your Wildest Dreams,1366,223,291000,55
+1846,1846,Papa Don't Preach,1353,377,345280,65
+1847,1847,Two of Hearts,1367,1259,237533,55
+1848,1848,Summer Nights,1341,513,305040,54
+1849,1849,Best of Both Worlds,1341,513,288826,54
+1850,1850,Ocean Front Property,1368,569,188533,56
+1851,1851,No Nos Vamos a Olvidar,1369,1260,215746,62
+1852,1852,He Stopped Loving Her Today,1370,259,195333,57
+1853,1853,Where The Streets Have No Name - Remastered,1371,431,337505,66
+1854,1854,Have A Little Faith In Me,1372,1261,245000,55
+1855,1855,Pour Some Sugar On Me,1373,379,267306,60
+1856,1856,Asleep - 2011 Remaster,1374,400,253560,64
+1857,1857,Make It Last Forever (with Jacci McGhee),1375,1262,296400,56
+1858,1858,Angel,1376,479,308906,63
+1859,1859,Mr. Brownstone,1377,475,228586,56
+1860,1860,Heaven Knows I'm Miserable Now - 2011 Remaster,1374,400,215760,62
+1861,1861,Lips Like Sugar,1378,1207,291866,54
+1862,1862,New Sensation,1379,1162,219813,55
+1863,1863,Where Do Broken Hearts Go,1380,484,277600,66
+1864,1864,Rag Doll,1376,479,265693,60
+1865,1865,Merry Christmas Baby,1381,511,291893,57
+1866,1866,Nightrain,1377,475,268213,56
+1867,1867,Wildflowers - 2015 Remaster,1382,537,216573,58
+1868,1868,"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack",1383,1263,290333,66
+1869,1869,Sweetest Thing,1371,431,184543,65
+1870,1870,Always,1384,1264,288493,62
+1871,1871,"Non, je ne regrette rien",1385,125,142280,66
+1872,1872,Learning to Fly,1386,584,292080,59
+1873,1873,Seven Wonders - Early Version; 2017 Remaster,1387,656,274253,60
+1874,1874,I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster,1388,575,251760,67
+1875,1875,The One I Love - Remastered,1389,398,197800,64
+1876,1876,And the Beat Goes On,1390,1265,454253,53
+1877,1877,Don't Disturb This Groove,1391,1266,317874,53
+1878,1878,Beds Are Burning - Remastered,1392,1267,255680,68
+1879,1879,Big Love - 2017 Remaster,1387,656,223733,62
+1880,1880,I Told You So,1393,357,219506,53
+1881,1881,Together Forever - Lover's Leap Remix,1394,1268,204973,53
+1882,1882,So Emotional,1380,484,276666,60
+1883,1883,Englishman In New York,1395,210,267266,72
+1884,1884,Pancho and Lefty,1396,470,286066,53
+1885,1885,Police Truck,1397,1269,144973,57
+1886,1886,The Cowboy Rides Away,1398,569,202306,52
+1887,1887,Clave 7,1399,389,219826,57
+1888,1888,Santa Baby,1381,377,154906,57
+1889,1889,Man in the Mirror - 2012 Remaster,1400,575,318680,60
+1890,1890,And I Love You So,1401,2,197626,60
+1891,1891,All My Ex's Live In Texas,1368,569,200840,55
+1892,1892,Panic - 2011 Remaster,1374,400,140506,62
+1893,1893,Cuando Calienta El Sol,1402,395,236413,63
+1894,1894,Las Mil Y Una Noches,1403,1270,280040,69
+1895,1895,Mujeres Divinas,1404,432,193333,67
+1896,1896,"She's Like the Wind (feat. Wendy Fraser) - From ""Dirty Dancing"" Soundtrack",1383,1271,232906,63
+1897,1897,Get Up Offa That Thing,1405,233,250386,59
+1898,1898,California Uber Alles,1397,1269,207040,58
+1899,1899,Winter Wonderland,1381,1183,214386,56
+1900,1900,Every Little Step,1406,1272,237240,56
+1901,1901,Children's Story,1407,1273,242040,59
+1902,1902,The Living Years,1408,1274,330266,58
+1903,1903,I'll Be There For You,1409,458,346586,68
+1904,1904,The Look,1410,1275,237320,55
+1905,1905,Watermark,1411,415,145640,56
+1906,1906,Close My Eyes Forever,1412,1276,283133,61
+1907,1907,Seventeen,1413,1277,245266,59
+1908,1908,Express Yourself,1414,1278,265101,59
+1909,1909,It Takes Two,1415,1279,300640,58
+1910,1910,The Flame,1416,1280,338800,66
+1911,1911,Culpable O No - Miénteme Como Siempre,1417,395,237240,74
+1912,1912,Gypsy Road,1418,1242,235733,59
+1913,1913,Un Puño De Tierra,1419,1281,188395,64
+1914,1914,Blackened (Remastered),1420,597,402143,55
+1915,1915,Everywhere,1421,656,222733,63
+1916,1916,Rose Colored Glasses,1422,1282,200493,55
+1917,1917,Harvester of Sorrow (Remastered),1420,597,345283,55
+1918,1918,If I Had A Boat,1423,1283,190226,56
+1919,1919,Talkin' Bout a Revolution,1424,1284,161600,68
+1920,1920,Sleigh Ride,1425,107,161626,56
+1921,1921,Piece Of My Love,1426,1285,315640,54
+1922,1922,Roni,1406,1272,358333,54
+1923,1923,South Of Heaven,1427,1248,298533,55
+1924,1924,"Cello Concerto in E Minor, Op.85 (1988 Digital Remaster): I. Adagio - Moderato",1428,100,478573,61
+1925,1925,...And Justice for All (Remastered),1420,597,585506,54
+1926,1926,This Magic Moment,1429,27,151560,54
+1927,1927,Little Lies,1421,656,218040,62
+1928,1928,Fallen Angel - Remastered,1430,1244,238200,58
+1929,1929,Vasos Vacíos - Remasterizado 2008,1431,1286,279986,73
+1930,1930,Nite and Day,1432,1287,238013,53
+1931,1931,Stand - Remastered,1433,398,192960,59
+1932,1932,Eazy-Duz-It,1434,1288,259493,57
+1933,1933,When It's Love,1435,513,337906,53
+1934,1934,Sara,1421,656,382373,60
+1935,1935,Go Your Own Way,1421,656,218400,59
+1936,1936,Rock Wit'cha,1406,1272,289533,52
+1937,1937,Streets of Bakersfield,1436,1251,168213,54
+1938,1938,Viento,1437,1289,236333,67
+1939,1939,Kiss Me Deadly,1412,1276,241800,55
+1940,1940,I'm No Stranger to the Rain,1438,1290,216266,52
+1941,1941,Forever Young,1439,289,248000,58
+1942,1942,Sweet Jane,1440,1291,214973,56
+1943,1943,Good Thing,1441,1292,201866,63
+1944,1944,All I Want Is You,1442,431,389933,64
+1945,1945,Love Is Stronger Than Pride,1443,402,258026,58
+1946,1946,Una Aventura,1444,1293,316093,66
+1947,1947,Second Chance,1445,1294,304693,56
+1948,1948,La Negra Tomasa - Bilongo - Versión Tropical,1437,1289,472400,63
+1949,1949,Suedehead - 2011 Remaster,1446,1295,235520,51
+1950,1950,Love Song,1447,1247,323360,55
+1951,1951,All I Do Is Think of You,1448,1296,229053,56
+1952,1952,A Qué Le Tiramos,1449,1260,186786,63
+1953,1953,Wild Thing,1450,1297,263573,59
+1954,1954,Cutie Pie,1451,1298,328893,54
+1955,1955,Love Buzz,1452,570,215203,63
+1956,1956,Something in My Heart,1453,1299,353000,55
+1957,1957,Lullaby - 2010 Remaster,1454,375,249880,54
+1958,1958,Crimson & Clover,1455,942,209800,56
+1959,1959,Ready Or Not,1456,1300,275826,55
+1960,1960,(What This World Needs Is) A Few More Rednecks,1457,323,222066,54
+1961,1961,Back To Life,1458,1301,228266,63
+1962,1962,Don't Know Much (with Aaron Neville),1459,285,211973,64
+1963,1963,Something About You - Single Version,1460,1302,223440,61
+1964,1964,When I Call Your Name,1461,1303,255133,56
+1965,1965,"That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",1462,174,256466,56
+1966,1966,Corcovado (Quiet Nights Of Quiet Stars),1463,179,254666,65
+1967,1967,After All (Love Theme From Chances Are),1464,263,244360,64
+1968,1968,I Want It All - Remastered 2011,1465,622,242093,54
+1969,1969,Don't Go Away Mad (Just Go Away),1466,404,280453,57
+1970,1970,Dumas Walker,1467,1304,171840,54
+1971,1971,Lost in Your Eyes,1468,1305,213000,66
+1972,1972,Here and Now,1469,281,323000,56
+1973,1973,New York Minute,1470,1212,395400,54
+1974,1974,Sound System - 2007 Remaster,1471,1306,134026,56
+1975,1975,Escapade,1472,399,283933,53
+1976,1976,I Wanna Be Adored - Remastered,1473,1307,292800,65
+1977,1977,Funky Cold Medina,1450,1297,248160,56
+1978,1978,Chattahoochee - Extended Mix,1474,501,237266,58
+1979,1979,"Kinderszenen, Op. 15: No. 7 in F Major, Träumerei",1475,43,186840,60
+1980,1980,The Best,1476,262,329800,66
+1981,1981,Miss You Like Crazy,1477,235,234280,65
+1982,1982,The Race Is On,1478,1308,176440,54
+1983,1983,Going Up The Country,1479,1309,172866,59
+1984,1984,Roam,1480,1119,295133,57
+1985,1985,Yer So Bad,1481,464,185666,54
+1986,1986,Winter Wonderland,1482,148,172960,57
+1987,1987,House of Pain,1483,1310,346626,54
+1988,1988,Pet Sematary,1484,1111,210333,52
+1989,1989,Do You Remember? - 2016 Remaster,1485,408,275986,66
+1990,1990,Sympathy For The Devil,1486,552,376800,59
+1991,1991,Love Will Lead You Back,1487,1311,277600,61
+1992,1992,Rhythm Nation,1472,399,330933,51
+1993,1993,Poison,1488,1025,269600,61
+1994,1994,You,1489,1312,126520,60
+1995,1995,Shake Your Rump,1490,412,198253,54
+1996,1996,Deseándote,1491,1220,281186,61
+1997,1997,Like a Prayer,1492,377,340866,64
+1998,1998,Without You,1466,404,270186,56
+1999,1999,Sowing The Seeds Of Love,1493,401,376733,64
+2000,2000,High Enough,1494,1313,287320,60
+2001,2001,Domination,1495,1314,305293,63
+2002,2002,Feels Good,1496,1315,298373,56
+2003,2003,Silent Lucidity - Remastered 2003,1497,1316,347760,63
+2004,2004,La Célula Que Explota,1498,1289,215866,69
+2005,2005,"Love Without End, Amen",1499,569,187000,56
+2006,2006,Ice Ice Baby,1500,1317,271466,62
+2007,2007,Policy of Truth - 2006 Remaster,1501,381,294040,58
+2008,2008,"Blaze Of Glory - From ""Young Guns II"" Soundtrack",1502,1318,335240,65
+2009,2009,"My, My, My",1503,1319,321906,55
+2010,2010,Fight The Power,1504,1320,282640,59
+2011,2011,American Remains,1505,1239,247000,59
+2012,2012,Around The Way Girl,1506,1321,248493,55
+2013,2013,"Oiga, Mire, Vea",1507,1322,325642,65
+2014,2014,Sugar Rum Cherry (Dance of the Sugar-Plum Fairy),1508,188,185186,59
+2015,2015,Love of a Lifetime,1509,1323,286573,62
+2016,2016,Tornado Of Souls - Remastered 2004,1510,1254,319266,64
+2017,2017,But Anyway,1511,1324,249866,55
+2018,2018,El Triste,1512,332,251666,63
+2019,2019,I Like The Way,1513,1325,350266,55
+2020,2020,Hangar 18 - Remastered 2004,1510,1254,311200,62
+2021,2021,Amores Como el Nuestro,1514,1326,301573,68
+2022,2022,Have Yourself a Merry Little Christmas - Voice,1515,1327,184893,64
+2023,2023,Cliffs Of Dover - Instrumental,1516,1328,249767,61
+2024,2024,Birdhouse in Your Soul,1517,1329,198920,59
+2025,2025,Twice As Hard,1518,1330,249533,56
+2026,2026,O Holy Night,1515,117,167760,64
+2027,2027,Cherry-coloured Funk,1519,1331,192466,60
+2028,2028,Bachata Rosa,1520,1332,257079,67
+2029,2029,Tan enamorados,1521,1333,289866,70
+2030,2030,Ball and Chain,1522,1334,343066,55
+2031,2031,I'll Never Smile Again,1523,131,189466,57
+2032,2032,Don't Close Your Eyes,1524,1290,251560,54
+2033,2033,Step by Step,1525,1335,267293,62
+2034,2034,Jet City Woman - Remastered 2003,1497,1316,321573,56
+2035,2035,Baby I'm Ready,1526,1336,322200,53
+2036,2036,I Melt With You - Rerecorded,1527,1168,235933,56
+2037,2037,We Die Young,1528,427,152560,59
+2038,2038,Hold On,1529,1337,304466,56
+2039,2039,It Takes Two,1530,1279,301893,56
+2040,2040,Don't Treat Me Bad,1509,1323,235360,56
+2041,2041,Sensitivity,1531,1338,281333,52
+2042,2042,Ice Dance,1532,1339,104973,59
+2043,2043,Something To Believe In - Remastered,1533,1244,328360,56
+2044,2044,Send Me An Angel,1534,329,273333,70
+2045,2045,The Ghetto,1535,424,302133,56
+2046,2046,Personal Jesus - 2006 Remaster,1501,381,294773,54
+2047,2047,Groove Is in the Heart,1536,1340,231786,62
+2048,2048,Are You Ready,1537,617,250333,63
+2049,2049,You've Lost That Lovin' Feelin',1538,1341,225426,57
+2050,2050,Live And Let Die,1539,475,182733,69
+2051,2051,"Be Our Guest - From ""Beauty and the Beast""/Soundtrack",1540,184,224733,62
+2052,2052,Check the Rhime,1541,1342,216693,64
+2053,2053,Under Pressure - Remastered 2011,1542,622,236520,60
+2054,2054,"Beauty and the Beast - From ""Beauty and the Beast"" / Soundtrack Version",1540,184,166306,63
+2055,2055,I Love a Rainy Night,1543,1343,191066,62
+2056,2056,"Belle - From ""Beauty and the Beast""/Soundtrack Version",1540,1344,309133,62
+2057,2057,"Something There - From ""Beauty and the Beast""/Soundtrack Version",1540,1345,138986,62
+2058,2058,The Best - Edit,1544,262,253592,70
+2059,2059,Smile,1545,616,173266,65
+2060,2060,Good Vibrations,1546,1346,269306,61
+2061,2061,Breakin' My Heart (Pretty Brown Eyes),1547,1347,356960,57
+2062,2062,Two Princes,1548,1348,256946,65
+2063,2063,O.P.P,1549,1349,271066,62
+2064,2064,Breed,1550,570,184040,59
+2065,2065,Rusty Cage,1551,423,266200,62
+2066,2066,Me Estoy Enamorando,1552,1350,203560,64
+2067,2067,Civil War,1553,475,462093,68
+2068,2068,Don't Rock the Jukebox,1554,501,171066,60
+2069,2069,Every Time You Go Away - Radio Edit,1555,1351,267000,71
+2070,2070,Polly,1550,570,173853,58
+2071,2071,(There's No Place Like) Home for the Holidays - 1959 Version,1556,2,175893,57
+2072,2072,Gypsy Woman (She's Homeless) - Basement Boy Strip To The Bone Mix,1557,1352,451826,62
+2073,2073,Emotions,1558,691,248093,64
+2074,2074,Shiny Happy People,1559,398,225786,72
+2075,2075,Hacer El Amor Con Otro,1560,1353,283133,67
+2076,2076,All I Want,1561,1354,196333,59
+2077,2077,It Ain't Over 'Til It's Over,1562,1355,242640,70
+2078,2078,Right Now,1563,513,320866,56
+2079,2079,How I Could Just Kill a Man,1564,1356,252240,62
+2080,2080,Unforgettable (Duet with Nat King Cole),1565,235,210906,64
+2081,2081,You've Got to Stand for Something,1566,1357,182280,57
+2082,2082,Él Soy Yo,1567,1358,195120,61
+2083,2083,Scenario,1541,1342,250133,59
+2084,2084,Orange Colored Sky,1545,616,153866,60
+2085,2085,Suck My Kiss,1568,595,217133,64
+2086,2086,Me And You,1569,1315,250933,55
+2087,2087,You Could Be Mine,1553,475,343640,69
+2088,2088,The Show Must Go On - Remastered 2011,1570,622,277826,56
+2089,2089,Chiquilla Bonita,1571,376,286013,61
+2090,2090,Lounge Act,1550,570,156426,56
+2091,2091,What You Give,1572,1247,435226,56
+2092,2092,Copperline,1573,421,261266,57
+2093,2093,Summertime,1574,1359,270973,61
+2094,2094,Beautiful Mess,1575,1360,227920,55
+2095,2095,Don't Tread On Me,1576,597,240293,55
+2096,2096,Little Miss Can't Be Wrong,1548,1348,232720,57
+2097,2097,The Choice Is Yours (Revisited),1577,1361,243200,58
+2098,2098,Caribbean Blue,1578,415,239600,54
+2099,2099,When a Man Loves a Woman,1579,239,231066,69
+2100,2100,Tonight's Da Night,1580,1362,201373,63
+2101,2101,"Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",1581,314,289026,71
+2102,2102,40oz. To Freedom,1582,471,183000,59
+2103,2103,They Reminisce Over You (T.R.O.Y.),1583,1363,286693,61
+2104,2104,Sex Type Thing - 2017 Remaster,1584,1364,217813,58
+2105,2105,Achy Breaky Heart,1585,349,203373,66
+2106,2106,Bombtrack,1586,460,243453,65
+2107,2107,Los Chismes,1587,449,179211,61
+2108,2108,Some Girls Do,1588,1308,194320,58
+2109,2109,Unsung,1589,1365,236400,62
+2110,2110,Right Here - Human Nature Radio Mix,1590,1366,226800,63
+2111,2111,Breath Of Heaven (Mary's Song),1591,380,330840,59
+2112,2112,T-R-O-U-B-L-E,1592,372,180160,58
+2113,2113,Nieves De Enero,1593,449,213159,64
+2114,2114,Scarlet Begonias,1582,471,211386,58
+2115,2115,Christmas All Over Again,1594,448,254200,63
+2116,2116,Mario Peralta,1595,449,190937,60
+2117,2117,Pero Te Vas A Arrepentir,1596,1367,236533,63
+2118,2118,"If I Had $1,000,000",1597,1368,266733,59
+2119,2119,Freak Me,1598,1369,274533,58
+2120,2120,Don't Walk Away,1599,1370,216373,61
+2121,2121,Que De Raro Tiene,1600,432,202093,65
+2122,2122,Bed Of Roses,1601,458,394400,73
+2123,2123,Sunglasses At Night,1602,1194,320573,61
+2124,2124,Grown-Up Christmas List,1591,380,302013,59
+2125,2125,Man On The Moon,1603,398,314173,68
+2126,2126,Quiéreme,1604,376,247840,62
+2127,2127,I'm in a Hurry (And Don't Know Why),1605,378,168640,58
+2128,2128,Finally Friday,1606,259,164693,56
+2129,2129,Know Your Enemy,1586,460,294506,63
+2130,2130,Arabian Nights,1607,1371,79293,60
+2131,2131,Alma Enamorada,1608,449,175891,63
+2132,2132,Heartland - Pure Country/Soundtrack Version,1609,569,138160,56
+2133,2133,Back To The Hotel,1610,1372,304280,56
+2134,2134,Rump Shaker,1611,1373,312360,55
+2135,2135,The King of Wishful Thinking,1612,1374,241760,64
+2136,2136,What About Your Friends,1613,444,293600,57
+2137,2137,If I Ever Fall In Love,1614,1375,189026,57
+2138,2138,Trashy Women - Remastered Version,1615,1376,194351,56
+2139,2139,Wake Up,1586,460,363853,64
+2140,2140,Waiting For My Ruca,1582,471,140226,56
+2141,2141,Life Is A Highway,1616,1377,266560,64
+2142,2142,Fear of the Dark - 2015 Remaster,1617,390,438120,54
+2143,2143,Found Out About You,1618,1378,233400,55
+2144,2144,Date Rape,1582,471,217653,56
+2145,2145,Me Vale,1619,443,271320,60
+2146,2146,Bitches Ain't Shit,1620,528,288560,60
+2147,2147,Who Do You Love?,1621,1232,260160,57
+2148,2148,Wicked Garden - 2017 Remaster,1584,1364,245266,55
+2149,2149,Del Signo Libra,1622,1379,206913,63
+2150,2150,I'm The Only One,1623,1380,295000,60
+2151,2151,Somebody's Watching Me - Single Version,1624,1381,238773,67
+2152,2152,Fast as You,1625,1251,285200,60
+2153,2153,Hits from the Bong,1626,1356,160866,66
+2154,2154,Ordinary World,1627,1149,340200,73
+2155,2155,Rosas Rojas,1628,1382,210800,63
+2156,2156,Round Here,1629,1383,331400,62
+2157,2157,My Name Is Mud,1630,1384,286933,60
+2158,2158,Elderly Woman Behind the Counter in a Small Town (Remastered),1631,452,196186,63
+2159,2159,Dumb,1632,570,151893,65
+2160,2160,If You Love Me,1633,1385,304160,62
+2161,2161,(It Must've Been Ol') Santa Claus,1634,1386,276400,63
+2162,2162,She Don't Use Jelly,1635,1387,222278,60
+2163,2163,All That She Wants,1636,1388,211213,72
+2164,2164,"Any Time, Any Place",1637,399,428200,59
+2165,2165,I'm a Player - Street Version,1638,424,361266,57
+2166,2166,Fields Of Gold,1639,210,222120,72
+2167,2167,Rebirth Of Slick (Cool Like Dat),1640,1389,261266,60
+2168,2168,Come Undone,1627,1149,256519,68
+2169,2169,Acepto Mi Derrota,1641,376,248560,64
+2170,2170,(I Just) Died In Your Arms,1642,1390,278626,66
+2171,2171,Queen Of My Double Wide Trailer,1643,1391,211200,57
+2172,2172,The Power of Love,1644,409,342400,69
+2173,2173,Please Come Home For Christmas,1645,1392,172760,59
+2174,2174,Without You,1646,691,213666,71
+2175,2175,La Loca,1647,1393,254440,61
+2176,2176,Angel Baby,1648,1394,227624,56
+2177,2177,Low,1649,1395,276131,57
+2178,2178,Theme From Jurassic Park,1650,592,207426,64
+2179,2179,Whatta Man,1651,1396,308360,61
+2180,2180,La Gota Fría,1652,1397,215493,67
+2181,2181,Mayonaise - Remastered,1653,463,348773,56
+2182,2182,Bump n' Grind,1654,1398,256133,61
+2183,2183,Fox On The Run,1655,145,205733,56
+2184,2184,Show Me Love,1656,1399,252106,68
+2185,2185,Rape Me,1657,570,170000,65
+2186,2186,Whoomp! There It Is,1658,1400,226026,59
+2187,2187,Prison Sex,1659,455,296320,59
+2188,2188,Murder She Wrote,1660,1401,245000,65
+2189,2189,Shame On a Nigga,1661,1402,177066,60
+2190,2190,Strong Enough,1662,1403,189826,61
+2191,2191,Proud Mary,1663,262,327400,67
+2192,2192,Hasta Que Me Olvides,1664,395,281000,74
+2193,2193,"Lullabye (Goodnight, My Angel)",1665,526,214400,58
+2194,2194,Slam,1666,1404,218333,61
+2195,2195,Shape Of My Heart,1639,210,279226,73
+2196,2196,Karma Chameleon,1667,1170,241600,64
+2197,2197,Method Man,1661,1402,350560,60
+2198,2198,Cry For You,1668,1405,300906,56
+2199,2199,(I Can't Help) Falling In Love With You,1669,1406,207440,69
+2200,2200,Lovely Day,1670,465,255066,68
+2201,2201,Fell On Black Days,1671,423,283026,67
+2202,2202,This D.J.,1672,1407,203026,67
+2203,2203,Undone - The Sweater Song,1673,485,305533,64
+2204,2204,Let Her Cry,1674,1408,318533,64
+2205,2205,Longview,1675,580,233240,67
+2206,2206,"Circle of Life - From ""The Lion King""/ Soundtrack",1676,1409,239146,67
+2207,2207,At Your Best (You Are Love),1677,1410,291400,64
+2208,2208,Kiss from a Rose,1678,1411,288426,73
+2209,2209,"Can You Feel the Love Tonight - From ""The Lion King"" / Soundtrack Version",1676,1412,177786,66
+2210,2210,Lamento Boliviano,1679,1246,222226,76
+2211,2211,Who Shot Ya? - 2005 Remaster,1680,549,319373,68
+2212,2212,Where Did You Sleep Last Night,1681,570,306066,69
+2213,2213,Hook,1682,1324,289200,62
+2214,2214,Hold My Hand,1674,1408,258333,63
+2215,2215,No Excuses,1683,427,255573,65
+2216,2216,N.Y. State of Mind,1684,472,293973,66
+2217,2217,Gimme the Loot - 2005 Remaster,1680,549,304146,65
+2218,2218,Mamma Mia,1685,346,212906,59
+2219,2219,Don't Take The Girl,1686,521,249360,60
+2220,2220,Si Una Vez,1687,426,167000,68
+2221,2221,Better Man,1688,452,268586,67
+2222,2222,Lake Of Fire,1681,570,175973,67
+2223,2223,I Wanna Be Down,1689,1413,291666,63
+2224,2224,Down On The Farm,1686,521,178866,60
+2225,2225,Smooth Operator - Single Version,1690,402,258693,69
+2226,2226,Go Rest High On That Mountain,1691,1303,315973,61
+2227,2227,Just a Friend,1692,1414,238266,62
+2228,2228,Suicidal Thoughts - 2005 Remaster,1693,549,170226,64
+2229,2229,I'll Stand by You,1694,1252,240760,72
+2230,2230,Foe Tha Love of $,1695,1415,272440,60
+2231,2231,Vasoline - 2019 Remaster,1696,1364,176546,62
+2232,2232,La vie en rose - Single Version,1697,5,206333,60
+2233,2233,"Baby, I Love Your Way",1698,1416,249520,69
+2234,2234,If I Could Make a Living,1699,1417,134373,59
+2235,2235,Soulshine,1700,316,403506,59
+2236,2236,On Bended Knee,1701,1418,329800,59
+2237,2237,Feel the Pain,1702,1419,259600,62
+2238,2238,Blind,1703,451,258266,64
+2239,2239,I'm Broken,1704,1314,264800,64
+2240,2240,No Me Queda Más,1687,426,200840,67
+2241,2241,I Alone,1705,1420,231133,63
+2242,2242,Hurt,1706,425,375933,58
+2243,2243,I Swear,1707,1421,259853,67
+2244,2244,Mary Jane (All Night Long),1708,457,279240,58
+2245,2245,"You're The First, The Last, My Everything",1709,1422,208933,66
+2246,2246,I Stay Away,1683,427,254400,61
+2247,2247,Always,1710,458,353026,76
+2248,2248,My Name Is Jonas,1673,485,204293,60
+2249,2249,N.Y. State of Mind,1711,472,293973,64
+2250,2250,More Human Than Human,1712,1423,268760,60
+2251,2251,Shadowboxin',1713,1424,209973,65
+2252,2252,Spiderwebs,1714,1425,266760,60
+2253,2253,Tomorrow,1715,1426,266280,65
+2254,2254,You Oughta Know - 2015 Remaster,1716,1427,249493,68
+2255,2255,They Don't Care About Us,1717,575,284160,72
+2256,2256,Cotton Eye Joe,1718,1428,193826,58
+2257,2257,Como La Flor,1719,426,184733,65
+2258,2258,Como Una Novela,1720,1429,226280,71
+2259,2259,In the Meantime,1721,1430,299506,62
+2260,2260,Lady,1722,1431,346266,62
+2261,2261,Here's a Quarter (Call Someone Who Cares),1723,372,152640,59
+2262,2262,"Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",1724,1432,253226,62
+2263,2263,Runnin',1725,1433,296266,63
+2264,2264,Zero - Remastered 2012,1726,463,160173,63
+2265,2265,Doin' It,1727,1321,293933,63
+2266,2266,So Many Tears,1728,596,239226,64
+2267,2267,The World I Know,1729,1434,255466,63
+2268,2268,Down,1730,1435,172160,59
+2269,2269,Gloria,1731,1206,295066,65
+2270,2270,I Could Fall In Love,1719,426,281560,62
+2271,2271,Heaven Beside You,1732,427,327893,61
+2272,2272,Ironic - 2015 Remaster,1716,1427,230000,70
+2273,2273,Every Little Thing I Do,1733,1436,260066,59
+2274,2274,"Just Around the Riverbend - From ""Pocahontas"" / Soundtrack Version",1734,1437,147706,61
+2275,2275,Tu Traición,1735,385,214293,65
+2276,2276,December,1729,1434,285000,60
+2277,2277,Freak Like Me,1736,1438,253613,60
+2278,2278,No One Needs To Know,1737,467,183960,60
+2279,2279,O Little Town of Bethlehem,1738,136,196200,62
+2280,2280,Será Mejor Que Te Vayas,1739,1439,299626,65
+2281,2281,Man in the Mirror,1717,575,319306,65
+2282,2282,Amazed,1740,1440,239986,63
+2283,2283,Don't Let Our Love Start Slippin' Away,1741,1303,223533,58
+2284,2284,I Can Love You Like That,1742,1441,235000,57
+2285,2285,Ironic,1743,1427,225933,57
+2286,2286,Time Bomb,1744,1442,144333,63
+2287,2287,Soon as I Get Home,1745,1443,324280,58
+2288,2288,Hey Lover,1727,1321,284693,60
+2289,2289,Lemon Tree,1746,1444,191026,77
+2290,2290,Who Will Save Your Soul,1747,1445,239293,60
+2291,2291,Mis Tres Animales,1748,438,163191,60
+2292,2292,Boombastic,1749,1446,249933,67
+2293,2293,Feel Me Flow,1750,1349,212560,61
+2294,2294,High and Dry,1751,487,257480,67
+2295,2295,Can You Feel The Love Tonight,1752,615,240000,58
+2296,2296,Streets of Philadelphia - Single Edit,1753,511,195080,73
+2297,2297,Mundo De Amor,1754,438,169440,59
+2298,2298,Una Aventura,1755,1447,215169,62
+2299,2299,Days Like This,1756,453,197160,64
+2300,2300,Caress Me Down,1757,471,211560,60
+2301,2301,Ascension (Don't Ever Wonder),1758,1448,346133,65
+2302,2302,Cómo Te Voy A Olvidar,1759,469,267826,70
+2303,2303,Un-Break My Heart,1760,1449,270333,68
+2304,2304,If It Makes You Happy,1761,1403,323400,61
+2305,2305,Earth Angel (Will You Be Mine),1762,1450,179426,59
+2306,2306,Everybody (Backstreet's Back) - Extended Version,1763,437,287293,58
+2307,2307,A Long December,1764,1383,295066,63
+2308,2308,Bow Down,1765,1451,206826,58
+2309,2309,Can't C Me,1766,596,330760,66
+2310,2310,¿Y Todo Para Qué?,1767,1452,190533,69
+2311,2311,It's All Coming Back to Me Now,1768,409,456866,68
+2312,2312,"Heads Carolina, Tails California",1769,1453,209760,60
+2313,2313,Bound For The Floor,1770,1454,222960,59
+2314,2314,Ain't Nobody,1771,1103,280853,70
+2315,2315,Ænema,1772,455,399266,62
+2316,2316,Criminal,1773,282,341533,62
+2317,2317,Lovefool,1774,1455,193953,71
+2318,2318,Real World,1775,1456,231693,61
+2319,2319,Tu Última Canción,1776,405,262333,66
+2320,2320,Every Light In The House,1777,1457,179600,59
+2321,2321,I Can Still Make Cheyenne,1778,569,256066,59
+2322,2322,Daddy's Money,1779,1458,183493,59
+2323,2323,Two Dozen Roses,1780,1459,204333,59
+2324,2324,Crush on You,1781,1460,275640,61
+2325,2325,I Love You Always Forever,1782,1461,239960,69
+2326,2326,Ratha Be Ya N____ (ft. Richie Rich),1766,596,253973,63
+2327,2327,How Bizarre,1783,1462,224200,59
+2328,2328,Burden In My Hand,1784,423,290106,62
+2329,2329,Eres un Sueño,1776,405,242733,65
+2330,2330,My Boo - Hitman's Club Mix,1785,1463,346840,63
+2331,2331,Garden Grove,1757,471,261386,58
+2332,2332,Elevators (Me & You),1786,514,265200,60
+2333,2333,I've Been Everywhere,1787,529,196733,58
+2334,2334,Only You (feat. The Notorious B.I.G. & Mase) - Bad Boy Remix,1788,1464,289413,62
+2335,2335,Quit Playing Games (With My Heart),1763,437,233533,57
+2336,2336,Let's Get Down,1789,1315,299506,58
+2337,2337,The Distance,1790,1465,179600,60
+2338,2338,Enamorado de Ti,1776,405,249200,63
+2339,2339,Triste Recuerdo,1791,1281,233116,65
+2340,2340,Las Monjitas,1792,1466,272466,63
+2341,2341,La Mujer Que Soñe,1776,405,184666,63
+2342,2342,Only You (feat. The Notorious B.I.G.) - Radio Mix,1788,1464,260426,60
+2343,2343,Sell Out,1793,1467,227493,59
+2344,2344,Llorarás,1794,1468,228554,68
+2345,2345,Say You'll Be There,1795,1469,235973,65
+2346,2346,Chanukah Song - The,1796,1470,223946,59
+2347,2347,Little Bitty,1797,501,158626,60
+2348,2348,Seminole Wind,1798,169,237075,56
+2349,2349,Lamberto Quintero,1791,1281,184064,63
+2350,2350,Life's a Dance,1799,1441,188840,61
+2351,2351,Around the World,1800,540,429533,71
+2352,2352,Tubthumping,1801,1471,278960,62
+2353,2353,They Don't Know,1802,1472,274666,61
+2354,2354,Feel so Good,1803,1473,203626,65
+2355,2355,Nice & Slow,1804,620,227906,64
+2356,2356,Blue on Black,1805,1474,333733,62
+2357,2357,Rain,1806,1366,264506,63
+2358,2358,The General,1807,1475,246920,61
+2359,2359,Barbie Girl,1808,1476,197773,62
+2360,2360,Clavado En Un Bar,1809,443,310813,72
+2361,2361,Te Amo,1810,1477,175373,59
+2362,2362,Walkin' On The Sun,1811,1478,207786,66
+2363,2363,Somebody's Baby,1812,325,262733,61
+2364,2364,I Won't Say (I'm In Love),1813,1479,140226,60
+2365,2365,She's Got It All,1814,567,205093,60
+2366,2366,My Own Prison,1815,1480,298800,63
+2367,2367,Bitch,1816,1481,252760,67
+2368,2368,Torn,1817,1482,244666,73
+2369,2369,Triumph,1818,1402,338186,64
+2370,2370,What You Want (feat. Total),1803,1473,242946,65
+2371,2371,Gone Away,1819,459,268826,65
+2372,2372,En El Muelle De San Blas,1809,443,352160,72
+2373,2373,Cheek To Cheek,1820,4,354533,68
+2374,2374,Zero To Hero,1813,1483,140573,60
+2375,2375,It's Your Love,1821,521,227333,60
+2376,2376,Tearin' up My Heart - Radio Edit,1822,433,211000,61
+2377,2377,Put Your Hands Where My Eyes Could See,1823,502,194293,62
+2378,2378,Angel,1824,1484,270400,69
+2379,2379,El Tucanazo,1825,438,174160,63
+2380,2380,Be Quiet and Drive (Far Away),1826,1485,299866,63
+2381,2381,Corazón partío,1827,1486,343413,76
+2382,2382,Between the Bars,1828,1487,141200,59
+2383,2383,Be My Baby Tonight,1799,1441,170533,59
+2384,2384,MMMBop,1829,1488,268653,68
+2385,2385,Hokus Pokus,1830,1489,261173,61
+2386,2386,I Gotta Be,1831,1490,215266,59
+2387,2387,Procura,1832,1491,271031,76
+2388,2388,Historia sin fin,1833,1492,184706,64
+2389,2389,The Rain (Supa Dupa Fly),1834,493,251000,60
+2390,2390,Butta Love,1835,1493,296400,58
+2391,2391,Ten Crack Commandments - 2014 Remaster,1836,549,204026,62
+2392,2392,All The Things (Your Man Won't Do),1837,1494,380533,59
+2393,2393,Together Again,1838,399,301200,68
+2394,2394,Victory (feat. The Notorious B.I.G. & Busta Rhymes),1839,441,296266,61
+2395,2395,La Venia Bendita,1840,1439,191640,68
+2396,2396,I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster,1841,441,306560,67
+2397,2397,I Wan'na Be Like You (The Monkey Song),1842,187,279453,61
+2398,2398,A Mi Que Me Quedo,1843,389,161493,66
+2399,2399,Come Go With Me,1844,1495,162293,59
+2400,2400,How Do U Want It,1845,596,287760,62
+2401,2401,So Into You,1846,1496,261866,65
+2402,2402,Only God Knows Why,1847,439,327666,62
+2403,2403,Bye-Bye,1848,1453,200960,62
+2404,2404,Superman,1849,1497,185026,65
+2405,2405,Every Morning,1850,1498,219866,64
+2406,2406,Twinz (Deep Cover 98) (feat. Fat Joe),1851,1499,228173,66
+2407,2407,Pickup Man,1852,1500,216693,61
+2408,2408,Fly Away,1853,1355,221332,70
+2409,2409,John Deere Green,1852,1500,273000,61
+2410,2410,Hard Knock Life (Ghetto Anthem),1854,680,238466,67
+2411,2411,Superbeast,1855,1501,220266,64
+2412,2412,The Boy Is Mine,1856,1413,294786,68
+2413,2413,Can't Take My Eyes Off of You - (I Love You Baby),1857,1502,221466,67
+2414,2414,Amor Platónico,1858,438,179506,65
+2415,2415,Torn,1859,1482,244666,64
+2416,2416,Nothing Even Matters (feat. D'Angelo),1857,1502,350533,63
+2417,2417,Celebrity Skin,1860,1503,162666,66
+2418,2418,Los Caminos De La Vida,1861,1504,291133,66
+2419,2419,I'm Alright,1848,1453,199040,61
+2420,2420,Love Like This,1862,1443,275706,66
+2421,2421,There's Your Trouble,1863,393,193064,61
+2422,2422,"A Girl Worth Fighting For - From ""Mulan""/Soundtrack",1864,1505,146053,63
+2423,2423,The Way,1865,1506,257093,63
+2424,2424,Angel of Mine,1866,1507,250173,66
+2425,2425,I'm From The Country - Single Version,1867,1508,213973,60
+2426,2426,Safety Dance,1868,1185,165506,58
+2427,2427,2 Of Amerikaz Most Wanted,1845,596,246666,60
+2428,2428,This Kiss,1869,1509,193979,64
+2429,2429,Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & Mýa),1870,1510,261133,67
+2430,2430,Turn The Page,1871,597,366400,59
+2431,2431,Sweet Lady,1872,1511,290600,60
+2432,2432,My Hometown,1873,1512,262866,58
+2433,2433,Find a Way,1874,1342,203066,63
+2434,2434,California Stars,1875,1513,298533,62
+2435,2435,"Holland, 1945",1876,1514,192533,61
+2436,2436,Never There,1877,1465,164266,61
+2437,2437,Spiders,1878,506,215440,65
+2438,2438,Got You (Where I Want You),1879,1515,242453,58
+2439,2439,Como Te Recuerdo,1880,405,305293,64
+2440,2440,Teardrop,1881,1516,330773,70
+2441,2441,Suavemente,1882,1517,267000,60
+2442,2442,SpottieOttieDopaliscious,1883,514,426853,62
+2443,2443,Tell Him,1857,1502,280760,62
+2444,2444,Can I Get A...,1854,680,309773,59
+2445,2445,Beauty,1884,1518,272560,58
+2446,2446,King of Carrot Flowers Pt. 1,1876,1514,120426,60
+2447,2447,RUNNING IN THE 90'S,1885,1519,283833,64
+2448,2448,Blue Monday,1886,1520,267000,61
+2449,2449,Have You Ever,1856,1413,273440,61
+2450,2450,Electric Relaxation,1887,1342,226133,67
+2451,2451,Never Let You Go - 2008 Remaster,1888,1521,237240,64
+2452,2452,Livin' la Vida Loca,1889,1522,243160,73
+2453,2453,In Spite of Ourselves (feat. Iris DeMent),1890,324,213600,63
+2454,2454,I Just Called To Say I Love You,1891,530,262240,75
+2455,2455,What's The Difference,1892,528,244200,71
+2456,2456,Testify,1893,460,210133,66
+2457,2457,Sleep Now In the Fire,1893,460,205600,67
+2458,2458,Everything You Want,1894,1523,257066,64
+2459,2459,Last Kiss,1895,452,195466,71
+2460,2460,Got Your Money (feat. Kelis),1896,1524,239546,66
+2461,2461,Lit Up,1897,1525,215560,61
+2462,2462,Push It,1898,1526,154906,65
+2463,2463,"Outstanding - Original 12"" Mix",1899,1527,375400,63
+2464,2464,I Don't Need Your Rockin' Chair - Version w/special guests,1900,1528,168640,62
+2465,2465,Jessie's Girl,1901,1529,192866,63
+2466,2466,Let's Get Loud,1902,496,239400,70
+2467,2467,"Bills, Bills, Bills",1903,360,256026,66
+2468,2468,Breathe,1904,1509,250546,67
+2469,2469,You Got Me,1905,1530,259306,66
+2470,2470,Thank You,1906,1531,217826,61
+2471,2471,Some Kind Of Wonderful - Remastered 1999,1907,1532,202733,63
+2472,2472,Da Rockwilder,1908,1533,136093,67
+2473,2473,Thong Song,1909,1534,253733,67
+2474,2474,Faded Pictures,1910,1535,229773,59
+2475,2475,96 Quite Bitter Beings,1911,1536,201920,64
+2476,2476,Goodbye Earl,1912,393,258640,61
+2477,2477,Maria Maria (feat. The Product G&B),1913,301,261973,67
+2478,2478,Everyday People,1914,266,139506,62
+2479,2479,Wait and Bleed,1915,510,147840,59
+2480,2480,Duel of the Fates,1916,592,254346,64
+2481,2481,Nookie,1917,1537,289560,66
+2482,2482,"Strangers Like Me - From ""Tarzan""/Soundtrack Version",1918,408,180586,58
+2483,2483,Dependo Cada Día Más De Ti,1919,1466,207426,63
+2484,2484,El Listón De Tu Pelo,1920,469,216106,68
+2485,2485,Take a Picture,1921,1538,363800,63
+2486,2486,How Do You Like Me Now?!,1922,480,209066,59
+2487,2487,How Forever Feels,1923,567,188200,59
+2488,2488,Where I Wanna Be,1924,1539,253626,59
+2489,2489,That Don't Impress Me Much,1925,467,238706,67
+2490,2490,The Bad Touch,1926,1540,260506,71
+2491,2491,Larger Than Life,1927,437,232826,67
+2492,2492,Supe Perder,1928,320,177446,63
+2493,2493,Right Where I Need To Be,1929,1541,182103,58
+2494,2494,I Knew I Loved You,1930,1542,250360,70
+2495,2495,Steal My Sunshine,1931,1543,265533,59
+2496,2496,Heartbreaker (feat. Jay-Z),1932,691,285706,65
+2497,2497,Guilty Conscience,1933,1544,199333,64
+2498,2498,Fuerte No Soy,1934,1452,267333,72
+2499,2499,"Take My Breath Away - Love Theme from ""Top Gun""",1935,1545,255733,71
+2500,2500,Didn't Cha Know,1936,1546,238733,65
+2501,2501,This I Promise You,1937,433,284760,70
+2502,2502,Put It On Me,1938,1547,262826,64
+2503,2503,B.O.B. - Bombs Over Baghdad,1939,514,304226,64
+2504,2504,Renegades Of Funk,1940,460,274160,66
+2505,2505,My Axe,1941,1489,232200,61
+2506,2506,Faggot,1942,1548,163706,65
+2507,2507,Bitch Please II,1943,1544,288200,69
+2508,2508,Only Time,1944,415,218546,72
+2509,2509,If You're Gone,1945,1456,274933,66
+2510,2510,Papa Was A Rollin' Stone - Single Version,1946,310,419640,68
+2511,2511,You Send Me,1947,317,162466,63
+2512,2512,In the End,1948,626,216800,65
+2513,2513,Ghostbusters,1949,1549,240800,66
+2514,2514,Dig,1950,1550,162293,63
+2515,2515,Me Gustas,1951,440,207586,71
+2516,2516,Just Friends (Sunny),1952,1551,251426,60
+2517,2517,He Wasn't Man Enough,1953,1449,261933,68
+2518,2518,I Am A Man Of Constant Sorrow - Radio Edit,1954,1552,190000,62
+2519,2519,I'm Like A Bird,1955,1553,243160,62
+2520,2520,Shape of My Heart,1956,437,230093,73
+2521,2521,Just Another Day In Paradise,1957,1554,233880,60
+2522,2522,Mis Tres Viejas,1958,438,162840,64
+2523,2523,By Your Side,1959,402,274933,68
+2524,2524,Trouble,1960,632,273426,72
+2525,2525,Modern Day Bonnie and Clyde,1961,372,284173,60
+2526,2526,Take A Look Around,1962,1537,321040,72
+2527,2527,99 Red Balloons,1963,1497,229173,64
+2528,2528,Hate To Say I Told You So,1964,1555,199759,59
+2529,2529,"You're A Mean One Mr. Grinch - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",1965,1556,151533,59
+2530,2530,Hold On Loosely,1966,1294,279893,59
+2531,2531,We Are The Dinosaurs,1967,1557,137066,61
+2532,2532,Passenger,1968,1485,368666,62
+2533,2533,A Place for My Head,1969,626,184640,66
+2534,2534,Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat),1970,1558,261973,58
+2535,2535,Secreto De Amor,1951,440,273008,68
+2536,2536,Stronger,1971,527,203000,66
+2537,2537,Bitches,1942,1548,165693,61
+2538,2538,If I Ever Feel Better,1972,1559,266600,67
+2539,2539,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",1973,8,259493,67
+2540,2540,I Just Wanna Love U (Give It 2 Me),1974,680,227866,61
+2541,2541,Points of Authority,1969,626,200240,65
+2542,2542,Lucky,1971,527,206226,65
+2543,2543,Pinch Me,1975,1368,285160,59
+2544,2544,A Kiss To Build A Dream On - Single Version,1976,5,181493,64
+2545,2545,3 Libras,1977,1560,219640,61
+2546,2546,E.I.,1978,541,285906,59
+2547,2547,I'll Fly Away,1954,1561,237866,59
+2548,2548,El Amor Soñado,1979,438,164466,63
+2549,2549,He Can't Love U,1980,1490,244053,59
+2550,2550,Get Ur Freak On,1981,493,211120,69
+2551,2551,"Whenever, Wherever",1982,515,196160,75
+2552,2552,Where the Party At (feat. Nelly),1983,1490,232573,66
+2553,2553,One Last Breath,1984,1480,238240,70
+2554,2554,Lady - Hear Me Tonight,1985,1562,307153,73
+2555,2555,Survivor,1986,360,254026,71
+2556,2556,Break Ya Neck,1987,502,231240,70
+2557,2557,Outside,1988,1563,293133,62
+2558,2558,Can We Talk,1989,1564,284586,65
+2559,2559,My Sacrifice,1984,1480,294600,71
+2560,2560,Over the Rainbow,1990,1565,211933,71
+2561,2561,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",1991,508,264846,62
+2562,2562,Peaches & Cream,1992,1464,193093,65
+2563,2563,Austin,1993,590,230333,62
+2564,2564,Family Affair,1994,457,265866,72
+2565,2565,The Rock Show,1995,557,171600,68
+2566,2566,Control,1996,1566,230066,64
+2567,2567,We're Going to Be Friends,1997,1567,142226,65
+2568,2568,Amber,1998,1435,206973,62
+2569,2569,Hash Pipe,1999,485,186533,66
+2570,2570,"I Won't Say (I'm In Love) - From ""Hercules"" / Soundtrack Version",2000,1479,140093,65
+2571,2571,I'm a Slave 4 U,2001,527,203600,69
+2572,2572,Crawling In The Dark,2002,1568,175226,66
+2573,2573,Purple Pills,2003,1569,304506,68
+2574,2574,Boom,2004,1570,190760,67
+2575,2575,Die MF Die,2005,1571,186066,68
+2576,2576,Why Georgia,2006,589,268973,64
+2577,2577,Because I Got High,2007,1572,197760,68
+2578,2578,Something About Us,2008,540,232666,70
+2579,2579,Piano Man,2009,526,336093,68
+2580,2580,Tear Away,2010,1573,254200,63
+2581,2581,Can't Get You out of My Head,2011,414,230640,73
+2582,2582,Everywhere,2012,1574,214826,65
+2583,2583,Uptown Girl,2009,526,194866,67
+2584,2584,No Such Thing,2006,589,231466,64
+2585,2585,Get the Party Started,2013,550,192533,68
+2586,2586,I'm Already There,2014,1440,253373,61
+2587,2587,"Independent Women, Pt. 1",1986,360,221133,66
+2588,2588,Como Fui A Enamorarme De Ti,2015,376,269760,66
+2589,2589,Kung Fu Fighting,2016,1575,197693,68
+2590,2590,I'm A Believer - Radio Edit,2017,1478,183400,60
+2591,2591,Mad World (Feat. Michael Andrews),2018,1576,189506,70
+2592,2592,Hero,2019,1577,264600,61
+2593,2593,Flavor Of The Weak,2020,1578,188840,63
+2594,2594,Boys From Oklahoma,2021,1579,354400,59
+2595,2595,I Wanna Talk About Me,2022,480,183960,60
+2596,2596,Tu Forma De Ser - Version Cumbia,2023,1580,227760,67
+2597,2597,Rollout (My Business),2024,555,296586,60
+2598,2598,Me llamo Raquel,2025,1492,167986,63
+2599,2599,Prison Song,2026,506,201160,66
+2600,2600,Still Waiting,2027,1581,158733,62
+2601,2601,Let It Be Christmas,2028,501,251240,64
+2602,2602,"Hawaiian Roller Coaster Ride - From ""Lilo & Stitch""/Soundtrack Version",2029,1582,208226,66
+2603,2603,Don't Know Why,2030,1583,186146,74
+2604,2604,Still Fly,2031,1584,335613,62
+2605,2605,Oh Boy,2032,1585,204706,66
+2606,2606,Always,2033,1586,231200,63
+2607,2607,Un Sueño,2034,1587,225360,70
+2608,2608,About A Girl,2035,570,166640,70
+2609,2609,Don't Mess With My Man (feat. Brian Casey & Brandon Casey),2036,1588,213226,62
+2610,2610,My Friends Over You,2037,1589,220200,65
+2611,2611,Fine Again,2038,1590,243640,64
+2612,2612,"He Mele No Lilo - From ""Lilo & Stitch""/Soundtrack Version",2029,1582,148133,66
+2613,2613,Strawberry Wine,2039,1591,290466,62
+2614,2614,"Jesus, Etc.",2040,1592,231000,66
+2615,2615,Bother,2041,1593,240400,66
+2616,2616,Come Away With Me,2030,1583,198146,72
+2617,2617,Fighter,2042,508,245960,69
+2618,2618,Beautiful,2042,508,238560,72
+2619,2619,Somebody Like You,2043,507,323040,65
+2620,2620,Ven Porque Te Necesito,2044,405,175013,67
+2621,2621,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,2045,496,187840,66
+2622,2622,Get Busy,2046,447,211666,74
+2623,2623,All The Things She Said,2047,1594,214440,74
+2624,2624,Air Force Ones,2048,541,304000,61
+2625,2625,Cochise,2049,1595,222026,68
+2626,2626,Good Times,2050,1596,211493,62
+2627,2627,Sunday Morning,2051,631,244866,68
+2628,2628,I Am the Highway,2049,1595,334906,67
+2629,2629,Big Yellow Taxi,2052,1383,225573,61
+2630,2630,Do You Realize??,2053,1387,213173,64
+2631,2631,White America,2054,1544,324546,67
+2632,2632,Es Por Tí,2055,1597,250693,73
+2633,2633,Sympathy,2056,416,178146,63
+2634,2634,Mira oye,2057,1598,202253,61
+2635,2635,Stone Love,2058,1599,254800,60
+2636,2636,Hey Ma,2059,1585,232533,58
+2637,2637,I'm with You,2060,1600,223066,71
+2638,2638,White Christmas,2061,1601,95760,67
+2639,2639,Guatauba,2062,1602,162400,68
+2640,2640,Bam Bam,2063,1603,196506,65
+2641,2641,"Handel / Orch. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande",2064,24,207266,68
+2642,2642,Happy,2065,1604,262226,63
+2643,2643,The Zephyr Song,2066,595,231933,69
+2644,2644,This Love,2051,631,206200,68
+2645,2645,"No Shoes, No Shirt, No Problems",2067,567,209666,59
+2646,2646,I Know What You Want (feat. Flipmode Squad),2068,502,324306,68
+2647,2647,Dirrty (feat. Redman),2042,508,298853,69
+2648,2648,Girl All the Bad Guys Want,2069,1605,197800,64
+2649,2649,Enseñame a Olvidar,2070,1606,348826,67
+2650,2650,Please Come Home for Christmas - 2013 Remaster,2071,524,177440,64
+2651,2651,Going Under,2072,1607,214946,71
+2652,2652,Collide,2073,1608,249120,66
+2653,2653,Hotel California - 2013 Remaster,2071,524,391376,62
+2654,2654,The Boys of Summer,2074,1609,258000,66
+2655,2655,Oxy Cotton,2075,1610,193920,61
+2656,2656,I Love This Bar,2076,480,335333,63
+2657,2657,I Don't Want to Be,2077,1611,217760,64
+2658,2658,Rock Wit U (Awww Baby),2078,1604,209120,65
+2659,2659,Soul to Squeeze,2079,595,289533,67
+2660,2660,99 Problems,2080,680,234626,61
+2661,2661,Patiently Waiting,2081,611,288880,62
+2662,2662,Feeling This,2082,557,172645,66
+2663,2663,Such Great Heights - Remastered,2083,1612,266506,64
+2664,2664,Whiskey Lullaby (feat. Alison Krauss),2084,343,259893,64
+2665,2665,Collie Man,2085,1613,133080,62
+2666,2666,Salt Shaker,2086,1614,252440,61
+2667,2667,Somewhere I Belong,2087,626,213933,63
+2668,2668,Who Am I,2088,1615,335906,65
+2669,2669,Shake Ya Tailfeather - Radio Edit,2089,1616,295173,64
+2670,2670,Almost Home,2090,1617,289000,59
+2671,2671,Hands Down,2091,1618,186866,62
+2672,2672,Plush - Acoustic,2092,1364,230293,68
+2673,2673,Breaking the Habit,2087,626,196906,66
+2674,2674,Dirt Off Your Shoulder,2080,680,245173,60
+2675,2675,Long Black Train,2093,1619,250626,60
+2676,2676,How Do I Live,2094,1620,266973,69
+2677,2677,Simple Man - Rock Version,2095,562,265800,60
+2678,2678,Behind Blue Eyes,2096,1537,269973,72
+2679,2679,Numb,2097,626,185586,60
+2680,2680,Vete Ya,2098,1621,157760,71
+2681,2681,Only One,2099,1622,257399,64
+2682,2682,Move Your Feet,2100,1623,181906,59
+2683,2683,Frontin' (feat. Jay-Z) - Club Mix,2101,556,236506,65
+2684,2684,Más Que Tu Amigo,2102,1439,209506,70
+2685,2685,I'm Sorry,2103,1606,254560,64
+2686,2686,Can't Let You Go (feat. Mike Shorey & Lil' Mo),2104,498,223973,63
+2687,2687,He's a Pirate,2105,1624,90426,64
+2688,2688,You Raise Me Up,2106,1625,292333,59
+2689,2689,Wave on Wave,2107,1626,244373,59
+2690,2690,Lying from You,2097,626,175373,59
+2691,2691,Gangsta Nation,2108,1451,293053,66
+2692,2692,Nemo Egg (Main Title),2109,1627,76133,63
+2693,2693,The Outsider,2110,1560,246000,63
+2694,2694,Meant to Live,2111,1628,201373,60
+2695,2695,Poppin' Them Thangs,2112,1629,240800,70
+2696,2696,Drinkin' Bone,2113,1508,131866,59
+2697,2697,In Those Jeans,2114,1630,243306,62
+2698,2698,Grand Theft Autumn / Where Is Your Boy,2115,608,191373,61
+2699,2699,El Indio Enamorado,2116,383,188128,63
+2700,2700,Slow Jamz,2117,1631,316053,66
+2701,2701,Believe,2118,1625,258399,65
+2702,2702,Hold You in My Arms,2119,1632,306200,65
+2703,2703,Rapp Snitch Knishes feat. Mr. Fantastik,2120,1633,172893,67
+2704,2704,Overnight Celebrity,2121,1631,233360,65
+2705,2705,When the Sun Goes Down,2122,567,290560,63
+2706,2706,Confessions Part II,2123,620,211200,68
+2707,2707,Goodies (feat. Petey Pablo),2124,1634,223000,67
+2708,2708,Something to Be Proud Of,2125,1635,256600,63
+2709,2709,All These Things That I've Done,2126,561,301573,64
+2710,2710,Call Me,2127,367,212226,66
+2711,2711,Lovers And Friends,2128,1636,260600,65
+2712,2712,The Ghost of You,2129,571,194253,68
+2713,2713,Tipsy - Club Mix,2130,1637,243226,63
+2714,2714,Can't Be Touched (feat. Mr. Magic & Trouble),2131,1638,214400,73
+2715,2715,"Lo Que Pasó, Pasó",2132,637,210933,74
+2716,2716,Me Dediqué a Perderte,2133,1639,231773,78
+2717,2717,O Children,2134,1640,411386,70
+2718,2718,Wizards in Winter - Instrumental,2135,1641,185933,62
+2719,2719,Lonely,2136,545,235800,61
+2720,2720,Sunshine (feat. Lea),2137,1642,225173,62
+2721,2721,Rich Girl,2138,536,236213,62
+2722,2722,Bowl For Two,2139,1643,283426,62
+2723,2723,Be My Escape,2140,1644,240453,63
+2724,2724,Bubble Pop Electric,2138,536,222360,62
+2725,2725,Somebody Told Me,2141,561,197200,73
+2726,2726,Like Toy Soldiers,2142,1544,296880,69
+2727,2727,Bring Em Out,2143,591,216706,62
+2728,2728,Mountain Music,2144,378,218613,61
+2729,2729,Welcome to My Life,2145,1645,206773,60
+2730,2730,Redneck Woman,2146,1646,221333,62
+2731,2731,Breathe Me,2147,635,272066,62
+2732,2732,Colors,2148,1647,198533,62
+2733,2733,Soldier (feat. T.I. & Lil' Wayne),2149,360,325573,66
+2734,2734,Breakaway,2150,646,237000,64
+2735,2735,Amor del Bueno,2151,1648,242026,75
+2736,2736,Por Mujeres Como Tú,2152,1649,263133,72
+2737,2737,I'll Be Missing You (feat. 112),2153,441,301520,71
+2738,2738,Slither,2154,1650,248306,66
+2739,2739,Into You (feat. Fabolous),2155,1496,294093,64
+2740,2740,What Christmas Means To Me,2156,530,147800,62
+2741,2741,Laid to Rest,2157,1651,230127,66
+2742,2742,Knuck If You Buck (feat. Lil' Scrappy),2158,1652,205120,60
+2743,2743,Accidentally In Love,2159,1383,188613,60
+2744,2744,Some Beach,2160,590,204826,61
+2745,2745,All Caps,2161,1653,130479,64
+2746,2746,Call on Me - Radio Mix,2162,1654,171360,74
+2747,2747,Pretty Girl,2163,1655,259000,60
+2748,2748,"A Whole New World - From ""Aladdin"" / Soundtrack Version",2164,1505,160800,65
+2749,2749,The End of Heartache,2165,1656,298106,62
+2750,2750,Over My Head (Cable Car),2166,1657,236266,69
+2751,2751,Hidden In the Sand,2167,1658,112960,69
+2752,2752,Happy?,2168,1550,216426,68
+2753,2753,You're Beautiful,2169,1659,209493,77
+2754,2754,Closer to the Sun,2170,1613,145560,66
+2755,2755,Wasteland,2171,1660,229866,64
+2756,2756,Un Beso,2172,1606,263346,72
+2757,2757,First Day Of My Life,2173,1601,188800,70
+2758,2758,I'm Sprung,2174,588,230713,66
+2759,2759,Ella Y Yo - Featuring Don Omar,2172,1606,267786,75
+2760,2760,Shake That,2175,1544,274440,73
+2761,2761,How We Do,2176,505,235533,74
+2762,2762,Bad Day,2177,1661,233640,76
+2763,2763,Just A Lil Bit,2178,611,237706,75
+2764,2764,Far Away,2179,491,238173,71
+2765,2765,Still Tippin' (feat. Slim Thug and Paul Wall),2180,1662,271053,64
+2766,2766,Animals,2181,491,186600,63
+2767,2767,Laffy Taffy,2182,1663,224253,66
+2768,2768,Buttons,2183,1664,225560,65
+2769,2769,She's Everything,2184,343,266920,65
+2770,2770,Tequila Makes Her Clothes Fall Off,2185,1665,187053,65
+2771,2771,Bat Country,2186,547,311813,69
+2772,2772,Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off,2187,641,200226,63
+2773,2773,Te Extraño - Bachata Version,2188,1666,212973,69
+2774,2774,I'm Shipping Up To Boston,2189,1667,153600,71
+2775,2775,Touch The Sky,2190,1668,236600,68
+2776,2776,Home,2191,719,225906,64
+2777,2777,My Humps,2192,535,326960,65
+2778,2778,"Sitting, Waiting, Wishing",2193,534,183720,63
+2779,2779,The Bidding,2167,1658,160613,67
+2780,2780,Welcome Home,2194,1669,374973,65
+2781,2781,Dirty Harry,2195,594,230426,70
+2782,2782,That's What I Love About Sunday,2196,1617,201493,62
+2783,2783,One Wish,2197,1670,337640,68
+2784,2784,Lonely Day,2198,506,167906,72
+2785,2785,Lose Control (feat. Ciara & Fat Man Scoop),2199,493,226863,67
+2786,2786,Stickwitu,2183,1664,207506,63
+2787,2787,Lonely This Christmas,2200,1671,213160,72
+2788,2788,Be Without You - Kendu Mix,2201,457,246333,62
+2789,2789,The Hand That Feeds,2202,425,211680,63
+2790,2790,Come Out And Play (Keep ‘Em Separated),2203,459,197800,69
+2791,2791,Cupid's Chokehold / Breakfast in America,2204,1672,243773,69
+2792,2792,Ridin',2205,1673,303053,71
+2793,2793,Grind With Me,2206,1674,237733,66
+2794,2794,Dixieland Delight - Single Edit,2207,378,236426,62
+2795,2795,"Stay Fly (feat. Young Buck, Eightball & MJG)",2208,1558,236600,63
+2796,2796,Shut Me Up,2209,1548,168533,62
+2797,2797,Ms. New Booty,2210,1675,252653,63
+2798,2798,Breathe (2 AM),2211,1676,279826,66
+2799,2799,Shake It Off,2212,691,232840,61
+2800,2800,Scotty Doesn't Know,2213,1677,175200,70
+2801,2801,International Harvester,2214,1617,228653,66
+2802,2802,It's Goin' Down (feat. Nitti),2215,1678,241840,66
+2803,2803,Through Glass,2216,1593,282946,73
+2804,2804,My Wish,2217,544,248280,65
+2805,2805,Pain,2218,560,202973,67
+2806,2806,Prayer Of The Refugee,2219,1679,199386,65
+2807,2807,Back To Black,2220,1680,240440,72
+2808,2808,My Love (feat. T.I.),2221,578,276160,71
+2809,2809,Caribou Lou,2222,531,271813,64
+2810,2810,My Curse,2223,1656,244773,69
+2811,2811,The Pot,2224,455,381946,69
+2812,2812,God's Gonna Cut You Down,2225,529,158573,64
+2813,2813,Hustlin',2226,643,254093,68
+2814,2814,Smile,2227,1681,196893,63
+2815,2815,"Steady, As She Goes",2228,1682,215266,70
+2816,2816,Teardrops On My Guitar - Radio Single Remix,2229,1683,203040,64
+2817,2817,Joker And The Thief,2230,1684,280466,67
+2818,2818,The Cult of Dionysus,2231,1685,187385,68
+2819,2819,Would You Go With Me,2232,1619,228186,64
+2820,2820,Stay,2233,1686,284426,64
+2821,2821,Mama,2234,571,279026,68
+2822,2822,Supermassive Black Hole,2235,1687,212439,74
+2823,2823,Heartbeats,2236,1688,161680,64
+2824,2824,Shortie Like Mine (feat. Chris Brown & Johntá Austin),2237,1689,268066,67
+2825,2825,This Is Halloween,2238,1690,196560,65
+2826,2826,Give It Away,2239,569,209320,63
+2827,2827,Through the Fire and Flames,2240,1691,441560,63
+2828,2828,All Around Me,2241,1692,198506,63
+2829,2829,Picture To Burn,2229,1683,173066,63
+2830,2830,I Can't Decide,2242,1693,166573,65
+2831,2831,Sweet Pea,2243,1694,129626,67
+2832,2832,Lazy Eye,2244,1695,354360,66
+2833,2833,Luckiest Man,2245,1696,233666,64
+2834,2834,Rehab,2220,1680,213760,68
+2835,2835,What You Know,2246,591,274333,64
+2836,2836,When The Sun Goes Down,2247,612,202133,62
+2837,2837,London Bridge,2248,397,241306,63
+2838,2838,Dead!,2234,571,195520,67
+2839,2839,SOS,2249,721,238920,70
+2840,2840,You Know I'm No Good,2220,1680,256946,67
+2841,2841,I Don't Love You,2234,571,238680,70
+2842,2842,Blow the Whistle,2250,424,163133,63
+2843,2843,Set It Off,2251,1697,284586,62
+2844,2844,Breath,2252,554,218466,64
+2845,2845,The Funeral,2253,1698,322173,70
+2846,2846,Los Infieles,2254,1606,257186,71
+2847,2847,Tim McGraw,2229,1683,232106,62
+2848,2848,Tears Don't Fall,2255,1699,348386,61
+2849,2849,Naive,2256,1700,203506,61
+2850,2850,California Love - Original Version,2257,596,284480,66
+2851,2851,Bleed It Out,2258,626,166373,73
+2852,2852,Gravity,2259,1701,232760,71
+2853,2853,That's What You Get,2260,572,220480,65
+2854,2854,Good Morning,2261,1668,195093,70
+2855,2855,"Welcome Home, Son",2262,1702,287634,72
+2856,2856,Cyclone - Main,2263,1703,221797,64
+2857,2857,Irreplaceable,2264,695,227853,72
+2858,2858,I Wish It Could Be Christmas Everyday,2265,1704,278946,77
+2859,2859,With You,2266,1705,252120,72
+2860,2860,The Stable Song,2267,1706,360933,67
+2861,2861,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",2268,1680,233733,65
+2862,2862,Hypnotized (feat. Akon),2269,1707,188493,68
+2863,2863,crushcrushcrush,2260,572,189373,64
+2864,2864,Gimme More,2270,527,251240,74
+2865,2865,Young Folks,2271,1708,279026,63
+2866,2866,Don't Stop The Music,2272,721,267080,63
+2867,2867,Real Muthaphuckkin' G's,2273,1288,332733,69
+2868,2868,Kiss Kiss,2266,1705,250666,70
+2869,2869,Southside Of Heaven,2274,1709,379160,64
+2870,2870,This Christmas,2275,1705,197560,66
+2871,2871,"Flightless Bird, American Mouth",2276,1710,241917,69
+2872,2872,Icky Thump,2277,1567,254533,67
+2873,2873,Psycho,2278,1566,210653,64
+2874,2874,Hang Me Up To Dry,2279,1711,218786,63
+2875,2875,Jamie All Over,2280,1712,216000,65
+2876,2876,How Do I Breathe,2281,1713,216893,70
+2877,2877,Bed,2282,1714,275106,66
+2878,2878,Take You Down,2266,1705,245933,69
+2879,2879,Hypnotize - 2007 Remaster,2283,549,230000,69
+2880,2880,Champion,2261,1668,167600,66
+2881,2881,Int'l Players Anthem (I Choose You) (feat. OutKast),2284,1715,259040,63
+2882,2882,Gunpowder & Lead,2285,1716,191693,62
+2883,2883,You're Gonna Miss This,2286,1457,224960,63
+2884,2884,Shawty (feat. T Pain),2269,1707,255413,63
+2885,2885,Iris,2287,416,289906,74
+2886,2886,Unwell - 2007 Remaster,2288,1456,237266,62
+2887,2887,1234,2289,1717,183666,61
+2888,2888,Lip Gloss,2290,1718,219773,63
+2889,2889,Shawty Is Da Shit,2291,1719,262773,63
+2890,2890,Everything I Am,2261,1668,227893,65
+2891,2891,Afterlife,2292,547,352426,69
+2892,2892,Por Tu Amor - Duranguense,2293,1720,199653,65
+2893,2893,Big Poppa - 2007 Remaster,2283,549,249866,68
+2894,2894,I'll Take You There,2294,960,196826,66
+2895,2895,Superstar (feat. Matthew Santos),2295,1721,289000,66
+2896,2896,Higher Love - Single Version,2296,1135,252253,62
+2897,2897,Sunrise,2274,1709,285826,61
+2898,2898,2am,2297,1613,299600,60
+2899,2899,"This Ain't A Scene, It's An Arms Race",2298,608,212040,68
+2900,2900,Lollipop,2299,1722,299333,69
+2901,2901,Sexy Can I,2300,1670,204040,68
+2902,2902,Hot N Cold,2301,623,220226,66
+2903,2903,Mrs. Officer,2299,1722,286906,66
+2904,2904,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",2302,589,263573,74
+2905,2905,Undead,2303,1723,265053,66
+2906,2906,Ghosting,2304,1724,285986,69
+2907,2907,Indestructible,2305,542,278026,71
+2908,2908,Breakeven,2306,1725,261426,72
+2909,2909,It Wasn't Me,2307,1446,227546,65
+2910,2910,Burn It to the Ground,2308,491,212346,71
+2911,2911,Don't Stop The Music,2309,721,267080,77
+2912,2912,Wrecking Ball,2304,1724,194320,69
+2913,2913,Second Chance,2310,562,222066,67
+2914,2914,Paparazzi,2311,671,208306,66
+2915,2915,Right Now (Na Na Na),2312,545,240746,66
+2916,2916,Burnin' Up,2313,576,175093,69
+2917,2917,When I Grow Up,2314,1664,245680,72
+2918,2918,If I Were a Boy,2315,695,249146,68
+2919,2919,Rawnald Gregory Erickson the Second,2316,1726,173693,66
+2920,2920,Nine in the Afternoon - Single Mix,2317,641,191560,64
+2921,2921,Dead And Gone,2318,591,299746,69
+2922,2922,People Are Crazy,2319,1727,231360,65
+2923,2923,Sound of Madness,2310,562,233986,66
+2924,2924,Blame It,2320,1728,289746,65
+2925,2925,Circus,2321,527,192360,71
+2926,2926,White Winter Hymnal,2322,1729,147026,65
+2927,2927,Love Lockdown,2323,1668,270306,68
+2928,2928,Love in This Club,2324,620,259720,68
+2929,2929,Whatever It Is,2325,573,208213,64
+2930,2930,Fall For You,2326,1730,185600,62
+2931,2931,Ice Ice Baby,2327,1317,254466,70
+2932,2932,High Cost Of Living,2328,1731,345120,63
+2933,2933,Still Counting,2329,1732,261813,72
+2934,2934,Leavin',2330,1733,216880,65
+2935,2935,Pocketful of Sunshine,2331,1734,202906,63
+2936,2936,Crimewave,2332,1735,258453,67
+2937,2937,Amazing,2323,1668,238333,66
+2938,2938,Everywhere I Go,2303,1723,210466,64
+2939,2939,Savior,2333,1679,242280,74
+2940,2940,Psychosocial,2334,510,283400,71
+2941,2941,Crush,2335,1736,213520,70
+2942,2942,Re: Stacks,2336,605,401413,65
+2943,2943,Halo,2315,695,261640,65
+2944,2944,Mad,2337,574,254533,62
+2945,2945,Last Christmas,2338,1683,208253,65
+2946,2946,"I Can't Help Myself (Sugar Pie, Honey Bunch)",2339,264,163680,66
+2947,2947,Wobble,2340,1737,321986,63
+2948,2948,It's Not My Time,2341,1738,241960,62
+2949,2949,Human,2342,561,245373,74
+2950,2950,Telephone,2343,671,220626,68
+2951,2951,Two Weeks,2344,1739,243160,70
+2952,2952,The Only Exception,2345,572,267653,70
+2953,2953,Knock You Down,2346,1740,326186,65
+2954,2954,Uprising,2347,1687,304840,76
+2955,2955,Sweet Disposition,2348,1741,230800,64
+2956,2956,The House That Built Me,2349,1716,236626,66
+2957,2957,Total Eclipse of the Heart,2350,219,267360,78
+2958,2958,Day 'N' Nite (nightmare),2351,655,221240,65
+2959,2959,Sexy Bitch (feat. Akon),2352,553,195853,64
+2960,2960,Dile al Amor,2353,1606,229360,73
+2961,2961,Right Round,2354,1742,204640,73
+2962,2962,Daylight,2355,1743,171333,67
+2963,2963,Like or Like Like,2356,1744,158653,64
+2964,2964,Sleepyhead,2357,1745,174760,66
+2965,2965,Stuck In The Middle With You,2358,1746,203893,71
+2966,2966,Imma Be,2359,535,257560,64
+2967,2967,Pursuit Of Happiness (Nightmare),2351,655,295293,64
+2968,2968,Rude Boy,2360,721,222920,74
+2969,2969,Feel It All Around,2361,1747,192080,66
+2970,2970,Forever,2362,1748,357706,70
+2971,2971,Smoke A Little Smoke,2363,581,191333,64
+2972,2972,Say Aah (feat. Fabolous),2364,568,207546,63
+2973,2973,Lisztomania,2365,1559,241640,64
+2974,2974,Awake and Alive,2366,494,209493,69
+2975,2975,Rain Is A Good Thing,2367,610,176160,65
+2976,2976,Boom Boom Pow,2359,535,251440,64
+2977,2977,He Could Be the One,2368,1749,180800,67
+2978,2978,Drop The World,2369,1722,229226,63
+2979,2979,Gettin' You Home,2370,1750,212133,63
+2980,2980,One Time,2371,1751,215866,72
+2981,2981,Ignorance,2345,572,218626,67
+2982,2982,El Malo,2353,1606,238720,72
+2983,2983,Big Black Car,2372,1706,217466,67
+2984,2984,Beautiful,2362,1544,392826,71
+2985,2985,Good Girls Go Bad (feat. Leighton Meester),2373,1752,196413,66
+2986,2986,Beach Baby,2374,605,160093,68
+2987,2987,Meet Me Halfway,2359,535,284373,63
+2988,2988,She Wolf,2375,515,188866,69
+2989,2989,I And Love And You,2376,1753,300840,64
+2990,2990,Shots,2377,1754,222133,68
+2991,2991,Do You Remember,2378,1755,210306,69
+2992,2992,Never Say Never,2379,1657,256613,69
+2993,2993,Hotel Room Service,2380,565,237640,70
+2994,2994,One Less Lonely Girl,2371,1751,229106,69
+2995,2995,Beggin',2381,1756,218706,62
+2996,2996,Lemonade,2382,681,246013,61
+2997,2997,Brand New Man,2383,495,179573,63
+2998,2998,I'm Goin In,2384,1748,225306,62
+2999,2999,Do I,2367,610,239413,62
+3000,3000,The Lazy Song,2385,678,190213,71
+3001,3001,Marry Me,2386,503,205453,73
+3002,3002,Monster,2387,1668,378893,72
+3003,3003,Just A Dream,2388,541,237800,74
+3004,3004,Mr. Rager,2389,655,294226,69
+3005,3005,Fuck You,2390,1757,222933,67
+3006,3006,Knock Knock,2391,1758,202806,70
+3007,3007,We R Who We R,2392,1759,204760,72
+3008,3008,Ridin' Solo,2393,624,215746,65
+3009,3009,Last Friday Night (T.G.I.F.),2394,623,230733,67
+3010,3010,Love Don't Change,2395,630,256866,69
+3011,3011,OMG (feat. will.i.am),2396,620,269493,72
+3012,3012,Nightmare,2397,547,374453,72
+3013,3013,Down On Me,2395,630,228453,71
+3014,3014,Porn Star Dancing,2398,1760,199013,67
+3015,3015,S&M,2399,721,243600,72
+3016,3016,Howlin' for You,2400,1761,191800,66
+3017,3017,Where'd All the Time Go?,2401,1762,234800,68
+3018,3018,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),2402,515,202626,77
+3019,3019,Undercover Martyn,2403,1763,167773,65
+3020,3020,Only Girl (In The World),2399,721,235493,72
+3021,3021,Just Can’t Get Enough,2404,535,219426,74
+3022,3022,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",2405,614,232506,71
+3023,3023,Pretty Girl Rock,2406,1740,243920,67
+3024,3024,Gorgeous,2387,1668,357653,69
+3025,3025,My Chick Bad,2407,555,216933,66
+3026,3026,Farmer's Daughter,2408,1764,207040,65
+3027,3027,Cannibal,2392,1759,194253,71
+3028,3028,Your Love Is My Drug,2409,1759,187133,69
+3029,3029,In My Head,2393,624,199026,64
+3030,3030,Teenage Dream,2394,623,227741,66
+3031,3031,Sarcasm,2410,1765,198080,65
+3032,3032,Break Your Heart,2411,1766,186266,66
+3033,3033,Why Don't We Just Dance,2412,1619,192800,65
+3034,3034,Bottoms Up (feat. Nicki Minaj),2413,568,242013,68
+3035,3035,"I See the Light - From ""Tangled"" / Soundtrack Version",2414,298,224240,70
+3036,3036,Cryin' Like A Bitch!!,2415,1767,201666,67
+3037,3037,Billionaire (feat. Bruno Mars),2416,1768,211160,72
+3038,3038,Over,2417,1748,233560,64
+3039,3039,Cinderella Man,2418,1544,279013,70
+3040,3040,She Won't Be Lonely Long,2419,1417,209253,64
+3041,3041,Back To December,2420,1683,293026,64
+3042,3042,You're Going Down,2421,1769,187346,64
+3043,3043,Long Hot Summer Day,2422,1770,252480,64
+3044,3044,Runaway Baby,2385,678,147746,67
+3045,3045,Mine,2420,1683,230706,64
+3046,3046,No Love,2418,1544,299506,70
+3047,3047,A Warrior's Call,2423,1732,263080,64
+3048,3048,Magic (feat. Rivers Cuomo),2424,504,196133,67
+3049,3049,Boyfriend,2425,1771,201040,64
+3050,3050,A.D.H.D,2426,1772,215509,71
+3051,3051,White Christmas (with Shania Twain),2427,719,216626,68
+3052,3052,Crazy Girl,2428,1773,200706,67
+3053,3053,HYFR (Hell Ya Fucking Right),2429,1748,206626,69
+3054,3054,Not Over You,2430,1611,218520,71
+3055,3055,How To Love,2431,1722,240306,67
+3056,3056,Black and Yellow,2432,705,217666,75
+3057,3057,Wait,2433,1774,343253,67
+3058,3058,Jar of Hearts,2434,1775,246587,74
+3059,3059,What the Hell,2435,1600,220706,74
+3060,3060,The A Team,2436,708,258373,77
+3061,3061,We Found Love,2437,721,215226,75
+3062,3062,Molly,2438,1548,104880,71
+3063,3063,Who Says,2439,1776,195613,75
+3064,3064,Love On Top,2440,695,267413,75
+3065,3065,Titanium (feat. Sia),2441,553,245040,67
+3066,3066,Stronger (What Doesn't Kill You),2442,646,221946,66
+3067,3067,Rivers and Roads,2443,1777,284000,67
+3068,3068,Love You Like A Love Song,2439,1776,188453,77
+3069,3069,Crew Love,2429,1748,208813,70
+3070,3070,Doing It Wrong,2429,1748,265120,69
+3071,3071,Party Rock Anthem,2444,1754,262173,67
+3072,3072,Take A Back Road,2445,1764,209426,67
+3073,3073,Born This Way,2446,671,260253,67
+3074,3074,Mama's Broken Heart,2447,1716,177773,66
+3075,3075,Angel With A Shotgun,2448,1778,221386,66
+3076,3076,Even If It Breaks Your Heart,2428,1773,220520,66
+3077,3077,Ballad Of A Southern Man,2449,1779,220186,65
+3078,3078,It Girl,2450,624,192200,73
+3079,3079,Run the World (Girls),2440,695,236093,73
+3080,3080,God Gave Me You,2451,590,229533,65
+3081,3081,I'm On One,2452,614,296146,67
+3082,3082,Kiss Me,2453,708,280853,73
+3083,3083,You Make Me Feel... (feat. Sabi),2454,1752,215693,69
+3084,3084,She's So Gone,2455,1780,186453,69
+3085,3085,Make Me Proud,2429,1748,219893,67
+3086,3086,Lonely Boy,2456,1761,193653,73
+3087,3087,Tomorrow,2457,1750,220173,64
+3088,3088,Broken Window Serenade,2449,1779,346333,64
+3089,3089,Best Thing I Never Had,2440,695,253746,73
+3090,3090,If You Can't Hang,2458,1781,250240,67
+3091,3091,Old Pine,2459,1782,328506,71
+3092,3092,I Want Crazy - Encore,2460,348,236865,64
+3093,3093,Turn the Lights Off,2461,1658,176626,67
+3094,3094,Red Solo Cup,2462,480,223386,65
+3095,3095,Fast Lane,2463,1783,249560,71
+3096,3096,No Church In The Wild,2464,680,272506,70
+3097,3097,Honey Bee,2451,590,210720,64
+3098,3098,Can't Get Enough,2465,1784,225960,67
+3099,3099,Turning Tables,2466,603,250133,67
+3100,3100,It's Time,2467,659,237986,68
+3101,3101,Somethin' 'Bout A Truck,2468,1785,213826,69
+3102,3102,Swing Lynn,2469,1786,321463,73
+3103,3103,Take a Walk,2470,1745,264493,71
+3104,3104,How to Be a Heartbreaker,2471,1787,221493,67
+3105,3105,Girl on Fire,2472,525,224920,77
+3106,3106,Candy,2473,1788,201053,75
+3107,3107,Wild Ones (feat. Sia),2474,1742,232946,77
+3108,3108,Drive By,2475,503,195973,76
+3109,3109,Backseat Freestyle,2476,1772,212653,67
+3110,3110,Treasure,2477,678,178560,77
+3111,3111,Keep The Wolves Away,2478,1789,275520,68
+3112,3112,All Night Longer,2479,1790,177093,67
+3113,3113,m.A.A.d city,2480,1772,350120,67
+3114,3114,Good Time,2481,1791,205933,76
+3115,3115,I Knew You Were Trouble.,2482,1683,217973,67
+3116,3116,Ayy Ladies (feat. Tyga),2483,1792,211293,69
+3117,3117,Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit),2484,655,373626,75
+3118,3118,Whistle,2474,1742,224653,77
+3119,3119,Swimming Pools (Drank) - Extended Version,2476,1772,313786,66
+3120,3120,Stay,2485,721,240706,68
+3121,3121,"Bitch, Don’t Kill My Vibe",2476,1772,310720,66
+3122,3122,Adorn,2486,607,193146,66
+3123,3123,Ready or Not,2487,1793,200946,73
+3124,3124,The Morning,2488,1794,312426,71
+3125,3125,Hurricane,2487,1793,243986,72
+3126,3126,Battle Scars,2489,1721,250320,71
+3127,3127,Little Drummer Boy,2490,706,255878,69
+3128,3128,Want U Back,2491,1795,214573,66
+3129,3129,Stubborn Love,2492,1796,279000,66
+3130,3130,Stay - Album Version (Edited),2493,721,240706,67
+3131,3131,Rack City,2494,657,203200,66
+3132,3132,"Bitch, Don’t Kill My Vibe",2480,1772,310720,66
+3133,3133,Medicine,2495,1797,258973,66
+3134,3134,Don't You Worry Child - Radio Edit,2496,1798,212862,78
+3135,3135,Courtesy Call,2497,1799,236906,71
+3136,3136,Jingle Bells (feat. The Puppini Sisters),2498,719,159973,76
+3137,3137,Diamonds,2493,721,225146,67
+3138,3138,I Don't Like,2499,1800,293840,66
+3139,3139,The One That Got Away,2500,623,227333,75
+3140,3140,White Walls (feat. ScHoolboy Q & Hollis),2501,1801,220319,72
+3141,3141,On Top Of The World,2502,659,189840,66
+3142,3142,Discord,2503,1802,193776,71
+3143,3143,Ends of the Earth,2504,1803,284146,68
+3144,3144,Round Here,2505,658,215120,65
+3145,3145,Take A Hint,2506,1804,154000,66
+3146,3146,Kiss You,2507,710,182866,75
+3147,3147,Wasted,2508,1805,184213,69
+3148,3148,Feel This Moment (feat. Christina Aguilera),2509,565,229506,73
+3149,3149,One More Night,2510,631,219466,67
+3150,3150,It Won't Stop (feat. Chris Brown) - EP Version,2511,1806,281080,73
+3151,3151,From Time,2512,1748,322160,68
+3152,3152,This Is How We Roll,2513,658,220906,69
+3153,3153,That's My Kind Of Night,2514,610,190186,70
+3154,3154,Love Me,2515,1722,253440,69
+3155,3155,Black Skinhead,2516,1668,188013,74
+3156,3156,Afraid,2517,660,251186,75
+3157,3157,Home,2518,1807,210173,68
+3158,3158,Best Song Ever,2519,710,200106,77
+3159,3159,Heart Attack,2520,609,210840,76
+3160,3160,Come a Little Closer,2521,587,229346,68
+3161,3161,"Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",2522,1808,283693,71
+3162,3162,Wasting All These Tears,2523,1809,215640,67
+3163,3163,The Worst,2524,697,254493,70
+3164,3164,All Me,2525,1748,270866,67
+3165,3165,Strawberry Blond,2526,1810,114277,71
+3166,3166,Thinking out Loud,2527,708,281560,68
+3167,3167,0 To 100 / The Catch Up,2528,1748,275226,72
+3168,3168,Renee,2529,1811,179125,74
+3169,3169,Blondie,2530,1812,194733,70
+3170,3170,Car Radio,2531,621,267720,73
+3171,3171,Wrecking Ball,2532,1813,221360,77
+3172,3172,Impossible,2533,667,209440,79
+3173,3173,How Country Feels,2534,1814,185906,68
+3174,3174,Just What I Am,2535,655,228026,69
+3175,3175,Trumpets,2536,624,217419,66
+3176,3176,Photograph,2527,708,258986,67
+3177,3177,18,2537,1815,157360,70
+3178,3178,Crooked Smile (feat. TLC),2538,1784,278573,69
+3179,3179,Wrong Side of Heaven,2539,602,271000,67
+3180,3180,Brave,2540,1701,220573,72
+3181,3181,"Love Is an Open Door - From ""Frozen""/Soundtrack Version",2541,1816,124733,71
+3182,3182,Team,2542,1817,193058,75
+3183,3183,This Is Gospel,2543,641,187186,71
+3184,3184,Vivir Mi Vida,2544,446,252346,75
+3185,3185,The Monster,2545,1544,250188,76
+3186,3186,My Songs Know What You Did In The Dark (Light Em Up),2546,608,186826,67
+3187,3187,Sad Song (feat. Elena Coats),2547,1818,226330,74
+3188,3188,Merry Go 'Round,2548,598,206893,68
+3189,3189,Dark Horse,2549,623,215672,75
+3190,3190,"Do You Want to Build a Snowman? - From ""Frozen""/Soundtrack Version",2541,1816,206506,70
+3191,3191,Boys 'Round Here (feat. Pistol Annies & Friends),2550,590,288760,67
+3192,3192,crossing field,2551,1819,248946,73
+3193,3193,Box Fan Sound,2552,1820,589971,67
+3194,3194,Hey Brother,2553,1821,255093,77
+3195,3195,Started From the Bottom,2512,1748,174133,66
+3196,3196,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2554,540,248413,77
+3197,3197,Experience,2555,461,315426,76
+3198,3198,Twin Size Mattress,2556,1822,264676,65
+3199,3199,愛して 愛して 愛して,2557,1823,252000,71
+3200,3200,Steal My Girl,2558,710,228133,79
+3201,3201,Amnesia,2559,1824,237247,69
+3202,3202,Only,2560,1825,312026,69
+3203,3203,Gooey,2561,1826,289306,72
+3204,3204,Maps,2562,631,189960,77
+3205,3205,I Mean It (feat. Remo),2563,639,236480,73
+3206,3206,Wolf in Sheep's Clothing (feat. William Beckett),2564,1827,187880,71
+3207,3207,Me and My Kind,2565,1828,156200,68
+3208,3208,Man Of The Year,2566,1829,216013,72
+3209,3209,Somebody To You,2567,1830,182826,68
+3210,3210,Love Yourz,2568,1784,211680,71
+3211,3211,Lovers Rock,2569,1831,213920,70
+3212,3212,Workin' on,2570,1832,224699,70
+3213,3213,Outside (feat. Ellie Goulding),2571,613,227266,79
+3214,3214,Animals,2562,631,231013,77
+3215,3215,"Honey, I'm Good.",2572,1833,199263,72
+3216,3216,Drunk On A Plane,2573,1834,254466,68
+3217,3217,Habits (Stay High),2574,1835,209160,69
+3218,3218,Break Up In A Small Town,2575,1836,229880,69
+3219,3219,Girl Crush,2576,1837,193320,69
+3220,3220,Cherry Wine - Live,2577,1838,240146,68
+3221,3221,Rude,2578,1839,224840,79
+3222,3222,Left Hand Free,2579,1840,173630,68
+3223,3223,Runaway,2580,1841,248826,69
+3224,3224,Love Me Harder,2581,1842,236133,75
+3225,3225,Feeling Myself,2560,1825,237840,67
+3226,3226,Post to Be (feat. Chris Brown & Jhene Aiko),2582,1843,226580,72
+3227,3227,A Sky Full of Stars,2583,632,267866,78
+3228,3228,A Tale of 2 Citiez,2568,1784,269786,69
+3229,3229,Apparently,2568,1784,293040,69
+3230,3230,Dancin (feat. Luvli) - Krono Remix,2584,1844,198053,81
+3231,3231,Problem,2581,1842,193920,75
+3232,3232,Loyal (feat. Lil Wayne & Tyga),2585,1705,264946,75
+3233,3233,My Demons,2586,1845,288036,75
+3234,3234,I Love You So,2587,1846,160253,70
+3235,3235,Propuesta Indecente,2588,551,235133,77
+3236,3236,I Lived,2589,604,234546,67
+3237,3237,Not About Angels,2590,1847,189475,75
+3238,3238,Take Me to Church,2591,1838,241693,68
+3239,3239,Resonance,2592,1848,212881,71
+3240,3240,Fight Night,2593,644,216247,68
+3241,3241,Style,2594,1683,231000,67
+3242,3242,Chinese New Year,2595,1811,160000,73
+3243,3243,Fancy,2596,1849,199938,68
+3244,3244,Talking Body,2597,1835,238426,66
+3245,3245,Break Free,2581,1842,214840,75
+3246,3246,Jealous,2598,1850,287693,75
+3247,3247,Make You Miss Me,2575,1836,225693,67
+3248,3248,First,2599,1711,200360,68
+3249,3249,Goodbye To A World,2600,1851,328506,71
+3250,3250,You'll Be Back,2601,1852,208321,74
+3251,3251,My Shot,2601,661,333154,74
+3252,3252,Sorry,2602,1751,200786,82
+3253,3253,No Flockin',2603,692,165290,71
+3254,3254,Wait for It,2601,664,193749,73
+3255,3255,Runnin' Thru The 7th With My Woadies,2604,709,205766,74
+3256,3256,Helpless,2601,1853,249770,73
+3257,3257,These Days,2605,1854,268565,73
+3258,3258,This Could Be Us,2606,1855,206306,74
+3259,3259,Alright,2607,1772,219333,74
+3260,3260,Let It Happen,2608,625,467586,76
+3261,3261,Drag Me Down,2609,710,192120,81
+3262,3262,Sleeping on the Blacktop,2610,1856,192480,71
+3263,3263,I Found,2611,1857,273000,76
+3264,3264,Planez,2612,630,240320,73
+3265,3265,Trouble,2613,587,225973,74
+3266,3266,My House,2614,1742,192190,76
+3267,3267,C U Girl,2615,1858,129697,72
+3268,3268,"Aaron Burr, Sir",2601,661,156630,72
+3269,3269,Don't Tell 'Em,2612,630,266840,75
+3270,3270,Olivia,2609,710,177973,78
+3271,3271,"New Person, Same Old Mistakes",2608,625,363240,74
+3272,3272,Right My Wrongs,2616,686,249320,72
+3273,3273,Jumpman,2617,1748,205879,74
+3274,3274,Stitches,2618,1859,206880,73
+3275,3275,"Me, Myself & I",2619,639,251466,76
+3276,3276,Slow Motion,2620,568,197854,73
+3277,3277,Lay Me Down,2621,694,219535,76
+3278,3278,Paralyzed,2622,696,270453,75
+3279,3279,Guns and Ships,2601,664,127578,72
+3280,3280,Earned It (Fifty Shades Of Grey),2623,1794,277680,71
+3281,3281,Complicated,2624,1860,189000,77
+3282,3282,Parachute,2625,673,253200,70
+3283,3283,Already,2626,692,241658,69
+3284,3284,River,2627,1861,240200,74
+3285,3285,That's Christmas to Me,2628,706,182173,72
+3286,3286,Chandelier,2629,635,216120,70
+3287,3287,King Kunta,2607,1772,234693,74
+3288,3288,I'm Comin' Over,2630,1750,197280,69
+3289,3289,Bitch Better Have My Money,2631,721,219305,76
+3290,3290,Non-Stop,2601,664,385438,71
+3291,3291,Lean On,2632,1862,176561,72
+3292,3292,Gasoline,2633,1863,199593,73
+3293,3293,Acquainted,2623,1794,348853,73
+3294,3294,Renegades,2634,1864,195200,76
+3295,3295,Right Hand Man,2601,661,321696,71
+3296,3296,Immortals,2635,608,189386,75
+3297,3297,7AM,2636,1865,219712,69
+3298,3298,What Do You Mean?,2602,1751,205680,78
+3299,3299,Humble And Kind,2637,521,259266,69
+3300,3300,Ultralight Beam,2638,1668,320680,74
+3301,3301,Dirt On My Boots,2639,1866,201893,72
+3302,3302,Low Life (feat. The Weeknd),2640,1867,313546,75
+3303,3303,Come and See Me (feat. Drake),2641,650,235477,74
+3304,3304,One Dance,2642,1748,173986,81
+3305,3305,Kids,2643,1812,269142,74
+3306,3306,Jungle,2644,1868,174192,73
+3307,3307,All Time Low,2645,1869,217603,70
+3308,3308,Lover Is a Day,2646,1870,456000,74
+3309,3309,Grown-Up Christmas List,2647,1871,211453,75
+3310,3310,Devil Eyes,2648,1872,131271,81
+3311,3311,Corduroy Dreams,2649,1873,206974,75
+3312,3312,PRBLMS,2650,1874,246773,74
+3313,3313,G.O.A.T.,2651,1875,184905,72
+3314,3314,24K Magic,2652,678,225983,78
+3315,3315,When We Were Young,2653,603,290906,73
+3316,3316,iSpy (feat. Lil Yachty),2654,1876,253106,74
+3317,3317,H.O.L.Y.,2655,658,194186,71
+3318,3318,Into You,2656,1842,244453,76
+3319,3319,You're Welcome,2657,1877,163893,73
+3320,3320,Neighbors,2658,1784,216520,73
+3321,3321,Dang! (feat. Anderson .Paak),2659,1758,305350,75
+3322,3322,Waves,2638,1668,181573,72
+3323,3323,Formation,2660,695,206080,75
+3324,3324,Black Beatles,2661,1855,291893,76
+3325,3325,Homage,2662,1878,177493,74
+3326,3326,Six Feet Under,2663,1879,189613,77
+3327,3327,X (feat. Future),2664,1880,258880,73
+3328,3328,Dangerous Woman,2656,1842,235946,75
+3329,3329,I Feel It Coming,2665,1794,269186,80
+3330,3330,No Problem (feat. Lil Wayne & 2 Chainz),2666,693,304606,71
+3331,3331,You Was Right,2667,1865,163944,71
+3332,3332,Starving,2668,1881,181880,77
+3333,3333,Cake By The Ocean,2669,1882,219146,79
+3334,3334,Really Really,2670,640,232093,70
+3335,3335,sex (catching feelings),2671,1883,218808,74
+3336,3336,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",2672,1722,243490,77
+3337,3337,Work from Home (feat. Ty Dolla $ign),2673,1884,214480,78
+3338,3338,PILLOWTALK,2674,1885,202746,79
+3339,3339,Side To Side,2656,1842,226160,75
+3340,3340,Death of a Bachelor,2675,641,203506,72
+3341,3341,Way down We Go,2676,1886,213706,79
+3342,3342,Young,2677,1887,189160,74
+3343,3343,hate u love u,2678,1860,175466,78
+3344,3344,Swang,2661,1855,208120,73
+3345,3345,Already Gone,2679,1888,243007,75
+3346,3346,Don't Let Me Down,2680,1889,208373,80
+3347,3347,Hotline Bling,2642,1748,267066,77
+3348,3348,I Took A Pill In Ibiza - Seeb Remix,2681,1890,197933,72
+3349,3349,Morning,2682,1891,206080,71
+3350,3350,Bank Account,2683,1880,220306,79
+3351,3351,Sunflower,2684,1873,252230,78
+3352,3352,Flaming Hot Cheetos,2685,711,123884,77
+3353,3353,do re mi,2686,1892,212027,77
+3354,3354,DNA.,2687,1772,185946,78
+3355,3355,Caroline,2688,1893,209640,76
+3356,3356,Loving Is Easy,2689,1873,155720,78
+3357,3357,Buttercup,2690,1894,208026,80
+3358,3358,Falling for U,2691,1895,124000,78
+3359,3359,Passionfruit,2692,1748,298940,79
+3360,3360,Crew (feat. Brent Faiyaz & Shy Glizzy),2693,1896,176702,76
+3361,3361,Broken Clocks,2694,683,231253,75
+3362,3362,Meant to Be (feat. Florida Georgia Line),2695,1897,163870,78
+3363,3363,Sky Walker (feat. Travis Scott),2696,607,259333,75
+3364,3364,I Don't Wanna Do This Anymore,2697,1898,87560,77
+3365,3365,Happier,2698,708,207520,82
+3366,3366,Roll In Peace (feat. XXXTENTACION),2699,692,213132,76
+3367,3367,Sweet Creature,2700,1899,224866,80
+3368,3368,Sorry Not Sorry,2701,609,203760,79
+3369,3369,Coaster,2702,1900,199120,76
+3370,3370,Too Good At Goodbyes,2703,694,201000,75
+3371,3371,Body Like A Back Road,2704,1836,165386,74
+3372,3372,Mask Off,2705,1867,204600,81
+3373,3373,Best Part (feat. Daniel Caesar),2706,627,209400,78
+3374,3374,Lust,2707,1901,156000,76
+3375,3375,Best Part (feat. H.E.R.),2708,1902,209831,79
+3376,3376,Something Just Like This,2709,1889,247160,83
+3377,3377,The Weekend,2694,683,272186,75
+3378,3378,Selfish,2710,1903,245604,74
+3379,3379,Unforgettable,2711,583,233901,80
+3380,3380,Shape of You,2698,708,233712,85
+3381,3381,BLEACH,2712,1904,273151,75
+3382,3382,Sativa,2713,697,276960,75
+3383,3383,First Day Out,2714,1905,254693,72
+3384,3384,Carry On,2715,1898,129720,78
+3385,3385,wokeuplikethis*,2716,685,235535,75
+3386,3386,It's A Vibe,2717,689,210200,75
+3387,3387,Love Scars,2718,1906,143969,74
+3388,3388,Easily,2719,1907,210240,76
+3389,3389,Revenge,2715,1898,120026,78
+3390,3390,Magnolia,2716,685,181812,76
+3391,3391,Whatever It Takes,2720,659,201240,81
+3392,3392,Treat You Better,2721,1859,187973,83
+3393,3393,Someone To You,2722,1908,219800,80
+3394,3394,Apocalypse,2723,1909,290146,70
+3395,3395,Weak,2724,654,201159,70
+3396,3396,Location,2716,685,168783,74
+3397,3397,The Weekend - Funk Wav Remix,2725,683,171805,77
+3398,3398,Heart Mind,2726,692,203840,76
+3399,3399,Bad and Boujee (feat. Lil Uzi Vert),2727,644,343150,77
+3400,3400,Hide (feat. Seezyn),2728,1910,205800,78
+3401,3401,BUTTERFLY EFFECT,2729,1911,190557,82
+3402,3402,Psycho (feat. Ty Dolla $ign),2730,1912,221440,81
+3403,3403,Noticed,2731,1913,165000,80
+3404,3404,Better,2732,1900,229320,77
+3405,3405,ZEZE (feat. Travis Scott & Offset),2733,692,228759,80
+3406,3406,Nuketown (feat. Juice WRLD),2734,1914,166400,77
+3407,3407,Fine China,2735,1867,141586,77
+3408,3408,Dead To Me,2736,1915,199505,79
+3409,3409,Call Out My Name,2737,1794,228373,82
+3410,3410,Let Me Down Slowly,2738,1916,169353,85
+3411,3411,The Middle,2739,533,184732,82
+3412,3412,I Like It,2740,715,253390,82
+3413,3413,You Are The Reason,2741,1917,204326,84
+3414,3414,Out Of Love,2742,1918,227693,80
+3415,3415,Without Me,2743,1863,201660,83
+3416,3416,Nonstop,2744,1748,238614,79
+3417,3417,Used To,2745,1910,176443,76
+3418,3418,Soft Brown Noise,2746,1919,160002,80
+3419,3419,Youngblood,2747,1824,203417,82
+3420,3420,comethru,2748,1920,181613,82
+3421,3421,Girls Need Love (with Drake) - Remix,2749,1921,222374,78
+3422,3422,Money,2750,715,183527,78
+3423,3423,FML,2751,543,223000,79
+3424,3424,REEL IT IN,2752,1893,121346,78
+3425,3425,Mo Bamba,2753,1922,183906,78
+3426,3426,Candy Paint,2730,1912,227533,78
+3427,3427,Cozy Little Christmas,2754,623,182520,80
+3428,3428,I'll Be Fine,2745,1910,244193,76
+3429,3429,STARGAZING,2729,1911,270714,80
+3430,3430,1950,2755,1923,225133,78
+3431,3431,Shallow,2756,671,215733,86
+3432,3432,Dancing On My Own,2741,1917,260285,82
+3433,3433,Nice For What,2744,1748,210746,78
+3434,3434,Candles,2745,1910,183703,76
+3435,3435,CAN'T SAY,2729,1911,198408,79
+3436,3436,The Way I Talk,2757,1924,208280,73
+3437,3437,Up Down (feat. Florida Georgia Line),2757,1924,197253,73
+3438,3438,UCLA,2758,1925,192000,75
+3439,3439,Si Estuviésemos Juntos,2759,1926,169247,83
+3440,3440,Be Alright,2760,1927,196373,83
+3441,3441,all the kids are depressed,2761,1920,169973,79
+3442,3442,You Make It Easy,2762,619,196800,72
+3443,3443,All The Stars (with SZA),2763,1772,232186,79
+3444,3444,Pretty Little Fears (feat. J. Cole),2764,1874,240341,76
+3445,3445,Look Back at It,2765,1868,179449,77
+3446,3446,Burn The House Down,2766,654,212373,72
+3447,3447,Stay,2730,1912,204426,77
+3448,3448,Prom Queen,2767,1928,136562,76
+3449,3449,You Say,2768,1929,274693,78
+3450,3450,Like It's Christmas,2769,576,200880,83
+3451,3451,OUT WEST (feat. Young Thug),2770,1930,157712,84
+3452,3452,ily (i love you baby) (feat. Emilee),2771,1931,176546,88
+3453,3453,Beer Never Broke My Heart,2772,1932,186733,78
+3454,3454,you were good to me,2773,1920,219146,83
+3455,3455,I Think I'm OKAY (with YUNGBLUD & Travis Barker),2774,1933,169397,81
+3456,3456,Suge,2775,1934,163320,79
+3457,3457,i love you,2776,1879,291796,83
+3458,3458,"thank u, next",2777,1842,207320,85
+3459,3459,One Man Band,2778,1935,186240,77
+3460,3460,The Bones,2779,563,197293,78
+3461,3461,Like That (feat. Gucci Mane),2780,690,163173,82
+3462,3462,ORANGE SODA,2781,1936,129882,79
+3463,3463,"One Beer (HARDY feat. Lauren Alaina, Devin Dawson)",2782,1937,173173,76
+3464,3464,Bruises,2783,1938,220492,84
+3465,3465,emotions,2784,726,131213,81
+3466,3466,Graduation (with Juice WRLD),2785,628,177847,80
+3467,3467,LA CANCIÓN,2786,1939,242573,85
+3468,3468,Let Me Know (I Wonder Why Freestyle),2787,1910,215380,79
+3469,3469,Before You Go,2788,1938,215106,86
+3470,3470,It's You,2789,1940,212606,85
+3471,3471,Sunflower - Spider-Man: Into the Spider-Verse,2790,1912,157560,83
+3472,3472,Don't Start Now,2791,713,183290,86
+3473,3473,Suicidal,2792,1941,222997,81
+3474,3474,This City,2793,1942,194853,84
+3475,3475,Heart On Ice,2794,725,159669,78
+3476,3476,Goodbyes (feat. Young Thug),2790,1912,174853,82
+3477,3477,Christmas Tree Farm,2795,1683,228026,81
+3478,3478,Hate Me (with Juice WRLD),2796,1943,186223,81
+3479,3479,feel something,2797,1944,180161,82
+3480,3480,gone girl,2798,726,136568,79
+3481,3481,Sanguine Paradise,2799,1865,243976,77
+3482,3482,Higher Love,2800,666,228267,83
+3483,3483,This Bar,2801,1924,185733,75
+3484,3484,Take What You Want (feat. Ozzy Osbourne & Travis Scott),2790,1912,229573,79
+3485,3485,CITY OF ANGELS,2802,724,112493,81
+3486,3486,Callaita,2803,1926,250533,83
+3487,3487,"Big, Big Plans",2804,1945,187306,75
+3488,3488,Sucker,2805,576,181026,83
+3489,3489,Tusa,2806,1946,200960,89
+3490,3490,"Crazy Story, Pt. 3",2807,717,191399,75
+3491,3491,Moral of the Story,2808,1947,201083,82
+3492,3492,In My Room,2809,703,133680,79
+3493,3493,VIBEZ,2810,1934,144935,79
+3494,3494,TOES (feat. Lil Baby & Moneybagg Yo),2810,1934,136366,78
+3495,3495,I,2811,1901,181890,77
+3496,3496,Mariposa,2812,1948,210000,83
+3497,3497,Pure Water (with Migos),2813,636,192470,79
+3498,3498,Stuck In A Dream (feat. Gunna),2814,1913,123560,79
+3499,3499,Hold Me While You Wait,2783,1938,205686,82
